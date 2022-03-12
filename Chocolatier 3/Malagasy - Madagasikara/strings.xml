@@ -1855,19 +1855,19 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">dairy</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Dairy</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ronono</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">fruit</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Fruits</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Voankazo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">nut</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Nuts</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Voanjo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">flavor</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Flavors</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Tsirony</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">allspice</Data></Cell>
@@ -1875,7 +1875,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">almond</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Almonds</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Amygdala</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">amaretto</Data></Cell>
@@ -1883,19 +1883,19 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">anise</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Anise</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Anis</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">bal_cacao</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Balinese Cacao</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kakao Indoneziana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">bal_coffee</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Balinese Coffee</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kafe Indoneziana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">bel_cacao</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Honduran Cacao</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kakao Honduras</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">blueberry</Data></Cell>
@@ -1903,27 +1903,27 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">bog_cacao</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Colombian Cacao</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kakao Kolombiana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">bog_coffee</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Colombian Coffee</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kafe Kolombiana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">butter</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Butter</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Dibera</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">cacao</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Cacao</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kakao</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">caramel</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Caramel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Karamela</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">cardamom</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Cardamom Pods</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kardamôma</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">cashew</Data></Cell>
@@ -1931,23 +1931,23 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">cherry</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Bing Cherries</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Serizy</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">cinnamon</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Cinnamon</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Havozomanitra</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">clove</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Cloves</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Jirofo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">coconut</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Coconuts</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Voaniho</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">coffee</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Coffee</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kafe</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">cream</Data></Cell>
@@ -1959,27 +1959,27 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">date</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Dates</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Daty</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">dou_cacao</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Doualan Cacao</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kakao Kameroney</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">espresso</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Espresso Beans</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Espresso Tsaramaso</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">ginger</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Ginger</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Sakamalaho</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">grand_marnier</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Orange Liqueur</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Voasary Liqueur</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">hav_coffee</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Cuban Coffee</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kafe Kiobàna</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">hazelnut</Data></Cell>
@@ -1987,47 +1987,47 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">honey</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Honey</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Tantely</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">kahlua</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Coffee Liqueur</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kafe Liqueur</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">kon_coffee</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Kona Coffee</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kona Kafe</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">lemon</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Lemons</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Voasarimakirana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">lim_cacao</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Peruvian Cacao</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kakao Peroviana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">lime</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Wild Limes</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Sokay Dia</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">macadamia</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Macadamia Nuts</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Macadamia Voanjo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">mango</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Mango</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Manga</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">maple</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Maple Syrup</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Sirop Maple</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">milk</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Milk</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ronono</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">mint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Mint</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Solila</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">nutmeg</Data></Cell>
@@ -2035,11 +2035,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">orange</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Oranges</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Voasary</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">peanut</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Peanuts</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Voanjo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">pecan</Data></Cell>
@@ -2047,7 +2047,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">pepper</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Cayenne Peppers</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Cayenne Dipoavatra</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">pistachio</Data></Cell>
@@ -2055,51 +2055,51 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">powder</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Truffle Powder</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Vovoka Truffle</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">pumpkin</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Pumpkins</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Voatavo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">raspberry</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Raspberries</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Voaroy</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">rose</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Candied Rose Petals</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Petal Raozy Vatomamy</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">saffron</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Saffron</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Safrona</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">salt</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Sea Salt</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Sira an-Dranomasina</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">sesame</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Sesame Seeds</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Sesame Voa</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">strawberry</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Strawberries</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Frezy</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">sugar</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Sugar</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Siramamy</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">tan_coffee</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Moroccan Coffee</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kafe Maraokana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">tea</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Black Tea</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Dite Mainty</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">vanilla</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Vanilla</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lavanila</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">wasabi</Data></Cell>
@@ -2107,23 +2107,23 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">whipped_cream</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Whipped Cream</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Nokaravasy Crème</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">whiskey</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Whiskey</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Whisky</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">ugr_generic</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Your Latest Creation</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ny Famoronanao Farany</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">bar</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Bars</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Bara</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">infusion</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Infusions</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fanafody</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">truffle</Data></Cell>
@@ -2135,15 +2135,15 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">beverage</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Coffees</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kafe</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">blend</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Coffee Blends</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mifangaro Kafe</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">user</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Creations</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Famoronana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">b01</Data></Cell>
