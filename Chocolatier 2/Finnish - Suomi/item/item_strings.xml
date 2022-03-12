@@ -1,0 +1,979 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Jonathan Blossom</LastAuthor>
+  <Created>2006-09-28T01:58:38Z</Created>
+  <LastSaved>2007-10-16T18:34:20Z</LastSaved>
+  <Version>11.8132</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <DownloadComponents/>
+  <LocationOfComponents HRef="file:///D:\"/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>1560</WindowHeight>
+  <WindowWidth>8850</WindowWidth>
+  <WindowTopX>-15</WindowTopX>
+  <WindowTopY>4650</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21">
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s27">
+   <Font ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="strings">
+  <Names>
+   <NamedRange ss:Name="sbvsothr" ss:RefersTo="=strings!#REF!"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="219" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s21">
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="173.25"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="590.25"/>
+   <Column ss:Index="4" ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="94.5"/>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx INGREDIENTS xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sugar</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">milk</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Milk Solids</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao Beans</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">caramel</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Caramel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">almond</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Almonds</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cashew</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cashew Nuts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">hazelnut</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hazelnuts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">macadamia</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Macadamia Nuts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">pecan</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pecans</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">coconut</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Coconut Shavings</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">raspberry</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Raspberries</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cherry</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bing Cherries</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">lemon</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Lemons</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">orange</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Oranges</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">strawberry</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Strawberries</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">banana</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bananas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">currant</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Currants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">date</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Dates</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">mango</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mangoes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">pumpkin</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fijian Pumpkin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vanilla</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vanilla Beans</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">coffee</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Coffee Beans</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">mint</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mint Leaves</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cinnamon</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cinnamon Sticks</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">anise</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Anise</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ginger</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fresh Ginger</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">pepper</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cayenne Pepper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">saffron</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Saffron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">clove</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cloves</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">tea</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Black Tea</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">lavender</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Lavender Honey</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ma_cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mahajanga Cacao</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sj_cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Costa Rican Cacao</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ca_cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cayenne Cacao</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ab_cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cote D'Ivoirian Cacao</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ja_cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Indonesian Cacao</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ph_cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Philippines Cacao</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">am_cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Amazonian Cacao</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">powder</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Truffle Powder</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cognac</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">French Cognac</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ant</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fire Ants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">plantain</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Amazonian Plantains</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">berry</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Wild Island Berries</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">orchid</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Rare Orchids</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">rose</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Roses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">carnation</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Carnations</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">tulip</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Assorted Tulips</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx INGREDIENT TYPES xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">it_basic</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Basic Ingredients</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">it_cacao</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao Varieties</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">it_nut</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Nuts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">it_fruit</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fruits</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">it_flavor</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Spices and Flavors</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">it_flower</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Flowers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">it_secret</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Secret Ingredients</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx PRODUCT TYPES xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">square</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Squares</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">square_intro</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Basic Chocolates for Eating, Baking and Sharing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">infusion</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Infusions</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">infusion_intro</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">European-style ganache centers in a range of exotic spices, fruits and nuts that simply melt in the mouth.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sauce</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sauces</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sauce_intro</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Classic and specialty chocolate-based sauces.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">praline</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Pralines</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">praline_intro</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">High end chocolate shells covering silky, chewy insides.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">truffle</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Truffles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">truffle_intro</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Classic concoctions, created by blending the finest ingredients with Truffle Powder into creamy, divine balls of pure bliss.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">exotic</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Exotics</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">exotic_intro</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">One-of-a-kind and unexpected ingredients, liqueurs,  and so on, covered in the finest chocolates.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx BASIC SQUARES xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_01</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Basic Squares</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_01_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Simple chocolate squares made with the finest sugar and pure cacao.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_02</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dark Chocolate Squares</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_02_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pure, dark chocolate that simply melts in your mouth.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_03</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Milk Chocolate Squares</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_03_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Rich and creamy milk chocolate squares.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_04</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chocolate Squares w/Almonds</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_04_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">The finest chocolate combined with roasted almond pieces.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_05</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chocolate Squares w/Cashews</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_05_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Uniquely satisfying squares made with the finest cacao, sugar and cashews.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_06</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chocolate Squares w/Coffee</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_06_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Assertive flavors from the fresh coffee surround the palate with these wonderful squares.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_07</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Squares w/Orange</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_07_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A zesty burst of orange flavor gives these squares a most satisfying finish.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_08</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chocolate Squares w/Lemon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_08_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Delectable fresh lemon zing in delightful chocolate squares.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_09</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Squares w/Raspberry</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_09_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Seasonal, fresh raspberries add an unexpected sweetness to these incredible chocolate squares.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_10</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Squares w/Hazelnuts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_10_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Crunchy hazelnut pieces encased in squares of the finest quality.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_11</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Squares w/Pecans</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_11_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fresh, seasonal pecans lend these wonderful squares a unique flavor.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_12</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Covered Ants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_12_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A delicacy direct from the Amazonian rainforest, these delightful morsels will have you reconsidering your feelings about insects.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx INFUSIONS xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_01</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Extra Dark Chocolate Infusions</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_01_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Dark, luxurious chocolate filling inside of a dark chocolate shell.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_02</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dark Chocolate Infusions w/Mint</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_02_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mint-infused centers surrounded by fine dark chocolate make wonderful gifts - or perhaps treat yourself!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_03</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Dark Chocolate Infusions w/Anise</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_03_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fine French anise lends these wonderful infusions a crisp, refreshing aftertaste that lingers on the palate.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_04</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Dark Chocolate Infusions w/Pecans</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_04_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Succulent pecan ganache fills the mid palate in these enchanting infusions.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_05</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Dark Chocolate Infusions w/Raspberry</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_05_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Velvety raspberry filling centered in scrumptious dark chocolate.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_06</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dark Chocolate Infusions w/Plantains</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_06_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A subtle burst of the Amazon within a shell of divine dark chocolate.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_07</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Milk Chocolate Infusions w/Almonds</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_07_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Roasted almonds provide complex, earthy notes inside these satiny-smooth milk chocolate cases.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_08</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Milk Chocolate Infusions w/Cashews</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_08_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Indulgent rich milk chocolate combined with centers of cashew-infused nougat.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_09</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Infusions w/Caramel and Almonds</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_09_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Opulent caramel and roasted almond centers inside chocolate shells make these infusions perfect for any occasion.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_10</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">African Dark Infusions w/Orange </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_10_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao beans from %abidjan% give these chocolates incomparable temper and taste. Fresh orange zest centers complete the symphony of flavors.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_11</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Costa Rican Cacao Infusions w/Hazelnut</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_11_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Exclusive, farm-grown Costa Rican cacao beans are the secret to these luxuriant extravagances.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_12</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cayenne Dark Chocolate Infusions w/Pepper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">i_12_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Carefully selected Cayenne pepper and cacao beans coalesce to create a charged aftertaste and incredible tail.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx SAUCES xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_01</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Super Dark Chocolate Sauce</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_01_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Extremely high cacao content insures intense pleasure with this superior, extra dark chocolate sauce.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_02</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Raspberry Chocolate Sauce</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_02_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Spice up your affair with this unique chocolate sauce, made with fresh, seasonal raspberries.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_03</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cherry Chocolate Sauce</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_03_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">The perfect topping for your ice cream creations - this sauce combines the finest dark chocolate with flavorful fresh cherry essence.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_04</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Coffee Chocolate Sauce</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_04_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Kick desert into high gear with this select sauce that pairs wonderful dark chocolate with fresh roasted coffee beans.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_05</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Saffron Chocolate Sauce</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_05_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Anything but common, this sauce is kissed with saffron. Perfect for when you want to roll out the red carpet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_06</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ginger Chocolate Sauce</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_06_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A feast for the senses, fresh ginger and fine dark chocolate combine to make an extraordinary sauce you won't soon forget.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_07</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Caramel Sauce</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_07_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sugar, milk and fresh caramel comprise the ingredients of this simple, yet delightful, sauce.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_08</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Chocolate Sauce with Currants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_08_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A unique blend of currant and chocolate, this sauce is sure to please.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_09</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ivoirian Chocolate Sauce w/ Plantain Essence</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_09_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">First-rate cacao beans from Cote D'Ivoire combined with the essence of roasted plantains give this sauce an unsurpassed aroma and taste.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_10</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cayenne Dark Chocolate Sauce</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_10_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Thick and rich, without being overly sweet, this extra dark sauce is made with a varietal blend of plantation-grown cacao beans from Cayenne.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_11</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Cayenne Chocolate Pepper Sauce</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_11_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolate sauce with a kick! Fresh Cayenne peppers are the secret weapon behind this enchanting sauce.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_12</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Mahajangan Cacao and Cognac Chocolate Sauce</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="16.5">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">s_12_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Limited stock cacao beans from Madagascar, mingled with a dash of French cognac, lend this sauce an extraordinarily subtle aroma.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx PRALINES xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_01</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Extra Dark Pralines</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_01_desc</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Loaded with cacao, a dark chocolate filling surrounded by a dark chocolate case.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_02</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">White Chocolate Pralines</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_02_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">White chocolate surrounds a luscious, milk chocolate filling.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_03</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Milk Chocolate Almond Pralines</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_03_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Velvety milk chocolate filling encased in a dark chocolate shell, topped with a fresh-roasted almond.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_04</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Mint Coffee Pralines</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_04_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Refreshing mint and strong coffee combine in these otherworldly pralines.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_05</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Orange Cognac Pralines</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_05_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A dash of %cognac% balances the zesty, orange cream in these tasty treats.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_06</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Raspberry Anise Pralines</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_06_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Centers of a subtle, smooth raspberry cream with a whisper of fresh French anise make these pralines unforgettable.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_07</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Hazelnut Caramel Pralines</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_07_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Crunchy textured hazelnuts balanced by smooth, buttery caramel within a dark chocolate casing.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_08</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Mahajanga Vanilla Clove Pralines</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_08_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cacao beans sourced entirely from Madagascar, the world's finest vanilla, and a dusting a clove spice give these refined pralines one remarkable finish.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_09</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Costa Rica Mango Lemon Pralines</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_09_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">These are not your run-of-the-mill pralines, combining sweet and zesty mango and lemon with varietal cacao from the trees of Costa Rica.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_10</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gingered Pumpkin Pralines</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_10_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">An exquisite marriage of fresh ginger and pumpkin, enhanced by macadamias, enrobed in a chocolate shell fashioned from Indonesian cacao.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_11</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Specialty Cacao Dark Currant Pralines</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_11_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A mixture of elite cacaos from several locales, with the additional delight of fresh currants, makes for an unbelievably satisfying praline.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_12</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Cinnamon Lavender Honey Pralines</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">p_12_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A lavender honey ganache filling accented with cinnamon is the secret to these mind-blowing creations.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx TRUFFLES xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_01</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sweet and Spicy Truffles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_01_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">An extra sweet and extra spicy filling inside a dark chocolate shell, dusted with truffle powder: wonderful!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_02</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Extra Dark Chocolate Truffles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_02_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Extra cacao lends these truffles a wonderfully dark complexion and subtle flavor.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_03</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">White Chocolate Truffles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_03_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Rich, extra-sweet white chocolate filling in a white chocolate shell, dusted with truffle powder.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_04</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Coconut Almond Truffles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_04_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Coconut and almond combine in this delightful confection.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_05</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Honey Macadamia Truffles</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_05_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">These incomparable truffles are lovingly crafted with Indonesian macadamias and Himalayan lavender honey, dusted by truffle powder.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_06</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Indonesian Cacao Cherry Anise Truffles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_06_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A tangy, cherry-infused ganache, with highlights of anise, surrounded by chocolate casing born of varietal cacao from Indonesia.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_07</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Filipino Cacao Milk Chocolate Truffles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_07_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Only the finest cacao from our supplier in Manila goes into these milk chocolate truffles.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_08</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">African Cacao Dark Truffles with Currants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_08_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Dark truffles made from varietal cacaos from multiple ports in Africa, with an enchanting burst of sweetness from currants.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_09</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Blended Cacao Ginger Spice Truffles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_09_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Unexpected tones abound in these truffles, fashioned with a blend of varietal cacaos and crystallized fresh ginger.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_10</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Blended Cacao Pumpkin Truffles</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_10_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fijian Pumpkin paired with a melange of varietal cacaos, dusted with truffle powder.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_11</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Blended Cacao Tea-Infused Truffles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_11_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Perfect for an afternoon treat, these blended cacao truffles are infused with essence of black tea.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_12</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Berry &amp; Blended Cacao Dark Truffles</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">t_12_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Three varietal cacaos, perfectly balanced with wild berries, endow these truffles with a satiny texture, a powerful aroma and a haunting finish.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx EXOTICS xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_01</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Lemon Ginger Milk Chocolate Swirls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_01_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Rich and delicious milk chocolate with an intense ribbon of lemon and ginger ganache woven throughout.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_02</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Dark Coffee and Saffron Pearls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_02_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">These indulgent sweets combine intense coffee beans and the world's finest saffron for an unforgettable taste.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_03</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Spicy Chocolate Smooches</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_03_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Tasters marvel over the unexpected combination of spicy hot pepper and tart, fresh currants in these inimitable creations.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_04</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Tropical Fruit Ganache</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_04_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">These supple treats present a fruity and earthy tone up front, followed by a long, nutty finish.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_05</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Amazonian Fire Ants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_05_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Delectable, edible ants from deep in the Amazon paired with plantains and coconut, encased in the finest Indonesian chocolate.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_06</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Spicy Clove, Ginger and Anise Ganache</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_06_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Velvety smooth, lighter chocolate makes way for the exquisite, surprising flourish of this unique spice combination.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_07</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Varietal Nibs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_07_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pure, specialty cacao beans from around the world coalesce into edible nibs. For the true connoisseur.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_08</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Candied Orange Peels</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_08_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Crisp candied orange peel, kissed with anise, enrobed in subtle dark chocolate made from a blend of specialty cacaos from across the globe.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_09</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sweet Honey Hearts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_09_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Burnt caramel, kissed with a hint of lavender honey, inside a dark chocolate shell created with a blend of the finest African cacaos.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_10</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Tea and Toasted Pecan Ivories</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_10_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cote D'Ivoirian cacao, the finest black teas and fresh-toasted pecans make these sure to please even the choosiest chocolate fanatics.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_11</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Pumpkin Macadamia Clusters</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_11_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">These incredible concoctions offer delicate floral notes and a complex, nutty finish.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_12</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Varietal Dark Chocolate Wild Berries</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">e_12_desc</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A special blend of dark chocolate fashioned from the finest varietal cacaos encase a center of wild mountain berries.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>194</TopRowVisible>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>214</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <Sorting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Sort>(Column A)</Sort>
+  </Sorting>
+ </Worksheet>
+</Workbook>
