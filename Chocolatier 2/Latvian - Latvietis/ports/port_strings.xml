@@ -1,0 +1,584 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Citizen Comrade</LastAuthor>
+  <Created>2006-09-28T01:58:38Z</Created>
+  <LastSaved>2007-09-04T21:20:46Z</LastSaved>
+  <Version>11.8132</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <DownloadComponents/>
+  <LocationOfComponents HRef="file:///D:\"/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>1560</WindowHeight>
+  <WindowWidth>8850</WindowWidth>
+  <WindowTopX>-15</WindowTopX>
+  <WindowTopY>4650</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21">
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="strings">
+  <Names>
+   <NamedRange ss:Name="sbvsothr" ss:RefersTo="=strings!#REF!"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="125" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s21">
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="134.25"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="595.5"/>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx PORTS xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">abidjan</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Abidžana</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">amazon</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Amazone</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">bombay</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mumbaja</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">buenosaires</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Buenosairesa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cairo</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Kaira</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">casablanca</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Kasablanka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cayenne</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Kajenne</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">fiji</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fidži</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">jakarta</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Džakarta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">himalayas</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Himalaji</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">mahajanga</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mahadzanga</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">manila</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Manila</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">moscow</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Maskava</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">newyork</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ņujorka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">paris</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Parīze</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sahara</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sahāra</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sanfrancisco</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sanfrancisko</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sanjose</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sanhosē</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">shanghai</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Šanhaja</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sydney</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sidneja</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">tasmania</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Tasmanija</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">merida</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Merida</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">quito</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Kito</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">trinidad</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Trinidāda</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">riodejaneiro</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Riodežaneiro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">london</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Londona</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">accra</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Akra</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">istanbul</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Stambula</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">colombo</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Kolombo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sulawesi</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sulavesi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">hongkong</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hong Kong</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxx BUILDINGS xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ab_farm</Data></Cell>
+    <Cell><Data ss:Type="String">Attecoube Plantation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ab_market</Data></Cell>
+    <Cell><Data ss:Type="String">Plateau Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ab_flowers</Data></Cell>
+    <Cell><Data ss:Type="String">Fleurs de Cocody</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ab_village</Data></Cell>
+    <Cell><Data ss:Type="String">Adjame Village</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ab_railyard</Data></Cell>
+    <Cell><Data ss:Type="String">Abobo Rail Yard</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">am_hut</Data></Cell>
+    <Cell><Data ss:Type="String">Pentibo's Hut</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ba_market</Data></Cell>
+    <Cell><Data ss:Type="String">Abasto Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ba_shop</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Julio's Chocolates</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ba_lab</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolate Tasting Laboratory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ba_teatro</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Teatro Colón</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ba_avenida</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Avenida Mayo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ba_obelisco</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Obelisco</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bom_market</Data></Cell>
+    <Cell><Data ss:Type="String">Mahatma Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">bom_shop</Data></Cell>
+    <Cell><Data ss:Type="String">Colaba Hotel Chocolate Shop</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bom_other1</Data></Cell>
+    <Cell><Data ss:Type="String">Shivaji Railway Terminus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bom_other2</Data></Cell>
+    <Cell><Data ss:Type="String">Mumbadevi Temple</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ca_market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Khain el-Khalil Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ca_shop</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Muiz Street Shop</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ca_pyramids</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Giza Pyramids/Sphinx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ca_citadel</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Citadel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ca_nile</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Nile River</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ca_bridge</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Kasr el Nil Bridge</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ca_gate</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cairo Gate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cas_market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Anfa Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cas_shop</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Maghreb Chocolates</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cas_other</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Medina Tower</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cas_lighthouse</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Phare Lighthouse</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cas_office</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">The Curtiz Building</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cay_market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Marché Mont Machalou</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cay_farm</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Maroni Farm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cay_isles</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Îles du Salut</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cay_bar</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">The Mercure</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cay_hotel</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hôtel Central</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">cay_shop</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolats de Cayenne</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">fi_hut</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bouma Bure</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">him_palace</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Potala Palace</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">him_hut</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Himalayan Spice Hut</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">him_mountain</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mt Everest</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ja_farm</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Batavia Plantation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ja_market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sunda Kepala Harbour Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ja_other</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mount Merapi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ja_shop</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Tida Apa Apa Chocolates</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ma_farm</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Betsiboka Plantation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ma_market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Majunga Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ma_factory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Maiserie de Madagascar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ma_station</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sahambavi Rail Station</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">man_farm</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sagada Terraced Farm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">man_market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pasig River Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">man_other</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Malacañang Palace</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">mos_market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Moskova Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">mos_shop</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Metropole Hotel Chocolate Shop</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">mos_other</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Arabatskaya Square Station</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">mos_basil</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">St. Basil's</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">mos_zuev</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Zuev Worker's Club</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">mos_bar</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">The People's Bar and Grill</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">mos_gate</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Kremlin Gate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ny_market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bowery Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ny_shop</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Park Avenue Sweets Shop</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ny_factory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Broadway Confections Ltd.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ny_library</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Public Library</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ny_bar</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">The Village Pub</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ny_den</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">The Blind Pig</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">pa_market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Marché Superior</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">pa_shop</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Le Petit Confectionier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">pa_moulin</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Moulin Rouge</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">pa_tower</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Eiffel Tower</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">pa_notredame</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Notre Dame</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">pa_cafe</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Café de Fleur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pa_factory</Data></Cell>
+    <Cell><Data ss:Type="String">Fabriquer de Chocolat</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">sa_oasis</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Oulaid</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sf_market</Data></Cell>
+    <Cell><Data ss:Type="String">Ferry Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sf_shop</Data></Cell>
+    <Cell><Data ss:Type="String">San Francisco Chocolates</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sf_factory</Data></Cell>
+    <Cell><Data ss:Type="String">Brickhouse Square</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sf_bchq</Data></Cell>
+    <Cell><Data ss:Type="String">Baumeister Confections H.Q.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sf_bar</Data></Cell>
+    <Cell><Data ss:Type="String">Barbary Coast Hotel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sf_bridge</Data></Cell>
+    <Cell><Data ss:Type="String">The Golden Gate Bridge</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sh_shop</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Shanghai Sweets</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sh_market</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Nanjing Road Markets</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sh_factory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Baoshan Chocolates Manufacturing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sh_bund</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">The Bund</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sh_sassoon</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sassoon House</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sh_hotel</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Park Hotel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sj_farm</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Irazu Plantation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sj_market</Data></Cell>
+    <Cell><Data ss:Type="String">Teatro Square Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sj_shop</Data></Cell>
+    <Cell><Data ss:Type="String">Bombones de Fantasía</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">sj_other</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Calle Central</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">syd_market</Data></Cell>
+    <Cell><Data ss:Type="String">Wharf Market</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">syd_shop</Data></Cell>
+    <Cell><Data ss:Type="String">George Street Chocolates Shop</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">syd_factory</Data></Cell>
+    <Cell><Data ss:Type="String">Harbor Chocolates Manufacturing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">syd_bridge</Data></Cell>
+    <Cell><Data ss:Type="String">Sydney Harbor Bridge</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">syd_other1</Data></Cell>
+    <Cell><Data ss:Type="String">Quinn's Place</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">syd_other2</Data></Cell>
+    <Cell><Data ss:Type="String">AWA Building</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>3</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>16</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <Sorting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Sort>(Column A)</Sort>
+  </Sorting>
+ </Worksheet>
+</Workbook>
