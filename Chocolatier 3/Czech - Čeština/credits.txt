@@ -1,0 +1,99 @@
+
+<b>Big Splash Games</b>
+
+
+[Original Game Design]
+Jon Blossom
+Stephen Lewis
+Michael Thornton Wyman
+
+
+
+[Producer]
+Michael Thornton Wyman
+
+
+
+[Art Direction] | [Programming]
+Stephen Lewis | Jon Blossom
+
+
+
+
+[Additional Art Production]
+Nikitova LLC
+Barbara Pollak
+
+
+[Audio and Music]
+SomaTone Interactive Audio
+
+
+[Opening Animation by Red i Studios]
+Jenny Martin
+Sean Jones
+Chip Harris (Sound and Music) 
+Bob Wood (Voice Over)
+
+
+<b>PlayFirst</b>
+
+
+[Creative Director] 
+Kenny Shea Dinkin
+
+[Director of Production]
+Craig Bocks
+
+[Senior Producer] 
+Aaron Norstad
+
+[Producer]
+Vicki Resendez
+
+[Design Manager]
+Michael McCormick
+
+[Design Consultant]
+Nicolas Carroll
+
+[Quality Assurance Manager]
+Christopher Dunn 
+
+[Quality Assurance]
+Cesar Lemus (Team Lead)
+Guy Romhild (Project Lead)
+Amy Jeschke 
+Brian DeGraf
+Adam Gourdin
+Victor Kunkel
+Adrian Guerrero
+Ryan Medina
+P. Tseren Sodbinow
+
+[Marketing]
+Anne Marie Edwards
+Devin Grayson
+Sean Denny
+
+[Playground Game Engine]
+Tim Mensch 
+Brad Edelman
+Jim Brooks
+
+[Special Thanks]
+Bernie Habermeier
+Joshua Dudley
+Ron Barry
+David Parks
+Peter Grandmaison
+Maria Waters
+Todd Wong
+Brad Simon
+Hung Chang
+
+
+[This game was built using the Playground SDK™.]
+
+[Copyright © 2009 PlayFirst, Inc.]
+[All Rights Reserved]
