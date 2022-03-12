@@ -131,23 +131,23 @@
    <Column ss:AutoFitWidth="0" ss:Width="654.75"/>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">windowtitle</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Chocolatier: Decadence by Design</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Chocolatier: Decadence amin'ny Famolavolana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">gamename</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Chocolatier: Decadence by Design</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Chocolatier: Decadence amin'ny Famolavolana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">welcome</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Welcome Back, %1%!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Tongasoa indray, %1%!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">copyright</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Copyright © 2009 PlayFirst, Inc. All Rights Reserved.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Copyright © 2009 PlayFirst, Inc. Zo rehetra voatokana.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">badname</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">The name you have entered is not valid. Please enter another name.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ny anarana nampidirinao dia tsy manan-kery. Ampidiro anarana hafa azafady.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">ok</Data></Cell>
@@ -155,71 +155,71 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">yes</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Eny</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">no</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Tsia</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">close</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Close</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Akaiky</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">cancel</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Cancel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Hanafoana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">done</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Done</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Hatao</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">start</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Start</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fanombohana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">back</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Back</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Miverina</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">buy</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Buy</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mividy</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">sell</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Sell</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mivarotra</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">sell_all</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Sell All</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mivarotra Daholo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">haggle</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Haggle</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fifampiraharahana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">try_again</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Try Again</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Manandrama Indray</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">quest_log</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Quest Log</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fitadiavana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">quest_log_letter</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Q</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">F</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">ledger_map</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Map</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Sarintany</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">ledger_port</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Port</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Seranana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">recipes</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Recipes</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Recettes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">recipes_letter</Data></Cell>
@@ -227,111 +227,111 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">inventory</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lisitra</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">inventory_letter</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">L</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">menu</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Menu</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Sakafo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">menu_letter</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">S</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">ledger_medals</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Awards</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mari-Pankasitrahana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">ledger_medals_letter</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">M</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">create</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Create</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Manangana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">randomize</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Randomize</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kisendrasendra</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">story_mode</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Start Game</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Manomboka Lalao</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">change_player</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Change Player</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Hanova Mpilalao</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">options</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Options</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fandikana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">credits</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Credits</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Nahazoan-Dalana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">main_menu</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Main Menu</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Sakafo Fototra</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">resume_game</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Resume Game</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lalao Miverina</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">replay_intro</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Replay Intro</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mamerina Intro</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">help</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Help</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Vonjy</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">high_scores</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">High Scores</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Naoty Ambony</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">quit</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Save &amp; Quit</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Tehirizo ary Mialà</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">use_recipe</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Use This Recipe</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ampiasao ity Fomba Fahandro</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">previous</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Previous</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Teo Aloha</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">next</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Next</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Manaraka</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">pause</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Pause</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Miato</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">go</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Go</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mandehana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">make_chocolate</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Make Chocolate!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Manaova Sôkôla!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">make_coffee</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Make Coffee!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Manaova Kafe!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">configure</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Change Recipe</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Hanova Fomba Fahandro</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">finished_quests</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Include Completed Quests</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ampidiro Ireo Fikatsahana Vita</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">newplayer</Data></Cell>
@@ -2723,7 +2723,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">baghdad</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Baghdad</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Bagdad</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">bali</Data></Cell>
@@ -2747,11 +2747,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">falklands</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Falkland Islands</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Nosy Falkland</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">gobidesert</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Gobi Desert</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Efitra Gobi</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">havana</Data></Cell>
