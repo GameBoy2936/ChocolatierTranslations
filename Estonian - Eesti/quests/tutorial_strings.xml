@@ -1,0 +1,552 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Citizen Comrade</LastAuthor>
+  <Created>2006-10-04T22:28:33Z</Created>
+  <LastSaved>2008-12-05T21:10:12Z</LastSaved>
+  <Version>11.9999</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>0</Index>
+    <RGB>#010000</RGB>
+   </Color>
+   <Color>
+    <Index>2</Index>
+    <RGB>#993300</RGB>
+   </Color>
+   <Color>
+    <Index>3</Index>
+    <RGB>#FFFF00</RGB>
+   </Color>
+   <Color>
+    <Index>4</Index>
+    <RGB>#DDDDDD</RGB>
+   </Color>
+   <Color>
+    <Index>5</Index>
+    <RGB>#00FF00</RGB>
+   </Color>
+   <Color>
+    <Index>12</Index>
+    <RGB>#808000</RGB>
+   </Color>
+   <Color>
+    <Index>46</Index>
+    <RGB>#6666CC</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5715</WindowHeight>
+  <WindowWidth>10935</WindowWidth>
+  <WindowTopX>360</WindowTopX>
+  <WindowTopY>300</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="strings">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="113" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="200.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="327"/>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">yesplease</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Yes, Please!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">payup</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Pay Up!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">illdo</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">I'll do it</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">notnow</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Not now</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">imgood</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">I Know How To Play</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_01</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Welcome Aboard</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_01_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">For most people, World War II is finally over. Not for me. Until my husband Sean is accounted for, the war rages on.&lt;br&gt;&lt;br&gt;I won't mince words, &lt;player&gt; - Baumeister Confections is in shambles. And I simply can't focus on chocolate right now - I need someone else to manage the company.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_02</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Proving Yourself</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_02_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">You need to show me you can make chocolates - and money. Once you have made at least $10,000, I'll make you %rank_2% and start introducing you to the Board of Directors.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_02_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">See %main_alex% in %zurich% once you've made some %b03% and have at least $10,000 on hand.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_02_incomplete</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">I need to be confident in your abilities to run our business, &lt;player&gt;. Come back and see me as soon as you've made 3 recipes and have at least $10,000 on hand.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_02_hint</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Alex has bigger fish to fry, &lt;player&gt;, she is antsy to hand over the reins so that she can search for Sean. She is waiting for you to learn 3 recipes and show up with at least $10,000 on hand.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_03</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Meeting %zur_factorykeep%</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_03_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">So, let's get started!&lt;br&gt;&lt;br&gt;Here are 100 sacks each of %sugar% and %cacao%. Go see Endrit over at %zur_factory% to turn these ingredients into chocolates...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_03_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Introduce yourself to %zur_factorykeep% over at %zur_factory%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_03_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">You are looking for %zur_factory%? It's the red brick factory in the middle of town...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_04</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Making Candy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_04_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">I feel for what Alex is going through, &lt;player&gt;, but boy am I excited to get these machines working again!&lt;br&gt;&lt;br&gt;Click &quot;Make Chocolates&quot; and make at least 5 cases of %b01%...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_04_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Click &quot;%make_chocolate%&quot;&lt;br&gt;Make at least 5 cases of %b01%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_04_incomplete</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Remember, you need to make at least 5 cases of %b01%. Ready to try again? Just click &quot;%make_chocolate%&quot; and be sure to make at least 5 cases of %b01%...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_04_complete</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Your %b01% look delicious!&lt;br&gt;&lt;br&gt;All products and ingredients appear in your inventory. You can mouse over items for more information...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_04_hint</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Remember to make at least 5 cases of %b01%s.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_04_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">You're going to need to make at least 5 cases of %b01%. The only place you can do that is at the red brick chocolate factory here in the middle of town - %zur_factory%.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_05</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Making Money</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_05_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">As you travel you can track how many products we're making in the status window below. Inventory levels for each ingredient we're using are shown with color-coded bars - green means we've got plenty, yellow means we're running low, and red means production will soon be stalled.  </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_05_extra01</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Speaking of ingredients, in order to keep making %b01% we'll need more %sugar% and %cacao% soon. You're going to need some money!&lt;br&gt;&lt;br&gt;Visit %zur_shop% to turn your chocolates into cash...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_05_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sell your chocolates to %zur_shopkeep% at %zur_shop%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_05_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">You're trying to find %zur_shop%? It's the red building on the west side of the canal...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_06</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Selling Chocolates</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_06_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Welcome, &lt;player&gt;. Step inside to review my prices.&lt;br&gt;&lt;br&gt;Once inside, click &quot;%sell_all%&quot; - I'll take your products and you'll get the cash!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_06_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Click &quot;Sell All&quot; to sell your chocolates to %zur_shopkeep%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_06_incomplete</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Remember, you need to click %sell_all% inside the shop to sell me your chocolates - you'll see the money you earned show up in your account.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_06_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">The only place I know of in town where you'll be able to sell your chocolates is %zur_shop%. Click %sell_all% inside the shop to turn a profit on your creations...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_07</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Back to Alex</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_07_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Thank you for stopping by, &lt;player&gt;. It is always my pleasure to offer the best prices for quality chocolates!&lt;br&gt;&lt;br&gt;Now, go back and speak with Alex - you can find her at the %zur_station%, the main rail station here in %zurich%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_07_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Speak with Alex at the %zur_station%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_07_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Alex would like to speak with you, &lt;player&gt;. She's preparing for her journey at the main train station here in %zurich%, %zur_station%. That's the building you'll find just in front of %zur_tower% church.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_08</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Restocking Ingredients</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_08_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Well done, &lt;player&gt;, you've made some chocolates, and you've made some money. With the factory now operational, I suspect you'll be needing ingredients soon. It's time to restock your inventory of %cacao% and %sugar%.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_09</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Sugar First</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_09_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">I'm going to give you $5000. Show me you're ready to take over by doubling my investment.&lt;br&gt;&lt;br&gt;Now, go see %zur_marketkeep% here at %zur_market% about buying some of what you need.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_09_extra01</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">By the way, you can keep track of all of your to-do's with the Quests window...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_09_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Purchase %sugar% from %zur_market% in %zurich%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_09_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">%zur_market% is the only place I know of here in %zurich% to buy ingredients. You'll find the market just to the right of the chocolate factory...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_10</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Plenty of Sugar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_10_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Click on the %sugar% inside - it's all I have these days - and buy enough to make sure that you've got at least 200 sacks on hand...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_10_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Click on %sugar% and then buy enough so that you've got at least 200 sacks on hand.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_10_incomplete</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">I don't think you bought enough %sugar% - you need to have at least 200 sacks in your inventory...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_10_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">%zur_market% is the only place I know of here in %zurich% where you'll find the %sugar% you need. The market is just to the right of the chocolate factory...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_11</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Douala for Cacao</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_11_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%cacao% is only available near the equator. Click &quot;Map&quot;, travel to %douala%, Cameroon, and see my friend %dou_marketkeep% there. She'll be able to fix you up with the %cacao% you need.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_11_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Click &quot;Map&quot; to travel to %douala% and purchase %cacao% at %dou_market%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_11_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">I understand you're after %cacao%. You need to click on the &quot;Map&quot; button on the left, and then click on the port of %douala% to travel there...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_11_helpb_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">You looking to buy some %cacao%? See %dou_marketkeep% over at %dou_market%...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_12</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Cacao for Sale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_12_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">You've come to the right place for %cacao%, &lt;player&gt;. Buy enough so that you've got at least 200 sacks on hand...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_12_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Purchase enough %cacao% so that you've got at least 200 sacks on hand.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_12_incomplete</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">I don't think you bought enough %cacao% - you need to have at least 200 sacks in your inventory...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_12_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">You need to have at least 200 sacks of %cacao% in your inventory, isn't that right?&lt;br&gt;&lt;br&gt;The only place that I've heard of %cacao% for sale lately is at %dou_market% in %douala%...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_13</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Back to Alex</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_13_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Terrific! Now get back to %zurich% and see Alex.&lt;br&gt;&lt;br&gt;That poor woman, she truly believes she'll be able to find her husband - you have to admire her spirit, though.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_13_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Travel back to %zurich% to speak with Alex at the %zur_station%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_13_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Alex would like to see you &lt;player&gt;. She's still at the main train station in %zurich%, %zur_station%. That's the building just in front of %zur_tower% church.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_14</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A New Recipe</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_14_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">I think you're starting to get the hang of things, &lt;player&gt;, which is good, because I need to leave soon.&lt;br&gt;&lt;br&gt;Next make your way back over to %zur_market% - Verena has a new ingredient you can use to make a new recipe, something that's always good for business...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_14_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Visit %zur_market% and see if Verena's got any new ingredients for sale.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_14_help_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, make your way back over to %zur_market% - %zur_marketkeep% has some new ingredients you'll be able to use to make a new recipe...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_15</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Milk Chocolate</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_15_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Word travels fast! I assume you're here to purchase some of my %milk%, which just arrived?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_15_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring the ingredients to make %b02% - %milk%, %sugar% and %cacao% - to %zur_factory%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_15_incomplete</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">I understand Alex would like us to manufacture some %b02%. You'll need to make sure you've got %cacao%, %sugar% and %milk% on hand to do so!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_15_hint</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">I understand you'd like to manufacture some %b02%. You'll need to make sure you've got %cacao%, %sugar% and %milk% on hand to do so!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_15_help_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">As soon as you have %milk%, %sugar%, and %cacao% in your inventory, visit the factory here in %zurich% to make a new recipe - %b02%...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Making %b02%</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Click &quot;Change Recipe&quot;, select %b02%, and make as many as you can. More complicated recipes mean higher profits!&lt;br&gt;&lt;br&gt;&lt;br&gt;Keep trying until you've set production to at least 10 cases...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Make at least 10 cases of %b02%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16_incomplete</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Make sure that you have the needed ingredients (%sugar%, %cacao% and %milk%) in inventory, select %b02%, and make at least 10 cases.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16_help_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">You're supposed to have at least 10 cases of your new recipe - %b02% - on hand. As long as you have %milk%, %sugar%, and %cacao% in your inventory, you can visit the factory in %zurich% to make more of the bars...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16b</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Bartering with Milk Chocolate</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16b_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Nice work, &lt;player&gt;.&lt;br&gt;&lt;br&gt;Take 10 cases of those %b02% to %zur_towerkeep% at %zur_tower% here in town. I trust that you will find her quite generous...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16b_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring 10 cases of your %b02% to %zur_towerkeep% at %zur_tower%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16b_complete</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">How delightful! I am going to take 10 cases of your %b02%, and give you $3000 as well as 200 sacks of %caramel% in return.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16b_incomplete</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">My friend %zur_factorykeep% informed me that you'd be bringing 10 cases of %b02% to me one day - is my lucky day going to come soon?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_16b_help_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">You need to have at least 10 cases of %b02% on hand. Once you do, go see %zur_towerkeep% - you'll find her at %zur_tower% - just look for the clock tower...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_17</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Caramel Bars</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_17_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">I want you to go back and see %zur_factorykeep%. As long as you have %caramel%, %sugar% and %cacao% in stock, you'll be able to make %b03%.&lt;br&gt;&lt;br&gt;And I hear that Endrit has a new gizmo at the factory that he's eager to show you...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_17_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring the ingredients for %b03% to %zur_factory%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_17_incomplete</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">We need the ingredients for %b03%  - %cacao%, %sugar% and %caramel%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_17_hint</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Get a hold of the ingredients for %b03%  - %cacao%, %sugar% and %caramel% - and bring them to %zur_factory% in %zurich%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_17_help_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">I understand you're ready to work on your 3rd chocolate recipe! The only place you can do that is at the red brick chocolate factory in the middle of %zurich% - %zur_factory%. If you need %cacao%, you'll need to get yourself to %douala% - everything else can be found at the market in %zurich%.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_18</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Recycling!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="34.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_18_offer</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">You have on hand everything we need to make %b03%!&lt;br&gt;&lt;br&gt;Click &quot;Change Recipe&quot;, select %b03%, and make as many as you can!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_18_extra01</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Also, some good news, &lt;player&gt;. I've just wired up a Recycler for our machines. If you don't want to use what's in your gun, simply fire the ingredient at the Recycler - no more unnecessary waste!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_18_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Click &quot;Change Recipe&quot;, select %b03%, and make as many as you can!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_18_incomplete</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">You need to make some %b03%. The required ingredients are %cacao%, %sugar% and %caramel%...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_18_hint</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Get a hold of the ingredients for %b03%  - %cacao%, %sugar% and %caramel% - and bring them to %zur_factory% in %zurich%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_18_help_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Word is you need to get a hold of the ingredients for %b03%: %cacao%, %sugar% and %caramel% - and bring them to %zur_factory% in %zurich%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_19_prompt_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">You'll make a pretty penny with %b03%, that's for sure. You need to have %sugar%, %cacao% and %caramel% in your inventory. Then, go to %zur_factory%, &quot;Change Recipe&quot; to %b03% and make some product!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_19_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">You now know how to make 3 chocolate recipes. You can travel, buy ingredients and sell your products at a profit.&lt;br&gt;&lt;br&gt;Once you've built your cash on hand to at least $10,000, Alex will be ready to hand you the reins to the company. Good luck!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_over_prompt_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">You're well on your way, &lt;player&gt;. As long as you've got the needed ingredients in your inventory, your factory will crank out chocolates as you travel.&lt;br&gt;&lt;br&gt;I hear that Alex will be ready to make a move as soon as you've accumulated $10,000...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tut_really_over_prompt_offer</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Alex is waiting to speak with you, &lt;player&gt;. She is anxious to be on her way. Please go see her in Zurich at the %zur_station% as soon as you can...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_over</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">You Are Ready</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_over_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, you've done it. You have shown your prowess at making chocolates, and making money. Now I simply must go. Ready or not, the company is in your hands. As I promised, you are now the official %rank_2% of Baumeister Confections.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_over_extra01</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">There are 5 other members of the Baumeister Confections Board of Directors. You are going to need to work with each of them, one by one, to convince them that you are capable of being our CEO. Some you find easier to work with than others, but they are all good people.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_over_extra03</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">I am off to launch my search for Sean. I'll be in touch as I can, and you should also keep an eye out on your travels for my assistant, %announcer%. If necessary, the rest of the board and I will be able to get messages to you through Rick.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_over_extra04</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Right now you need to go see my uncle Felix Baumeister in %capetown%. I think he's the best board member to begin with. Also, I understand that he's been working on some secret projects that may have significant impact on our business.&lt;br&gt;&lt;br&gt;I know you can do it, &lt;player&gt; - good luck!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_over_summary</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Track down Felix Baumeister in %capetown%, South Africa.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_over_help_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">If you're interested in speaking with %main_feli%, you need to go see him at %cap_factory% in %capetown%, South Africa.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_over_cap_help_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">If you are trying to find Felix, head over to %cap_factory%, behind the %cap_shop%.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_alex_hint_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sean was flying for the Americans, and his plane was lost on a 'secret mission' towards the end of the war. The authorities have been no help, so I have no choice but to try to find out what happened to him. I simply refuse to believe that he's dead. I know that I can count on you to turn things around in my absence...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_alex_hint2_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">I just won't be able to rest until I know for sure what has happened to Sean - one way or the other. In the meantime I know that I can count on you to turn things around in my absence...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">dou_plantationkeep_hint_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pretty soon now, &lt;player&gt;, I'll be harvesting my first crop of specialty cacao. Sure it will be a bit more expensive than your ordinary cacao, but worth every penny. And, if you've got recipes that call for %dou_cacao%, nothing else will do!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">tut_over_byealex_offer</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Well, there she goes. I sure hope Alexandra knows what she's doing...</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
