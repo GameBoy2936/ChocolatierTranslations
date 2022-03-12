@@ -1,0 +1,98 @@
+<b> Jogos Big Splash </b>
+
+
+[Design de jogo original]
+Jon Blossom
+Stephen Lewis
+Michael Thornton Wyman
+
+
+
+[Produtor]
+Michael Thornton Wyman
+
+
+
+[Direção de Arte] | [Programação]
+Stephen Lewis | Jon Blossom
+
+
+
+
+[Produção Artística Adicional]
+Nikitova LLC
+Barbara Pollak
+
+
+[Áudio e Música]
+SomaTone Interactive Audio
+
+
+[Animação de abertura da Red i Studios]
+Jenny Martin
+Sean Jones
+Chip Harris (Som e Música)
+Bob Wood (narração)
+
+
+<b> PlayFirst </b>
+
+
+[Diretor criativo]
+Kenny Shea Dinkin
+
+[Diretor de Produção]
+Craig Bocks
+
+[Produtor Sênior]
+Aaron Norstad
+
+[Produtor]
+Vicki Resendez
+
+[Gerente de design]
+Michael McCormick
+
+[Consultor de Design]
+Nicolas Carroll
+
+[Gerente de Garantia de Qualidade]
+Christopher Dunn
+
+[Garantia da Qualidade]
+Cesar Lemus (líder de equipe)
+Guy Romhild (líder do projeto)
+Amy Jeschke
+Brian DeGraf
+Adam Gourdin
+Victor Kunkel
+Adrian Guerrero
+Ryan Medina
+P. Tseren Sodbinow
+
+[Marketing]
+Anne Marie Edwards
+Devin Grayson
+Sean Denny
+
+[Playground Game Engine]
+Tim Mensch
+Brad Edelman
+Jim Brooks
+
+[Agradecimentos especiais]
+Bernie Habermeier
+Joshua Dudley
+Ron Barry
+David Parks
+Peter Grandmaison
+Maria Waters
+Todd Wong
+Brad Simon
+Hung Chang
+
+
+[Este jogo foi desenvolvido usando o Playground SDK ™.]
+
+[Copyright © 2009 PlayFirst, Inc.]
+[Todos os direitos reservados]
