@@ -2,7 +2,7 @@ Grands jeux d'éclaboussures
 
 
 [Conception de jeu originale]
-Jon Fleur
+Jon Blossom
 Stephen Lewis
 Michael Thornton Wyman
 
@@ -12,7 +12,7 @@ Michael Thornton Wyman
 
 
 [Direction Artistique] | [Programmation]
-Stephen Lewis | Jon Fleur
+Stephen Lewis | Jon Blossom
 
 
 
