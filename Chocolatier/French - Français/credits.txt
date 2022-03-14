@@ -1,33 +1,31 @@
-﻿
-
-Big Splash Games
+Grands jeux d'éclaboussures
 
 
-[Original Game Design]
-Jon Blossom
+[Conception de jeu originale]
+Jon Fleur
 Stephen Lewis
 Michael Thornton Wyman
 
 
-[Producer]
+[Producteur]
 Michael Thornton Wyman
 
 
-[Art Direction] | [Programming]
-Stephen Lewis | Jon Blossom
+[Direction Artistique] | [Programmation]
+Stephen Lewis | Jon Fleur
 
 
 
-[Additional Art Production]
+[Production artistique supplémentaire]
 Nikitova LLC
-Barbara Pollak
+Barbara Pollack
 
-[Audio and Music]
-SomaTone Interactive Audio
+[Audio et musique]
+Audio interactif SomaTone
 
-[Special Thanks]
+[Remerciement spécial]
 Anita Goriely
-Norma Mendoza-Denton
+Norma Mendoza Denton
 Brad Miller
 Maria Russakoff
 Josh Whitkin
@@ -36,21 +34,21 @@ Leisy Thornton Wyman
 
 
 
-PlayFirst
+Jouer d'abord
 
-[Executive Producer] Kenny Dinkin
-[Senior Producer] Craig Bocks
-[Producer] Aaron Norstad
-[Design Consultant] Michelle Woods
-[Marketing Manager] Larissa McCleary
-[Lead Quality Assurance] Christopher Dunn
+[Producteur exécutif] Kenny Dinkin
+[Producteur principal] Craig Bocks
+[Producteur] Aaron Norstad
+[Consultante en conception] Michelle Woods
+[Responsable marketing] Larissa McCleary
+[Responsable de l'assurance qualité] Christopher Dunn
 
-[Quality Assurance]
+[Assurance qualité]
 Rebekah Cunningham, Adam Gourdin
 Amy Belden, Devin Grayson
 
-[Special Thanks]
+[Remerciement spécial]
 Nick Stern, Tim Mensch
 
 
-Copyright (c) 2007 PlayFirst, Inc. All Rights Reserved.
+Copyright (c) 2007 PlayFirst, Inc. Tous droits réservés.
