@@ -86,7 +86,7 @@
    <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="94.5"/>
    <Row ss:StyleID="s21">
     <Cell ss:StyleID="s22"/>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx USER INTERFACE xxxx</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx INTERFACE UTILISATEUR xxxx</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">windowtitle</Data></Cell>
@@ -98,55 +98,55 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_1</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">January</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Janvier</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_2</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">February</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Février</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_3</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">March</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mars</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_4</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">April</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Avril</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_5</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">May</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mai</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_6</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">June</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Juin</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_7</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">July</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Juillet</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_8</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">August</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Août</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_9</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">September</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Septembre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_10</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">October</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Octobre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_11</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">November</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Novembre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">month_12</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">December</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Décembre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank_0</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Apprentice</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apprentie</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank_1</Data></Cell>
@@ -162,7 +162,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank_4</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Master Chocolatier</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Maître Chocolatier</Data></Cell>
    </Row>
    <Row ss:StyleID="s21">
     <Cell ss:StyleID="s22"/>
@@ -170,171 +170,171 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">mainmenu</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Main Menu</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Menu Principal</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">copyright</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Copyright (c) 2007 PlayFirst, Inc. All Rights Reserved.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Copyright © 2007 PlayFirst, Inc. Tous droits réservés.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">empire_mode</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Story Mode</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mode Histoire</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">free_mode</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Free Play Mode</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mode de Jeu Libre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">options</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Options</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Choix</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">highscores</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">High Scores</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Scores Élevés</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">quit</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Quit</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Quitter</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">help</Data></Cell>
-    <Cell><Data ss:Type="String">Help</Data></Cell>
+    <Cell><Data ss:Type="String">Aider</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">moregames</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">More Games</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Plus de Jeux</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">no_changeplayer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You must first launch %empire_mode% in order to create a Player...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous devez d'abord lancer %empire_mode% afin de créer un joueur.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">no_freeplay</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%free_mode% is locked until you have played %empire_mode%. Click on %empire_mode% to begin Chocolatier...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%free_mode% est verrouillé jusqu'à ce que vous ayez joué à %empire_mode%. Cliquez sur %empire_mode% pour commencer Chocolatier.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">more</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">More</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Suite</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">back</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Back</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Arrière</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">next</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Next</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Suivant</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">done</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Done</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Terminé</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ok</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">OK</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">D'accord</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ok_lower</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Buy</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Acheter</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">yes</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Oui</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">no</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Non</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">close</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Close</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Fermer</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">resume_game</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Resume Game</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Reprendre le Jeu</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cancel</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cancel</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Annuler</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">leave</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Leave</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Quitter</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">buy</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Buy</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Acheter</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sell</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Sell</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vendre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sell_all</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Sell All</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Tout Vendre</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">haggle</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Haggle</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Négocier</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">map</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Map</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Carte</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">inventory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Inventaire</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">recipes</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Recipes</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Recettes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">quests</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Quests</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Quêtes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">enterport</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Enter port</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Entrez le port</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">accept</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">OK</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">D'accord</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">reject</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">No Thanks</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Non merci</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">notnow</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Not Right Now</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pas tout de suite</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">red</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Red</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Rouge</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">green</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Green</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Verte</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">blue</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Blue</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bleu</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">cases</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Cases</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">mini_time</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">TIME</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">TEMPS</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">current_recipe</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Now Making</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">En cours de fabrication</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">current_output</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Current Output</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sortie courant</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">menu</Data></Cell>
@@ -342,19 +342,19 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">name_company</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Name Your Company</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Nommez votre Entreprise</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">minigame</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Make Chocolates!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Faites des chocolats !</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">reconfigure</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Change Recipe</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Changer de Recette</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">select_recipe</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Use This Recipe</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Utiliser cette Recette</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">pause</Data></Cell>
@@ -362,83 +362,83 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">resume</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Resume</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Continuer</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">paused</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Machinery Paused</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">La machinerie est en pause. Appuyez sur %ok% pour revenir au mini-jeu.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">finished</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolate-Making Completed</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Chocolaterie Terminée</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">finished_early</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Production Halted!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Production arrêtée !</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">try_again</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Try Again</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Réessayer</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">products_made</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Products Made:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Produits fabriqués :</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_sfxlevel</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Sound Effect Volume</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Volume des effets sonores</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_musiclevel</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Music Volume</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Volume de la musique</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_ambientlevel</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Ambient Sound Volume</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Volume sonore ambiant</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_fullscreen</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Full Screen</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Plein écran</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_nofullscreen</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Unable to switch screen modes!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Impossible de changer de mode d'écran !</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_mute</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Mute Audio</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Couper le son</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_help</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Display help dialogs automatically</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Afficher automatiquement les boîtes de dialogue d'aide</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_credits</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Credits</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Crédits</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_nametaken</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">That name is already taken. Please enter a unique name for your saved game.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ce nom est déjà pris. Veuillez saisir un nom unique pour votre partie sauvegardée.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_newplayer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">add another player</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ajouter un autre joueur</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_editplayer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Edit Player Name</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Modifier le nom du joueur</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_deleteplayer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Delete Player</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Supprimer le joueur</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">opt_confirmdelete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Are you sure you want to delete the player named %1%?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Êtes-vous sûr de vouloir supprimer le joueur nommé %1% ?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">for_sale</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">FOR SALE</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">À VENDRE</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">formatBillions</Data></Cell>
@@ -458,39 +458,39 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">formatServerData</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% - %2% - %3% in %4% weeks</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% - %2% - %3% dans %4% semaines</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">formatScore</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%1%/week</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%1%/semaine</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_roll</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Roll the Dice</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Lancer les Dés</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_stop</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Stop a Die</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Arrêter un Dé</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">head_factory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Factory Setup</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Configuration d'Usine</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">head_inventory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Current Inventory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Inventaire Actuel</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">head_recipes</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Recipe Book</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Livre de Recettes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">head_questlog</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Current Quests</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Quêtes en Cours</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">head_messages</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Message Log</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Journal des Messages</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">max</Data></Cell>
@@ -498,7 +498,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">intro_button</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Start Game</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Démarrer Jeu</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">yesplease</Data></Cell>
@@ -546,171 +546,171 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">wasted_once</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Uh-oh! Wasted ingredient!&lt;br&gt;&lt;br&gt;Make sure that you are firing a needed ingredient at the tray. Use the green recipe template on the right as your guide.&lt;br&gt;&lt;br&gt;If you waste 8 ingredients, I'll be forced to halt production...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Oh-oh ! Ingrédient gaspillé !&lt;br&gt;&lt;br&gt;Assurez-vous que vous tirez un ingrédient nécessaire sur le plateau. Utilisez le modèle de recette vert à droite comme guide.&lt;br&gt;&lt;br&gt;Si vous gaspillez 8 ingrédients, je serai obligé d'arrêter la production...</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">recipe_instructions_storymode</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Click on a chocolate to view its page in the Recipe Book.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cliquez sur un chocolat pour afficher sa page dans le livre de recettes.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">recipe_instructions_freemode</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Click on a chocolate to view its page in the Recipe Book.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cliquez sur un chocolat pour afficher sa page dans le livre de recettes.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">bar_intro</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Luscious, luxurious bars made with the finest chocolates accented in a wide variety of flavors.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Barres succulentes et luxueuses faites avec les meilleurs chocolats accentués dans une grande variété de saveurs.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">square_intro</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Perfect for gifts and special occasions, these indulgent treats won't be soon forgotten.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Parfaites pour les cadeaux et les occasions spéciales, ces gâteries gourmandes ne seront pas oubliées de sitôt.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">infusion_intro</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Creamy European-style Ganache centers in a range of exotic spices, fruits and nuts that simply melt in the mouth.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Des centres de ganache crémeux de style européen dans une gamme d'épices exotiques, de fruits et de noix qui fondent simplement dans la bouche.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">truffle_intro</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Classic concoctions, created by blending the finest ingredients into creamy, divine balls of pure bliss.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Des concoctions classiques, créées en mélangeant les meilleurs ingrédients dans des boules crémeuses et divines de pur bonheur.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">intro_text</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Welcome, Chocolatier!&#10; &#10;Your goal in &lt;b&gt;Empire Mode&lt;/b&gt; is to become a Master Chocolatier. To achieve this rank, you must amass a fortune of at least &lt;b&gt;$10,000,000&lt;/b&gt;. Owning all six factories in the game, with each producing high end confections, will help you achieve your goal.&#10;&#10;Do you have what it takes to conquer the world through Chocolate?&#10;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bienvenue, Chocolatier !&#10; &#10;Votre objectif en &lt;b&gt;Mode Empire&lt;/b&gt; est de devenir Maître Chocolatier. Pour atteindre ce rang, vous devez amasser une fortune d'au moins &lt;b&gt;10 000 000 $&lt;/b&gt;. Posséder les six usines du jeu, chacune produisant des confiseries haut de gamme, vous aidera à atteindre votre objectif.&#10;&#10;Avez-vous ce qu'il faut pour conquérir le monde grâce au chocolat ?&#10;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">logobuilder</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Customize the signs that appear on your factories throughout the world...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Personnalisez les panneaux qui apparaissent sur vos usines à travers le monde.</Data></Cell>
    </Row>
    <Row ss:StyleID="s21">
     <Cell ss:StyleID="s22"/>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx DIALOG AND POPUP TEXT xxxx</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx DIALOGUE ET TEXTE POPUP xxxx</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">loading</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">One Moment, Please...</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Un instant s'il vous plaît...</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">title_welcome</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">Welcome to Chocolatier, %1%.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Bienvenue chez Chocolatier, %1%.</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">enter_name</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">Enter Your Name:</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Entrez votre nom:</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">choose_player</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">Change Player</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Changer de joueur</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">choose_player_header</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">Select a Player:</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Sélectionnez un joueur :</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">confirm_quit</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">Are you sure you want to quit Chocolatier?</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Êtes-vous sûr de vouloir quitter Chocolatier ?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_time</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">A &lt;time&gt;-week journey.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Un voyage de &lt;time&gt; d'une semaine.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_price</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This trip will cost &lt;price&gt;.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ce voyage coûtera &lt;price&gt;.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_expensive</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You can not afford this.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Tu ne peux pas te le permettre.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_visarequired</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Port Not Open </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ce port n'est pas ouvert.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_freedisabled</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This port may be opened in Story Mode</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ce port peut être ouvert en mode histoire.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_click</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Click to go here.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cliquez pour aller ici.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_stowaway</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Click to stow away.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cliquez pour ranger.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_here</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You are here.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Tu es là.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_enter</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Click to enter port.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cliquez pour entrer le port.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">item_pricing</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;price&gt;/sack in &lt;port&gt;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;price&gt;/sac dans &lt;port&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">product_pricing</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;price&gt;/case in &lt;port&gt;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;price&gt;/cas dans &lt;port&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">last_seen</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Last seen in %1% for %2%/sack</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vu pour la dernière fois à %1% pour %2%/sack</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">last_bought</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Last purchased in %1% for %2%/sack</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Dernier achat en %1% pour %2%/sac</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">item_na</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">n/a in &lt;port&gt;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">n/a dans &lt;port&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">item_inventory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% sacks in your inventory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% sacs dans votre inventaire</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">prod_inventory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% cases in your inventory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% cas dans votre inventaire</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">recipe_unknown</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You do not own this particular recipe. It sure looks delicious, doesn't it? And it certainly must be out there somewhere, just waiting to be discovered...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous ne possédez pas cette recette particulière. Ça a l'air délicieux, n'est-ce pas ? Et il doit certainement être quelque part là-bas, attendant juste d'être découvert...</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">item_sold</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% cases sold</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% caisses vendues</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">item_recipes</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Used to make:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Utilisé pour faire :</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">item_ingredients</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Recipe requires:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">La recette nécessite :</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">item_morerecipes</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">... and others</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">... et d'autres.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">building_empty</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I wish you well on your quest to become a Master Chocolatier!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je vous souhaite bonne chance dans votre quête pour devenir un Maître Chocolatier !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">building_empty_mc</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Wow, &lt;player&gt;! You are building quite a name for yourself out there!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Wow, &lt;joueur&gt; ! Vous êtes en train de vous faire un sacré nom !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_toomany</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I wish you had that many, &lt;player&gt;. But, I will take all you've got!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">J'aimerais que vous en ayez autant, &lt;player&gt;. Mais je vais prendre tout ce que tu as !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_noproducts</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I would be happy to purchase your confections. Come back to me when you have something to sell.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je serais heureux d'acheter vos confections, mais il semble que vous n'en ayez pas sous la main en ce moment. Reviens me voir quand tu auras quelque chose à vendre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_newproduct</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Congratulations, you sold your first %1%!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Félicitations, vous avez vendu votre premier %1% Vous avez vendu un lot de %1%. Il semble que la demande soit en baisse.!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_demanddropping</Data></Cell>
@@ -718,131 +718,131 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_demandlow</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Demand for %1% seems pretty low right now.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">La demande pour %1% semble assez faible en ce moment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_demandbottom</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% don't seem to be selling very well anymore. The market may be played out.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%1% ne semblent plus très bien se vendre. Le marché peut se jouer.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">buy_notenough</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You don't have enough cash on hand to make that purchase...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous n'avez pas assez d'argent en main pour effectuer cet achat...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">farm_sale</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Some of the fancier recipes require varietal Cacao. We grow and ferment only the finest &lt;item&gt; here. At &lt;price&gt; a sack, not a bad deal. How many sacks would you like?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Certaines des recettes les plus sophistiquées nécessitent du cacao variétal. Nous cultivons et fermentons uniquement les meilleurs &lt;item&gt; ici. À &lt;price&gt; un sac, pas une mauvaise affaire. Combien de sacs souhaitez-vous ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_purchase</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This factory was once part of the great Baumeister Confections empire. Lately, it has fallen on hard times, and I am looking for a new owner to make the most of it. It can be yours for only &lt;price&gt;. Would you like to buy it?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cette usine faisait autrefois partie du grand empire Baumeister Confections. Ces derniers temps, il a connu des moments difficiles, et je cherche un nouveau propriétaire pour en profiter au maximum. Il peut être à vous pour seulement &lt;price&gt;. Souhaitez-vous l'acheter?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_toomuch</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This is an old Baumeister Confections factory. I would be willing to sell it to you for &lt;price&gt;. Come back and look me up whenever you have the money to purchase it.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Il s'agit d'une ancienne usine Baumeister Confections. Je serais prêt à vous le vendre pour &lt;price&gt;. Revenez me voir dès que vous aurez l'argent pour l'acheter.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_status</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Factory status: %1%</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">État d'usine : %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_weeks</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Enough ingredients for %1% full weeks</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Suffisamment d'ingrédients pour %1% semaines complètes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_short</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Running low on ingredients</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">À court d'ingrédients</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_out</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Missing ingredients:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ingrédients manquants :</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">recipe_out</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">We don't have the ingredients to make this recipe!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Nous n'avons pas les ingrédients pour faire cette recette.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_config</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Making %1% per week (%2%%% efficiency)</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Gagner %1% par semaine (%2%%% d'efficacité)</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_perweek</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">per week</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">par semaine</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_recipe</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">The recipe we're working with requires:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">La recette avec laquelle nous travaillons nécessite :</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_recipeselect</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This recipe requires:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cette recette nécessite :</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_thisperweek</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This factory will make %1% per week.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cette usine fabriquera %1% par semaine.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_otherperweek</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You make %2% per week at %1%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous gagnez %2% par semaine à %1%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">product_sellcount</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You have sold %1%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous avez vendu %1%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_machines</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You have equipped this factory for:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous avez équipé cette usine pour :</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_buymachine</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">To make &lt;product&gt; here, we'll need a machine that makes &lt;type&gt;. The required machine costs: &lt;price&gt;. Do you want to buy that machine for this factory now?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pour faire &lt;product&gt; ici, nous aurons besoin d'une machine qui fait du &lt;type&gt;. Les coûts de machine requis : &lt;price&gt;. Voulez-vous acheter cette machine pour cette usine maintenant ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_buymachine_expensive</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">That recipe requires a machine for &lt;type&gt;, and we don't have one at this factory. The machine costs &lt;price&gt;, which is a bit out of our budget right now!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cette recette nécessite une machine pour &lt;type&gt;, et nous n'en avons pas dans cette usine. La machine coûte &lt;price&gt;, ce qui est un peu hors de notre budget en ce moment !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_noingredients</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">In order to crank up the machines to start working on that recipe, we'll need to have all the required ingredients on hand. The following ingredients are still needed:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Afin de lancer les machines pour commencer à travailler sur cette recette, nous aurons besoin d'avoir tous les ingrédients nécessaires à portée de main. Les ingrédients suivants sont encore nécessaires :</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_start</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Aim and click to fire ingredients.&lt;br&gt;Match the recipe template you see on the right.&lt;br&gt;&lt;br&gt;I'll speed the machines up as you succeed.&lt;br&gt;Waste ingredients, and I'll slow things down.&lt;br&gt;Waste 8, and I'll be forced to halt production.&lt;br&gt;Good luck!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Visez et cliquez pour tirer les ingrédients.&lt;br&gt;Faites correspondre le modèle de recette que vous voyez sur la droite.&lt;br&gt;&lt;br&gt;J'accélérerai les machines au fur et à mesure que vous réussirez.&lt;br&gt;Déchets d'ingrédients, et je' Je vais ralentir les choses.&lt;br&gt;Waste 8, et je serai obligé d'arrêter la production.&lt;br&gt;Bonne chance !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">start</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Start!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Démarrer!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s23"><Data ss:Type="String">medium</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Medium</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Moyen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="12">
     <Cell ss:StyleID="s23"><Data ss:Type="String">fast</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Fast</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vite</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Hidden="1">
     <Cell ss:StyleID="s23"><Data ss:Type="String">slow</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Slow</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Lent</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">production_low</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Not too shabby, there, boss.&lt;br&gt;&lt;br&gt;The more cases of chocolates you make here, the more we'll be able to make each week, and the faster you'll see your profits climb...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pas trop minable, là, patron.&lt;br&gt;&lt;br&gt;Plus vous ferez de caisses de chocolats ici, plus nous pourrons en fabriquer chaque semaine, et plus vite vous verrez vos bénéfices grimper...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">production_med</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Nice job, boss!&lt;br&gt;&lt;br&gt; Remember, the more cases of chocolates we produce each week, the more money we can make!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bravo, patron !&lt;br&gt;&lt;br&gt; N'oubliez pas que plus nous produisons de caisses de chocolats chaque semaine, plus nous pouvons gagner d'argent !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">production_high</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Wow, you have really got a way with those machines!&lt;br&gt;&lt;br&gt;Just keep the ingredients on hand, and we'll keep cranking out the cases at the rate you just established.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Wow, vous avez vraiment un moyen avec ces machines !&lt;br&gt;&lt;br&gt;Gardez simplement les ingrédients à portée de main, et nous continuerons à préparer les caisses au rythme que vous venez d'établir.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">production_awesome</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Yowza!&lt;br&gt;&lt;br&gt;I can't believe how many of that recipe you just cranked out! You are truly a gifted chocolate-maker...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Yowza !&lt;br&gt;&lt;br&gt;Je n'arrive pas à croire le nombre de recettes que vous venez de préparer ! Vous êtes vraiment un chocolatier doué...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">production_stopped</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Whoa!&lt;br&gt;&lt;br&gt;Ingredients were flying everywhere, so I had to shut things down to clean up and recalibrate.&lt;br&gt;&lt;br&gt;Remember to match the green recipe template on the right.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Whoa !&lt;br&gt;&lt;br&gt;Les ingrédients volaient partout, j'ai donc dû éteindre les choses pour nettoyer et recalibrer.&lt;br&gt;&lt;br&gt;N'oubliez pas de faire correspondre le modèle de recette vert sur la droite.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">sanfrancisco_production_low</Data></Cell>
@@ -966,47 +966,47 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="27">
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_intro</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Hail, fellow traveler. I'd like to offer you a wager - shall we say &lt;wager&gt;? Highest roll wins. &lt;br&gt;&lt;br&gt;Feeling lucky?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Salut, compagnon de route. J'aimerais vous proposer un pari - dirons-nous &lt;pari&gt; ? Le lancer le plus élevé gagne. &lt;br&gt;&lt;br&gt;Vous avez de la chance ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_wager</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Your Wager:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Votre pari :</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_nofunds</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I don't like that look in your eye. Find me again when you're sure you can cover your bets!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je n'aime pas ce regard dans tes yeux. Retrouve-moi quand tu es sûr de pouvoir couvrir tes paris !</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_toomuch</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Did I say &lt;i&gt;any&lt;/i&gt; bet? Well... I don't want to leave you penniless...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ai-je dit &lt;je&gt;n'importe lequel&lt;/i&gt; pari? Eh bien... je ne veux pas te laisser sans le sou...</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_zero</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bah, don't waste my time!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bah, ne me fais pas perdre mon temps !</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_myroll</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;character&gt;'s Roll</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;character&gt;'s Rouler</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_yourroll</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;'s Roll</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;'s Rouler</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_tie</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">It's a draw! I guess we both get to keep our money.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">C'est un match nul ! Je suppose que nous pouvons tous les deux garder notre argent.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_win</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You win! Here, take your winnings and be off.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous gagnez! Ici, prenez vos gains et partez.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dice_lose</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I win! I wish you better luck next time.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je gagne! Je te souhaite plus de chance la prochaine fois.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">factory_zero</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">PRODUCTION STALLED!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">PRODUCTION CALÉE !</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">lbl_messages</Data></Cell>
@@ -1014,7 +1014,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">lbl_factory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Factory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Usine</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">lbl_status</Data></Cell>
@@ -1022,7 +1022,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">lbl_inventory</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Inventaire</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">medal_novice</Data></Cell>
@@ -2451,7 +2451,7 @@
    </Row>
    <Row ss:StyleID="s21">
     <Cell ss:StyleID="s22"/>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx CHARACTERS xxxx</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx PERSONNAGES xxxx</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">announcer</Data></Cell>
@@ -2533,7 +2533,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="11.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">sftutor</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Evangeline Baumeister</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Évangéline Baumeister</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sfshopkeep</Data></Cell>
@@ -2637,7 +2637,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">trinparkkeep</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Felix Baumeister</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Félix Baumeister</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">trinshopkeep</Data></Cell>
@@ -2929,11 +2929,11 @@
    </Row>
    <Row ss:StyleID="s21">
     <Cell ss:StyleID="s22"/>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx PRODUCTS AND PRODUCT TYPES xxxx</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx PRODUITS ET TYPES DE PRODUITS xxxx</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">bar</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bars</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Barres</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">basebars</Data></Cell>
@@ -3073,7 +3073,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">square</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Squares</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Carrés</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">xdark_sq</Data></Cell>
@@ -3337,7 +3337,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">truffle</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Truffles</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Truffes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">milk_truffles</Data></Cell>
@@ -3469,7 +3469,7 @@
    </Row>
    <Row ss:StyleID="s21">
     <Cell ss:StyleID="s22"/>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx QUESTS xxxx</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx QUÊTES xxxx</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">noquests</Data></Cell>
@@ -3477,43 +3477,43 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">free_noquests</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">To be offered and accept quests, you must play %empire_mode%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pour vous voir proposer et accepter des quêtes, vous devez jouer à %empire_mode%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qh_nudge</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Are you not in the middle of a quest? Click on the &quot;Messages&quot; button below and review the white to-do text that explains what you need to do to complete the quest...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous n'êtes pas en pleine quête ? Cliquez sur &quot;Messages&quot; ci-dessous et passez en revue le texte blanc de la tâche à faire qui explique ce que vous devez faire pour terminer la quête...</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">quest_accept</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Quest accepted: %1%</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Quête acceptée: %1%</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="41.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">quest_complete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Quest completed: %1%</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Quête terminée: %1%</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s23"><Data ss:Type="String">reward</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You will receive:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous allez recevoir:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">reward_recipe</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">The recipe for %1%</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">La recette de %1%</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">reward_port</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Directions to the port of %1%</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Itinéraire vers le port de %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">receive_cash</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You receive %1%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous recevez %1%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">receive_item</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You receive %1% %2%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous recevez %1% %2%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s23"><Data ss:Type="String">receive_recipe</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You have learned to make %1%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous avez appris à faire %1%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="44.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_tutor00</Data></Cell>
@@ -4481,43 +4481,43 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_entrep21</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Greetings, &lt;player&gt;. I heard from %trinsaloonkeep% to keep an eye out for you.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Salutations, &lt;player&gt;. %trinsaloonkeep% m'a demandé de garder un œil sur vous.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_entrep22</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Listen - I happen to know that %qshop% may be coming up for sale for a good price, less than $40,000. If you were to bring a dozen cases of your %cashew_dark_sq% to %qsalooner%, she can fill you in on the details...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Écoutez, je sais que %qshop% pourrait être mis en vente à un bon prix, moins de 40 000 $. Si vous deviez apporter une douzaine de caisses de votre %cashew_dark_sq% à %qsalooner%, elle pourra vous donner les détails...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_entrep22</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring 12 cases of %cashew_dark_sq% to %qsalooner% in %quito%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez 12 caisses de %cashew_dark_sq% à %qsalooner% à %quito%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_entrep22</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">My oh my, what I would give for a dozen cases of %cashew_dark_sq%...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mon Dieu, qu'est-ce que je donnerais pour une douzaine de caisses de %cashew_dark_sq%...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_entrep22</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Thank you so much for those exquisite %cashew_dark_sq%. We are very happy here in %quito% with what you are doing, and I have a Baumeister recipe to share.&lt;br&gt;Also, if you can get $25,000 together and head over to %qshop% now, I think you might just be able to take ownership of the shop...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Merci beaucoup pour ces %cashew_dark_sq% exquis. Nous sommes très heureux ici à %quito% de ce que vous faites, et j'ai une recette de Baumeister à partager.&lt;br&gt;De plus, si vous pouvez réunir 25 000 $ et vous diriger vers %qshop% maintenant, je pense que vous pourriez pouvoir s'approprier la boutique...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">message_entrep22</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Have $25,000 on hand and go see %qshopkeep% about acquiring the shop in %quito%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Avoir 25 000 $ sous la main et aller voir %qshopkeep% pour acquérir la boutique à %quito%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_entrep23</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Greetings, &lt;player&gt;. I understand that you might be interested in acquiring this shop? For $25,000, it can be yours. We'll always buy your goods at the highest prices, and keep you informed of local trends. What do you say?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Salutations, &lt;player&gt;. Je comprends que vous pourriez être intéressé par l'acquisition de cette boutique ? Pour 25 000 $, il peut être le vôtre. Nous achèterons toujours vos marchandises aux prix les plus élevés et vous tiendrons au courant des tendances locales. Que dis-tu?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_entrep23</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Purchase %qshop% from %qshopkeep% for $25,000.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Achetez %qshop% auprès de %qshopkeep% pour 25 000 $.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_entrep23</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">My offer still stands - you need to come up with $25,000.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mon offre tient toujours - vous devez trouver 25 000 $.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_entrep23</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Wonderful! May our partnership be long and prosperous for both of us!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Formidable! Que notre partenariat soit long et prospère pour nous deux !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qextra_entrep23</Data></Cell>
@@ -4525,483 +4525,483 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_entrep24</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Salutations, &lt;player&gt;. I've been hearing marvelous things about your concoctions. I have in my possession a mouth-watering recipe for %cherry_squares%. If I give it to you now, will you prepare 20 cases of the same for me? I'll find you during your travels to retrieve the chocolates. Do we have a deal?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Salutations, &lt;player&gt;. J'ai entendu des choses merveilleuses sur vos concoctions. J'ai en ma possession une recette alléchante de %cherry_squares%. Si je vous le donne maintenant, allez-vous m'en préparer 20 caisses ? Je vous retrouverai lors de vos déplacements pour récupérer les chocolats. Avons-nous un accord?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="17.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_entrep24</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Prepare 20 cases of %cherry_squares% for %talker%, who will find you in your travels.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Préparez 20 caisses de %cherry_squares% pour %talker%, qui vous retrouvera dans vos voyages.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="18">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_entrep24</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I trust that you will keep your word and prepare for me those 20 cases of %cherry_squares% that we agreed upon?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">J'espère que vous tiendrez parole et que vous me préparerez ces 20 caisses de %cherry_squares% sur lesquelles nous nous sommes mis d'accord ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="19.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_entrep24</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Ah, there we are then, you have my chocolates. Thank you ever so much, and I sincerely hope that you are able to utilize the %cherry_squares% recipe in your efforts to grow your chocolate empire!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ah, nous y voilà, vous avez mes chocolats. Merci beaucoup et j'espère sincèrement que vous pourrez utiliser la recette des %cherry_squares% dans vos efforts pour développer votre empire du chocolat !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_istvisa_leadina</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Listen, &lt;player&gt;, if you want to make it to Istanbul, and trust me, you do want to make it to Istanbul, you'll need a visa. Keep an eye peeled for %quester5%. He's around here somewhere, and he often has interesting things to sell.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Écoutez, &lt;player&gt;, si vous voulez vous rendre à Istanbul, et croyez-moi, vous voulez vous rendre à Istanbul, vous aurez besoin d'un visa. Gardez un œil ouvert pour %quester5%. Il est quelque part par ici, et il a souvent des choses intéressantes à vendre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_istvisa_leadina</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Keep an eye peeled for %quester5%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Gardez un œil ouvert pour %quester5%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_istvisa_leadinb</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Listen, &lt;player&gt;, if you want to make it to Istanbul, and trust me, you do want to make it to Istanbul, you'll need a visa. Keep an eye peeled for %quester5%. He's around here somewhere, and he often has interesting things to sell.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Écoutez, &lt;player&gt;, si vous voulez vous rendre à Istanbul, et croyez-moi, vous voulez vous rendre à Istanbul, vous aurez besoin d'un visa. Gardez un œil ouvert pour %quester5%. Il est quelque part par ici, et il a souvent des choses intéressantes à vendre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_istvisa_leadinb</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Keep an eye peeled for %quester5%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Gardez un œil ouvert pour %quester5%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_istvisa_leadinc</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Listen, &lt;player&gt;, if you want to make it to Istanbul, and trust me, you do want to make it to Istanbul, you'll need a visa. Keep an eye peeled for %quester5%. He's around here somewhere, and he often has interesting things to sell.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Écoutez, &lt;player&gt;, si vous voulez vous rendre à Istanbul, et croyez-moi, vous voulez vous rendre à Istanbul, vous aurez besoin d'un visa. Gardez un œil ouvert pour %quester5%. Il est quelque part par ici, et il a souvent des choses intéressantes à vendre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_istvisa_leadinc</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Keep an eye peeled for %quester5%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Gardez un œil ouvert pour %quester5%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_istvisa_leadind</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Listen, &lt;player&gt;, if you want to make it to Istanbul, and trust me, you do want to make it to Istanbul, you'll need a visa. Keep an eye peeled for %quester5%. He's around here somewhere, and he often has interesting things to sell.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Écoutez, &lt;player&gt;, si vous voulez vous rendre à Istanbul, et croyez-moi, vous voulez vous rendre à Istanbul, vous aurez besoin d'un visa. Gardez un œil ouvert pour %quester5%. Il est quelque part par ici, et il a souvent des choses intéressantes à vendre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_istvisa_leadind</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Keep an eye peeled for %quester5%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Gardez un œil ouvert pour %quester5%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_istvisa_leadine</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Listen, &lt;player&gt;, if you want to make it to Istanbul, and trust me, you do want to make it to Istanbul, you'll need a visa. Keep an eye peeled for %quester5%. He's around here somewhere, and he often has interesting things to sell.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Écoutez, &lt;player&gt;, si vous voulez vous rendre à Istanbul, et croyez-moi, vous voulez vous rendre à Istanbul, vous aurez besoin d'un visa. Gardez un œil ouvert pour %quester5%. Il est quelque part par ici, et il a souvent des choses intéressantes à vendre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_istvisa_leadine</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Keep an eye peeled for %quester5%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Gardez un œil ouvert pour %quester5%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_istvisa_leadinf</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Listen, &lt;player&gt;, if you want to make it to Istanbul, and trust me, you do want to make it to Istanbul, you'll need a visa. Keep an eye peeled for %quester5%. He's around here somewhere, and he often has interesting things to sell.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Psst. Écoutez, &lt;player&gt;, si vous voulez vous rendre à Istanbul, et croyez-moi, vous voulez vous rendre à Istanbul, vous aurez besoin d'un visa. Gardez un œil ouvert pour %quester5%. Il est quelque part par ici, et il a souvent des choses intéressantes à vendre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_istvisa_leadinf</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Keep an eye peeled for %quester5%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Gardez un œil ouvert pour %quester5%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_openistanbul</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I happen to have gotten a hold of an extra visa for travel to Istanbul. I understand there is quite the trove of recipes to be found at %istkikulesi%. Anyway, are you interested in taking this off of my hands for, say, $5000?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Il se trouve que j'ai obtenu un visa supplémentaire pour voyager à Istanbul. Je comprends qu'il y a tout un tas de recettes à trouver sur %istkikulesi%. Quoi qu'il en soit, êtes-vous intéressé à m'enlever ça des mains pour, disons, 5000 $ ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_openistanbul</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Excellent. Do be sure to visit %isttowerkeep% when you make your way over there. Tell him I sent you.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Excellent. Assurez-vous de visiter %isttowerkeep% lorsque vous vous y rendrez. Dis-lui que je t'envoie.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_isttower01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You were sent by %quester5%? In that case, welcome to %istkikulesi%. I am indeed in possession of a very old, very rare Recipe Book. Some of the pages are faded, but there are 2 or 3 recipes in here that I think you'll be able to make use of. Would you like to buy it for, say, $9500?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous avez été envoyé par %quester5% ? Dans ce cas, bienvenue sur %istkikulesi%. Je suis en effet en possession d'un livre de recettes très ancien et très rare. Certaines pages sont fanées, mais il y a 2 ou 3 recettes ici que je pense que vous pourrez utiliser. Souhaitez-vous l'acheter pour, disons, 9500 $?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">A good day to you, &lt;player&gt;. I am so pleased to see the Baumeister recipes being put to proper use. Not to take anything away from Rowena, but quality just hadn't been up to snuff. Of course, I remember tasting my first Baumeister Infusion when I was just a wee lad.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bonne journée à vous, &lt;player&gt;. Je suis tellement heureux de voir les recettes Baumeister être utilisées à bon escient. Sans rien enlever à Rowena, mais la qualité n'avait tout simplement pas été à la hauteur. Bien sûr, je me souviens avoir goûté ma première infusion Baumeister quand j'étais tout petit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">If you happen to run across an %hench2% in your travels - and believe you me, he is one hard fella to miss - you'd best be wary, my friend.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">S'il vous arrive de rencontrer un %hench2% lors de vos voyages - et croyez-moi, c'est un type difficile à manquer - vous feriez mieux de vous méfier, mon ami.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story03</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I've been working at this place for a long, long time. Now this is just my opinion, but I never had a lot of problems with the wife, Rowena. The husband, on the other hand - %villain% - that's another story all together...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je travaille à cet endroit depuis très longtemps. Ce n'est que mon avis, mais je n'ai jamais eu beaucoup de problèmes avec la femme, Rowena. Le mari, par contre - %villain% - c'est une toute autre histoire...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story04</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">When you've been around as long as I have, &lt;player&gt;, you get to be a pretty good judge of character. I truly believe that if %villain% had never entered the picture, Baumeister Confections would be thriving to this very day...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Quand tu es là depuis aussi longtemps que moi, &lt;player&gt;, tu deviens un assez bon juge de caractère. Je crois vraiment que si %villain% n'était jamais entré en scène, Baumeister Confections serait en plein essor à ce jour...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You are looking for recipes, is it? I don't have anything just now, but I do come across them now and again...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous cherchez des recettes, n'est-ce pas? Je n'ai rien pour l'instant, mais j'en croise de temps en temps...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story06</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I am indeed a Baumeister - a cousin anyhow - but I try to steer clear of that situation, at least as much as I can. My husband and I are simply trying to earn a decent living doing what we love - purveying chocolates.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je suis bien un Baumeister - un cousin en tout cas - mais j'essaie d'éviter cette situation, du moins autant que je peux. Mon mari et moi essayons simplement de gagner décemment notre vie en faisant ce que nous aimons - fournir des chocolats.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story07</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">While I have never left the island of Madagascar, I have read widely, and I keep up with what's going on out there. I know that what you are doing is honorable - do not be deterred!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bien que je n'aie jamais quitté l'île de Madagascar, j'ai beaucoup lu et je me tiens au courant de ce qui se passe là-bas. Je sais que ce que vous faites est honorable - ne vous découragez pas !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story08</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Have I heard of %villain%? Of course! His money is as good as anyone else's, as far as I'm concerned. Are you in need of ingredients, my friend?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ai-je entendu parler de %villain% ? Bien sûr! Son argent est aussi bon que celui de n'importe qui d'autre, en ce qui me concerne. Avez-vous besoin d'ingrédients, mon ami?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story09</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Oh, those sisters of mine, how I wish they would just resolve their differences. For myself, I will buy quality chocolates from whomever sells them to me at the right price. Have a look at what I'm willing to pay...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Oh, mes sœurs, comme j'aimerais qu'elles résolvent simplement leurs différends. Pour ma part, j'achèterai des chocolats de qualité à qui me les vendra au juste prix. Regarde ce que je suis prêt à payer...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story10</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You may have met my fiance, %quester%? She is wonderful, isn't she? I have loved many in my day, but none compares to her. And what a sweet tooth! Sarah feels Grimaldo is to blame for our family's troubles, but I'm not so sure...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous avez peut-être rencontré mon fiancé, %quester% ? Elle est merveilleuse, n'est-ce pas ? J'en ai aimé beaucoup dans ma journée, mais aucune ne se compare à elle. Et quelle dent sucrée ! Sarah pense que Grimaldo est responsable des problèmes de notre famille, mais je n'en suis pas si sûr...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story11</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I have a message for you, &lt;player&gt;. The Queen of England is planning an event, and %ukpalacekeep% would like to place an order for some of your confections. Be sure to visit him next time you are in %london%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">J'ai un message pour vous, &lt;player&gt;. La reine d'Angleterre organise un événement et %ukpalacekeep% aimerait passer une commande pour certaines de vos confections. Assurez-vous de lui rendre visite la prochaine fois que vous irez à %london%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story12</Data></Cell>
-    <Cell><Data ss:Type="String">Ye never know who ye might cross paths with here in the Bull's Head Pub, do ye?</Data></Cell>
+    <Cell><Data ss:Type="String">Vous ne savez jamais qui vous pourriez croiser ici au Bull's Head Pub, n'est-ce pas ?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_e_story13</Data></Cell>
-    <Cell><Data ss:Type="String">Do visit again, Chocolatier. The Queen has a sweet tooth, and may just have an interest in sampling your wares. Cheerio.</Data></Cell>
+    <Cell><Data ss:Type="String">Revenez, Chocolatier. La reine aime les sucreries et pourrait simplement avoir envie de goûter à vos marchandises. Cheerio.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">message_e_story11</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Visit %ukpalacekeep% in %london% to inquire about an order of chocolates for the Queen's event.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Visitez %ukpalacekeep% à %london% pour vous renseigner sur une commande de chocolats pour l'événement Queen's.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_entrep_rank_end</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Go to %sanfrancisco% and speak with %sftutor%. She has an important message for you...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Allez à %sanfrancisco% et parlez avec %sftutor%. Elle a un message important pour vous...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_entrep_rank_end</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%sftutor% has a message for you...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%sftutor% a un message pour vous...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="27">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_entrep_rank_end</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I am glad you received my message, &lt;player&gt;. You are doing amazingly well. Your rank is now %rank_3%. You are free to explore more ports and engage in new adventures. I also have a recipe for you. And do be sure to visit %nylibrarian%. Tell him I said: &quot;Unleash the Dog.&quot; He'll know what I mean...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je suis ravi que vous ayez reçu mon message, &lt;player&gt;. Vous vous débrouillez merveilleusement bien. Votre rang est maintenant %rank_3%. Vous êtes libre d'explorer plus de ports et de vous lancer dans de nouvelles aventures. J'ai aussi une recette pour vous. Et assurez-vous de visiter %nylibrarian%. Dites-lui que j'ai dit : &quot;Lâchez le chien.&quot; Il comprendra ce que je veux dire...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="27">
     <Cell ss:StyleID="s23"><Data ss:Type="String">unleash_hint</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">When you make it to %newyork%, remember to tell %nylibrarian% Evangeline says to &quot;unleash the dog.&quot;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Lorsque vous arriverez à %newyork%, n'oubliez pas de dire à %nylibrarian% qu'Evangeline dit de &quot;lâcher le chien&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="27">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_nylibrary02_nudge</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Did my cousin not give you a special message for %nylibrarian%? Might you consider delivering the message now?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mon cousin ne vous a-t-il pas donné un message spécial pour %nylibrarian% ? Pourriez-vous envisager de faire passer le message maintenant ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="27">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_nylibrary02_nudge</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Go tell %nylibrarian% in %newyork% that Evangeline says to &quot;unleash the dog.&quot;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Allez dire à %nylibrarian% à %newyork% qu'Evangeline dit de "lâcher le chien".</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_nylibrary02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&quot;Unleash the Dog?&quot; %sftutor% said that? Wow, you must be quite the Chocolatier, my friend. Wait here just a moment, let me fetch something for you...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&quot;Lâcher le chien ?&quot; %sftutor% dit que? Wow, tu dois être un sacré chocolatier, mon ami. Attends ici juste un instant, laisse-moi te chercher quelque chose....</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_nylibrary02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">What I am giving you now is a Baumeister recipe from the vault. This is for an Infusion - Baumeister invented this method of making confections many moons ago. The markup on these kinds of confections is quite high indeed. Best of luck to you, &lt;player&gt;. And don't be a stranger...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ce que je vous donne maintenant est une recette Baumeister du coffre-fort. Ceci est pour une infusion - Baumeister a inventé cette méthode de confection de confiseries il y a de nombreuses lunes. La majoration sur ces types de confections est en effet assez élevée. Bonne chance à vous, &lt;player&gt;. Et ne soyez pas un étranger...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Listen, I'm headed to Hawaii. I'll be on my way back in about 3 weeks. I happen to know a guy out there who is selling a recipe for %coffee_infusion%. These sweets are getting a lot of attention all over the place. Anyhow, if you're willing to pay me $2750 when next we cross paths, I'd be happy to pick it up for you. What do you say?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Écoute, je vais à Hawaï. Je serai de retour dans environ 3 semaines. Il se trouve que je connais un type qui vend une recette de %coffee_infusion%. Ces bonbons attirent beaucoup l'attention partout. Quoi qu'il en soit, si vous êtes prêt à me payer 2750 $ la prochaine fois que nous nous croiserons, je serais heureux de le récupérer pour vous. Que dis-tu?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Buy the recipe for %coffee_infusion% for $2750 from %quester5%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Achetez la recette de %coffee_infusion% pour 2750 $ auprès de %quester5%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I'm still on my way to Hawaii. Do you have the $2750 together?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je suis toujours en route pour Hawaï. Avez-vous les 2750 $ ensemble?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You've got the $2750? Great - here's the recipe for %coffee_infusion%. Pleasure doing business with you, &lt;player&gt;, and I hope to see you again soon.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous avez les 2750 $ ? Génial - voici la recette de %coffee_infusion%. Au plaisir de faire affaire avec vous, &lt;joueur&gt;, et j'espère vous revoir bientôt.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Greetings, and welcome to %colmosque%. I happen to have, in my possession, 3 Baumeister recipes for Infusions. I tell you what, if I give you 2 of them, will you promise to bring me back a sample of each? You do that, and I'll hand over the 3rd recipe. Do we have a deal?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Salutations et bienvenue à %colmosque%. Il se trouve que j'ai en ma possession 3 recettes Baumeister d'Infusions. Je vous dis quoi, si je vous en donne 2, vous me promettez de me rapporter un échantillon de chacun ? Vous faites cela, et je vous remettrai la 3e recette. Avons-nous un accord?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring %colmosqueer% samples of your %coconut_infusion% and %cherry_infusion%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez %colmosqueer% échantillons de vos %coconut_infusion% et %cherry_infusion%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Do you have my sweets? I have the other recipe all wrapped up for you....</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Avez-vous mes bonbons? J'ai l'autre recette toute prête pour vous...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Delicious! You really are a gifted Chocolatier. Here is the remaining recipe - for %maha_cherry_infusion%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Délicieuse! Tu es vraiment un chocolatier doué. Voici la recette restante - pour %maha_cherry_infusion%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">choco03_logmsg</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring 10 cases of %maha_cherry_infusion% to %colsalooner% at %colombo%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez 10 caisses de %maha_cherry_infusion% à %colsalooner% à %colombo%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco03</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Have you met %colsalooner% over at %colsaloon%? She's mean - that is true. But I happen to know that she has a soft spot for %maha_cherry_infusion%. If you were to show up with, say, 10 cases, she may just have a surprise for you...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Avez-vous rencontré %colsalooner% à %colsaloon% ? Elle est méchante - c'est vrai. Mais je sais qu'elle a un faible pour %maha_cherry_infusion%. Si vous vous présentiez avec, disons, 10 caisses, elle pourrait avoir une surprise pour vous...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco03</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Trade 10 cases of %maha_cherry_infusion% for %colsalooner%'s surprise at %colombo%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Échangez 10 caisses de %maha_cherry_infusion% contre la surprise de %colsalooner% à %colombo%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco03</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">What is it? If you haven't got 10 cases of %maha_cherry_infusion% to trade, then get lost!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Qu'est-ce que c'est? Si vous n'avez pas 10 caisses de %maha_cherry_infusion% à échanger, alors perdez-vous !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco03</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">What do you want?&lt;br&gt;&lt;br&gt;Oh, I see that you've got 10 cases of %maha_cherry_infusion% for me. All right, then. Here is a recipe in exchange. Happy trails.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Que voulez-vous ?&lt;br&gt;&lt;br&gt;Oh, je vois que vous avez 10 caisses de %maha_cherry_infusion% pour moi. Très bien alors. Voici une recette en échange. Bonne route.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco04</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I've been hearing about you, &lt;player&gt;. Mostly good things, too. When I was in Africa, I got to know a very generous man by the name of %accralighthousekeep%. If you were to arrive with my good tidings as well as 2 dozen cases of %colodarkbars%, I think there might be a nice reward in it for you. Interested?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">J'ai entendu parler de vous, &lt;player&gt;. Surtout de bonnes choses aussi. Quand j'étais en Afrique, j'ai rencontré un homme très généreux du nom de %accralighthousekeep%. Si vous deviez arriver avec mes bonnes nouvelles ainsi que 2 douzaines de caisses de %colodarkbars%, je pense qu'il pourrait y avoir une belle récompense pour vous. Intéressé?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco04</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring 2 dozen cases of %colodarkbars% to %accralighthousekeep% in West Africa.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez 2 douzaines de caisses de %colodarkbars% à %accralighthousekeep% en Afrique de l'Ouest.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco04</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I do have a fantastic, and valuable recipe that I'm willing to part with. Are you working on some chocolates for me?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">J'ai une recette fantastique et précieuse dont je suis prêt à me séparer. Travaillez-vous sur des chocolats pour moi ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco04</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Hmm - absolutely delicious. For these 24 cases, I'm going to give you $5000 and the recipe for %maha_mint_raspberry_infusion%. The Cacao can be purchased on the other side of Africa. I hope the chocolates serve your business well.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hum - absolument délicieux. Pour ces 24 caisses, je vais vous donner 5000$ et la recette de %maha_mint_raspberry_infusion%. Le Cacao peut être acheté de l'autre côté de l'Afrique. J'espère que les chocolats serviront bien votre entreprise.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Have you run across %merruinskeep% in your travels? The man is a real history buff, and a real lover of chocolate. I happen to know that he can not resist %milk_choc_infusion%. Show up with 40 cases, and there just might be a recipe in the deal for you.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Avez-vous croisé %merruinskeep% lors de vos voyages ? L'homme est un vrai passionné d'histoire, et un vrai amateur de chocolat. Il se trouve que je sais qu'il ne peut pas résister à %milk_choc_infusion%. Présentez-vous avec 40 caisses, et il y aura peut-être une recette dans l'offre pour vous.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring %merruinskeep% 40 cases of %milk_choc_infusion%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez %merruinskeep% 40 caisses de %milk_choc_infusion%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">It is no lie, I do fancy 40 cases of %milk_choc_infusion%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ce n'est pas un mensonge, j'ai envie de 40 caisses de %milk_choc_infusion%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qh_choco05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You should look for %merruinskeep% in %merida%, once you've got his chocolates in hand.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vous devriez chercher %merruinskeep% à %merida%, une fois que vous avez ses chocolats en main.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">40 cases of one of my favorite chocolates! I am in your debt, &lt;player&gt;. I tell you what. Here is a special recipe - this is for %sula_macadamia_infusion%. Do call on me again - I will certainly be interested in sampling more of your wares, and I may just be able to find another recipe or two around here...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">40 caisses d'un de mes chocolats préférés ! Je vous suis redevable, &lt;player&gt;. Je vous dis ce que. Voici une recette spéciale - c'est pour %sula_macadamia_infusion%. Faites appel à moi à nouveau - je serai certainement intéressé à goûter plus de vos produits, et je pourrai peut-être trouver une autre recette ou deux ici...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">message_qe_choco05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Remember to call on %merruinskeep% in %merida% in the future.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">N'oubliez pas d'appeler %merruinskeep% à %merida% à l'avenir.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco06</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Welcome to %sulalands%, &lt;player&gt;. I am a simple man, with simple tastes. Would you be so kind as to bring me 12 cases of %darkbars%? You will be rewarded, of course...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bienvenue à %sulalands%, &lt;player&gt;. Je suis un homme simple, avec des goûts simples. Auriez-vous la gentillesse de m'apporter 12 caisses de %darkbars% ? Vous serez bien sûr récompensé...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco06</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring 12 cases of %darkbars% to %sulalandskeep%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez 12 caisses de %darkbars% à %sulalandskeep%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco06</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Have you yet made my %darkbars%?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Avez-vous déjà créé mes %darkbars% ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qh_choco06</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Are you looking for %sulalandskeep%? You can find him in %sulawesi%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cherchez-vous %sulalandskeep% ? Vous pouvez le trouver à %sulawesi%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco06</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, you have brought me what I asked for. Now I will do you a good turn. Go visit %sulafarmkeep% here in town, and tell him I sent you his way.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, tu m'as apporté ce que je t'avais demandé. Maintenant, je vais vous faire un bon tour. Allez rendre visite à %sulafarmkeep% ici en ville et dites-lui que je vous ai envoyé.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco06b</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Go see %sulafarmkeep% and let him know %sulalandskeep% sent you.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Allez voir %sulafarmkeep% et faites-lui savoir que %sulalandskeep% vous a envoyé.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qh_choco06b</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Are you looking for %sulafarmkeep%? You can find him in %sulawesi%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cherchez-vous %sulafarmkeep% ? Vous pouvez le trouver à %sulawesi%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco07</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%sulalandskeep% sent you directly to me? In that case, I have a task for you. I will give you a famous recipe for %mint_infusion%, as long as you promise to bring 5 cases to %sulalandskeep% once you've got some made. Deal?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%sulalandskeep% vous a envoyé directement vers moi ? Dans ce cas, j'ai une tâche pour vous. Je vais vous donner une célèbre recette de %mint_infusion%, tant que vous promettez d'apporter 5 caisses à %sulalandskeep% une fois que vous en aurez fait. Accord?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco07</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Deliver 5 cases of %mint_infusion% to %sulalandskeep%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Livrez 5 caisses de %mint_infusion% à %sulalandskeep%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qh_choco07</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Are you looking for %sulalandskeep%? You'll find him in %sulawesi%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cherchez-vous %sulalandskeep% ? Vous le trouverez à %sulawesi%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco07</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">My good friend %sulafarmkeep% seemed to hint that I might be coming into some chocolates sometime soon?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mon bon ami %sulafarmkeep% a semblé laisser entendre que je pourrais bientôt entrer dans des chocolats ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco07</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">These %mint_infusion% are a gift from %sulafarmkeep%? I am touched! Thank you, &lt;player&gt;, you have made my day!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ces %mint_infusion% sont un cadeau de %sulafarmkeep% ? Je suis touché! Merci, &lt;joueur&gt;, vous avez fait ma journée !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco08</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I see that you're gathering quite the collection of our family recipes - keep up the good work! My father would be proud. By the way, I  recently learned that %nylibrarian% has something for you. Will you be heading to %newyork% soon, by any chance?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je vois que vous rassemblez toute une collection de nos recettes familiales - continuez votre bon travail ! Mon père serait fier. Au fait, j'ai récemment appris que %nylibrarian% avait quelque chose pour vous. Allez-vous bientôt vous rendre à %newyork%, par hasard ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco08</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Visit %nylibrary% to speak with %nylibrarian%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Visitez %nylibrary% pour parler avec %nylibrarian%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qh_choco08</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">If you're trying to find %nylibrary%, you should be heading toward the east coast of the United States.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Si vous essayez de trouver %nylibrary%, vous devriez vous diriger vers la côte est des États-Unis.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco08</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Oh yes, have you spoken with %istshopkeep%? I have something here for you - the Baumeister recipe for %colo_coffee_almond_infusion%. Do visit again sometime!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Oh oui, avez-vous parlé avec %istshopkeep% ? J'ai quelque chose ici pour vous - la recette Baumeister pour %colo_coffee_almond_infusion%. Revenez de temps en temps!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco09_leadina</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I am glad to have run into you, &lt;player&gt;. %quester6% has been asking around for you - I think she has some news to share. I will let her know where you are, and send her to meet you on your travels soon.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je suis content de vous avoir croisé, &lt;player&gt;. %quester6% vous a demandé - je pense qu'elle a des nouvelles à partager. Je lui ferai savoir où vous êtes et je l'enverrai bientôt à votre rencontre lors de vos voyages.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco09_leadina</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Be on the lookout for %quester6%, who has some news to share.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Soyez à l'affût de %quester6%, qui a des nouvelles à partager.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco09_leadinb</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I am glad to have run into you, &lt;player&gt;. %quester6% has been asking around for you - I think she has some news to share. I will let her know where you are, and send her to meet you on your travels soon.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je suis content de vous avoir croisé, &lt;player&gt;. %quester6% vous a demandé - je pense qu'elle a des nouvelles à partager. Je lui ferai savoir où vous êtes et je l'enverrai bientôt à votre rencontre lors de vos voyages.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco09_leadinb</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Be on the lookout for %quester6%, who has some news to share.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Soyez à l'affût de %quester6%, qui a des nouvelles à partager.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco09_leadinc</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I am glad to have run into you, &lt;player&gt;. %quester6% has been asking around for you - I think she has some news to share. I will let her know where you are, and send her to meet you on your travels soon.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je suis content de vous avoir croisé, &lt;player&gt;. %quester6% vous a demandé - je pense qu'elle a des nouvelles à partager. Je lui ferai savoir où vous êtes et je l'enverrai bientôt à votre rencontre lors de vos voyages.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco09_leadinc</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Be on the lookout for %quester6%, who has some news to share.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Soyez à l'affût de %quester6%, qui a des nouvelles à partager.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco09_leadind</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I am glad to have run into you, &lt;player&gt;. %quester6% has been asking around for you - I think she has some news to share. I will let her know where you are, and send her to meet you on your travels soon.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je suis content de vous avoir croisé, &lt;player&gt;. %quester6% vous a demandé - je pense qu'elle a des nouvelles à partager. Je lui ferai savoir où vous êtes et je l'enverrai bientôt à votre rencontre lors de vos voyages.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco09_leadind</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Be on the lookout for %quester6%, who has some news to share.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Soyez à l'affût de %quester6%, qui a des nouvelles à partager.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco09_leadinf</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I am glad to have run into you, &lt;player&gt;. %quester6% has been asking around for you - I think she has some news to share. I will let her know where you are, and send her to meet you on your travels soon.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je suis content de vous avoir croisé, &lt;player&gt;. %quester6% vous a demandé - je pense qu'elle a des nouvelles à partager. Je lui ferai savoir où vous êtes et je l'enverrai bientôt à votre rencontre lors de vos voyages.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco09_leadinf</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Be on the lookout for %quester6%, who has some news to share.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Soyez à l'affût de %quester6%, qui a des nouvelles à partager.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco09</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Hello, &lt;player&gt;. You are building quite the empire, and I have some good news for you. In my travels, I have come across the Baumeister recipe for %dark_truffles%. These are my cousin Deiter's favorites. Would you be willing to bring 5 cases to him at %istshop%?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bonjour, &lt;player&gt;. Vous construisez tout un empire, et j'ai de bonnes nouvelles pour vous. Au cours de mes voyages, j'ai découvert la recette de Baumeister pour %dark_truffes%. Ce sont les favoris de mon cousin Deiter. Accepteriez-vous de lui apporter 5 caisses à %istshop% ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco09</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring 5 cases of %dark_truffles% to %quester6%'s cousin in %istanbul%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez 5 caisses de %dark_truffes% au cousin de %quester6% à %istanbul%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco09</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">My cousin told me that you would be arriving with Truffles?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mon cousin m'a dit que tu arriverais avec des truffes ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco09</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%dark_truffles% made from our family recipe! Unbelievable!&lt;br&gt;Once you step inside, I'll be more than happy to buy them all!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%dark_truffles% fait à partir de notre recette familiale! Incroyable !&lt;br&gt;Une fois que vous entrez, je serai plus qu'heureux de tous les acheter !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco10</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Listen. My fiancee, %quester%, is out traveling, sourcing products for our shop. If you come across her in your travels, would you mind delivering this package to her for me?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ecoutez. Ma fiancée, %quester%, est en voyage, à la recherche de produits pour notre boutique. Si vous la croisez au cours de vos voyages, cela vous dérangerait-il de lui remettre ce colis pour moi ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco10</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Deliver %istshopkeep%'s package to %quester%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Livrez le colis de %istshopkeep% à %quester%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco10</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">A package from Deiter? Let me see what you have there....</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Un colis de Deiter ? Laisse-moi voir ce que tu as là.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco11</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">OK, I'm going to level with you. Deiter and I have been looking for someone to take over our shop. I have 3 recipes here - for %milk_truffles%, %caramel_truffles%, and %mint_choco_truffles%. If you make 36 cases of each of these recipes, and deliver them to Deiter's brother Felix in %trinidad%, the shop will be yours. Deal?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">OK, je vais te mettre à niveau. Deiter et moi cherchions quelqu'un pour reprendre notre boutique. J'ai 3 recettes ici - pour %milk_truffles%, %caramel_truffles% et %mint_choco_truffles%. Si vous préparez 36 caisses de chacune de ces recettes et que vous les livrez au frère de Deiter, Felix, à %trinidad%, la boutique sera à vous. Accord?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco11</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Deliver 36 cases each of %milk_truffles%, %caramel_truffles%, and %mint_choco_truffles% to %trinidad%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Livrez 36 caisses de %milk_truffles%, %caramel_truffles% et %mint_choco_truffles% à %trinidad%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco11</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">What I wouldn't do for 108 cases of a variety of Truffles!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Qu'est-ce que je ne ferais pas pour 108 caisses de truffes variées !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco11</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, you have no idea what these cases of chocolates mean to me and my family. You are succeeding where so many before you have failed. The shop in Istanbul is now yours. It seems almost as if Baumesiter Confections is rising again. Now if only there was some way to reconcile my sisters....</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, vous n'avez aucune idée de ce que ces caisses de chocolats signifient pour moi et ma famille. Vous réussissez là où tant d'autres avant vous ont échoué. La boutique d'Istanbul est maintenant la vôtre. Il semble presque que Baumesiter Confections est à nouveau en hausse. Si seulement il y avait un moyen de réconcilier mes sœurs...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco12</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I have been hearing nothing but good things about you, my friend. I believe I have some information that you might find quite interesting. I would be happy to share it. What do you say you take this recipe for %coconut_lemon_truffles% and make me 50 cases? I will find you in your travels, pay you well for the confections, and also spill some beans, as they say...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je n'ai entendu que du bien à votre sujet, mon ami. Je crois que j'ai des informations qui pourraient vous intéresser. Je serais heureux de le partager. Que diriez-vous de prendre cette recette de %coconut_lemon_truffles% et de m'en faire 50 caisses ? Je te retrouverai dans tes voyages, te paierai bien les confections, et aussi renverserai des fèves, comme on dit...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco12</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Make 50 cases of %coconut_lemon_truffles% for %quester2%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Préparez 50 caisses de %coconut_lemon_truffles% pour %quester2%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qh_choco12</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%quester2% will find you in your travels, you just need to have those 50 cases of %coconut_lemon_truffles% ready for him...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%quester2% vous trouvera dans vos voyages, il vous suffit d'avoir ces 50 caisses de %coconut_lemon_truffles% prêtes pour lui.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco12</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">How are my %coconut_lemon_truffles% coming along?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Comment vont mes %coconut_lemon_truffles% ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco12</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Splendid. Here is $20,000 for your efforts. Now, about the information....</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Splendide. Voici 20 000 $ pour vos efforts. Maintenant, à propos des informations...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qextra_choco12</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">It appears that Rowena and Grimaldo are having some troubles. As you may have surmised, it has been Grimaldo causing so many problems for all these years. I think things are finally catching up to him. Anyhow, stop by to see %sfsalooner% next time you're in %sanfrancisco%. A case or two of those %coconut_lemon_truffles% might just loosen his tongue...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Il semble que Rowena et Grimaldo aient des problèmes. Comme vous l'avez peut-être deviné, c'est Grimaldo qui a causé tant de problèmes pendant toutes ces années. Je pense que les choses le rattrapent enfin. Quoi qu'il en soit, arrêtez-vous pour voir %sfsalooner% la prochaine fois que vous serez à %sanfrancisco%. Une caisse ou deux de ces %coconut_lemon_truffles% pourraient bien lui délier la langue...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">message_choco13_hint</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring a case of %coconut_lemon_truffles% to %sfsalooner% when you're next in %sanfrancisco%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez une caisse de %coconut_lemon_truffles% à %sfsalooner% lors de votre prochaine visite à %sanfrancisco%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco13_nudge</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I think it will be worth your while to hear some information from %sfsalooner%. If you'll bring him a case of %coconut_lemon_truffles%, I'm pretty sure he'll fill you in on some details...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je pense que cela vaudra la peine d'entendre quelques informations de %sfsalooner%. Si vous lui apportez une caisse de %coconut_lemon_truffles%, je suis sûr qu'il vous donnera quelques détails...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco13_nudge</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring a case of %coconut_lemon_truffles% to %sfsalooner% in %sanfrancisco%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez une caisse de %truffes au citron et à la noix de coco% au %sfsalooner% à %san francisco%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco13_nudge</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I do love %coconut_lemon_truffles%, of that there is no doubt....</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">J'adore %coconut_lemon_truffles%, cela ne fait aucun doute...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco13</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%coconut_lemon_truffles%? Now these are some fine chocolates. These remind me of a picnic, many years ago. I asked Evangeline's hand in marriage. Then, and I believe up until this very day, she has had just one true love: %hkpeakkeep%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%coconut_lemon_truffles% ? Maintenant, ce sont des chocolats fins. Ceux-ci me rappellent un pique-nique, il y a de nombreuses années. J'ai demandé la main d'Evangeline en mariage. Ensuite, et je crois jusqu'à ce jour, elle n'a eu qu'un seul véritable amour : %hkpeakkeep%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco13</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">From what I heard, it was %villain% who came between them. If only they could both just see the truth....</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">D'après ce que j'ai entendu, c'était %villain% qui s'est interposé entre eux. Si seulement ils pouvaient tous les deux voir la vérité...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco14</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%mahashopkeep% would like a word with you, &lt;player&gt;. Will you go speak with him in %mahajanga%? </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%mahashopkeep% j'aimerais vous parler, &lt;player&gt;. Irez-vous lui parler à %mahajanga% ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco14</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Speak with %mahashopkeep% in %mahajanga%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Parlez à %mahashopkeep% à %mahajanga%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco14</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Thank you for coming, &lt;player&gt;. There are two things I wanted to speak with you about. First, I recently discovered the recipe for %almond_choco_truffles%, and I wanted you to have it.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Merci d'être venu, &lt;player&gt;. Il y a deux choses dont je voulais vous parler. Tout d'abord, j'ai récemment découvert la recette des %almond_choco_truffes%, et je voulais que vous l'ayez. Pas besoin de payer pour celui-ci - tout à vous.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco15</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Second, I want to ask you to take a letter to %trinparkkeep%. This is a note to Rowena from %villain%. I think it might help shed some light on what has been going on for so many years...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Deuxièmement, je veux vous demander d'apporter une lettre à %trinparkkeep%. Ceci est une note à Rowena de %villain%. Je pense que cela pourrait aider à faire la lumière sur ce qui se passe depuis tant d'années...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco15</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring the note you received from %mahashopkeep% to %trinparkkeep%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez la note que vous avez reçue de %mahashopkeep% à %trinparkkeep%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco15</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This note you bring, it is for real? I suspected this all along, that Grimaldo was behind everything. But this is proof - poor Rowena! I must have a word with Evangeline. Thank you, &lt;player&gt;, for bringing this to my attention.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Cette note que vous apportez, est-elle réelle ? Je m'en doutais depuis le début, que Grimaldo était derrière tout. Mais c'est la preuve - pauvre Rowena ! Je dois avoir un mot avec Évangéline. Merci, &lt;joueur&gt;, d'avoir attiré mon attention sur ce point.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco16_nudge</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">My fiancee would like to ask you a favor, &lt;player&gt;. Please do be sure to visit him at your shop in %istanbul% at your earliest convenience. Thank you.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ma fiancée aimerait vous demander une faveur, &lt;joueur&gt;. Assurez-vous de lui rendre visite dans votre magasin à %istanbul% dès que possible. Merci.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">message_choco16_nudge</Data></Cell>
@@ -5009,71 +5009,71 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco16</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This is your shop now, &lt;player&gt;, you are most welcome. When you've finished inside, I'd like to ask you a favor....</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ceci est votre boutique maintenant, &lt;player&gt;, vous êtes le bienvenu. Quand tu auras fini à l'intérieur, j'aimerais te demander une faveur.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco17</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I'd like you to bring some chocolates to %hkpeakkeep%. With so much that has come to light of late, it may be time to try to reconcile those two, and this might just be a way to start. Here's a recipe for %trin_almond_vanilla_truffles%. Will you bring him a dozen cases?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">J'aimerais que vous apportiez des chocolats à %hkpeakkeep%. Avec tant de choses qui ont été révélées ces derniers temps, il est peut-être temps d'essayer de concilier les deux, et cela pourrait bien être une façon de commencer. Voici une recette de %trin_almond_vanilla_truffles%. Voulez-vous lui apporter une douzaine de caisses ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco17</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Transport 12 cases of %trin_almond_vanilla_truffles% to %hkpeakkeep%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Transportez 12 caisses de %trin_almond_vanilla_truffes% à %hkpeakkeep%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco17</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Oh, just imagining %trin_almond_vanilla_truffles% is making my mouth water....</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Oh, juste imaginer %trin_almond_vanilla_truffles% me met l'eau à la bouche...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco17</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">These chocolates you have given me, they bring a tear to my eye. These were the first chocolates Evangeline ever made for us - I remember the day like it was yesterday. Thank you so much, &lt;player&gt;. I trust that our paths will cross again someday...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ces chocolats que vous m'avez donnés me font monter la larme à l'œil. Ce sont les premiers chocolats qu'Évangéline ait jamais faits pour nous - je me souviens de la journée comme si c'était hier. Merci beaucoup, &lt;joueur&gt;. J'espère que nos chemins se recroiseront un jour...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco18</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I've heard tales of your marvelous %trin_almond_vanilla_truffles%. I tell you what. I'll start looking for you in 8 weeks time. If you've got 48 cases when we cross paths, I'll trade for an extremely valuable recipe I've got in my possession. What do you say?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">J'ai entendu des histoires sur vos merveilleuses %trin_almond_vanilla_truffles%. C'est merveilleux de vous voir sur la bonne voie pour réconcilier Évangéline et son véritable amour. Oh, je vous dis quoi. Je commencerai à te chercher dans 8 semaines. Si vous avez 48 caisses quand nous nous croisons, j'échangerai contre une recette extrêmement précieuse que j'ai en ma possession. Que dis-tu?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco18</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Have 48 cases of %trin_almond_vanilla_truffles%. ready to trade with %quester5%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Avoir 48 caisses de %trin_almond_vanilla_truffes%. prêt à échanger avec %quester5%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco18</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I'm still holding on to these recipes for you...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je garde toujours ces recettes pour vous...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco18</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Excellent! I look forward to enjoying these sweets, and I am sure this recipe for %sula_lemon_macadamia_truffles% will bring you good profits.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Excellent! J'ai hâte de savourer ces douceurs, et je suis sûr que cette recette de %sula_lemon_macadamia_truffles% vous apportera de bons bénéfices.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco19_nudge</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">%hkpeakkeep% would like an audience with you, &lt;player&gt;. He sent me to ask you to call on him in %hongkong% as soon as you are free...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">%hkpeakkeep% souhaite une audience avec vous, &lt;joueur&gt;. Il m'a envoyé pour vous demander de lui rendre visite à %hongkong% dès que vous serez libre...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">message_choco19_nudge</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Call on %hkpeakkeep% in %hongkong% as soon as you are free.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Appelez %hkpeakkeep% à %hongkong% dès que vous êtes libre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco19</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Life is short, &lt;player&gt;. I need Evangeline; I have decided that I must at least try. You have helped me see the light. I have one of their family recipes, for %coffee_cinnamon_truffles%. If these won't get my message across, I don't know what will. Take 12 cases to Evangeline. I will be forever in your debt.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">La vie est courte, &lt;joueur&gt;. J'ai besoin d'Évangéline; J'ai décidé que je devais au moins essayer. Vous m'avez aidé à voir la lumière. J'ai une de leurs recettes familiales, pour %coffee_cinnamon_truffles%. Si ceux-ci ne feront pas passer mon message, je ne sais pas ce qui le fera. Apportez 12 caisses à Évangéline. Je te serai éternellement redevable.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qs_choco19</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bring 12 cases of %coffee_cinnamon_truffles% to %sftutor% from %hkpeakkeep%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Apportez 12 caisses de %coffee_cinnamon_truffles% à %sftutor% de %hkpeakkeep%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qm_choco19</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Was it my imagination, or did I hear that Jarrah asked you to bring something to me?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Était-ce mon imagination, ou ai-je entendu dire que Jarrah vous avait demandé de m'apporter quelque chose ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_choco19</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Oh, my heart hurts!  &lt;player&gt;, never in my wildest dreams would I have imagined that I might be reunited with my true love Jarrah. Through chocolate, love conquers all!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ah, j'ai mal au coeur ! &lt;joueur&gt;, jamais dans mes rêves les plus fous je n'aurais imaginé que je pourrais retrouver mon véritable amour Jarrah. A travers le chocolat, l'amour triomphe de tout !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco20_hint</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Hello, &lt;player&gt;. I hope that owning a Chocolate Shop has proved a worthwhile investment for you. I recently heard that the owner of %colshop% in %colombo% might be interested in entertaining an offer soon...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bonjour, &lt;joueur&gt;. J'espère que posséder une chocolaterie s'est avéré un investissement rentable pour vous. J'ai récemment entendu dire que le propriétaire de %colshop% à %colombo% pourrait être intéressé par une offre prochainement...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">message_choco20_hint</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Stop by and chat with %colshopkeep% when next in %colombo%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Arrêtez-vous et discutez avec %colshopkeep% lors de votre prochaine visite à %colombo%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qi_choco20</Data></Cell>
@@ -5469,235 +5469,235 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">message_airship</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Now traveling first class, all the time, with a Corporate Airship.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Voyageant maintenant en première classe, tout le temps, avec un dirigeable d'entreprise.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="29.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">qe_airship</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Wonderful! You have made a good decision. Your Airship will be ready for you for your next journey. Bon Voyage!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Formidable ! Vous avez pris une bonne décision. Votre dirigeable sera prêt pour votre prochain voyage. Bon voyage !</Data></Cell>
    </Row>
    <Row ss:StyleID="s21">
     <Cell ss:StyleID="s22"/>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx EVENTS xxxx</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx ÉVÉNEMENTS xxxx</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_fire</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">A warehouse fire in &lt;port&gt; has driven up the price of &lt;ing&gt;!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Un incendie d'entrepôt dans le &lt;port&gt; a fait grimper le prix de &lt;ing&gt; !</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s25"><Data ss:Type="String">ev_strike</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">The producers of &lt;ing&gt; in &lt;port&gt; are on strike! Prices are up.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Les producteurs de &lt;ing&gt; dans &lt;port&gt; sont en grève ! Les prix sont en hausse.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_ing_priceup01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Demand is high for &lt;ing&gt; in &lt;port&gt; this season. Prices are up.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">La demande est forte pour &lt;ing&gt; dans &lt;port&gt; cette saison. Les prix sont en hausse.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_ing_priceup02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bad storms off the coast have clearly affected prices. You should expect a high price for &lt;ing&gt; in &lt;port&gt; for a while.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">De fortes tempêtes au large de la côte ont clairement affecté les prix. Vous devez vous attendre à un prix élevé pour &lt;ing&gt; dans &lt;port&gt; pendant un certain temps.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_ing_priceup03</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">The price of &lt;ing&gt; is way up in &lt;port&gt; right now - must be having supply troubles, I guess.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Le prix de &lt;ing&gt; est en haut dans &lt;port&gt; en ce moment - doit avoir des problèmes d'approvisionnement, je suppose.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_ing_priceup04</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">If you're in the market for &lt;ing&gt;, I suggest heading anywhere but &lt;port&gt; - the price is way up there right now.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Si vous êtes à la recherche de &lt;ing&gt;, je vous suggère de vous diriger n'importe où sauf &lt;port&gt; - le prix est très élevé en ce moment.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_ing_priceup05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">A supply ship has sunk, and as a result the price of &lt;ing&gt; is through the roof in &lt;port&gt;.  </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Un navire de ravitaillement a coulé et, par conséquent, le prix de &lt;ing&gt; est à travers le toit dans &lt;port&gt;.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_prod_priceup01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">If you have &lt;prod&gt; to sell, head for &lt;port&gt; - they're commanding quite the price there of late.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Si vous avez &lt;prod&gt; à vendre, direction &lt;port&gt; - ils commandent tout à fait le prix là-bas ces derniers temps.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_prod_priceup02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Consumers in &lt;port&gt; can't seem to get enough &lt;prod&gt;, and they are driving the price way up.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Consommateurs dans le &lt;port&gt; n'arrivent pas à obtenir assez de &lt;prod&gt;, et ils font grimper les prix.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_prod_priceup03</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Judging from their price there, something about &lt;prod&gt; has sure tickled the fancy of &lt;port&gt; consumers.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A en juger par leur prix là-bas, quelque chose à propos de &lt;prod&gt; a sûrement chatouillé la fantaisie de &lt;port&gt; consommateurs.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_prod_priceup04</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">It seems that &lt;prod&gt; are all the rage in &lt;port&gt; this season, and their prices reflect the growing demand.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Il semble que &lt;prod&gt; font fureur dans &lt;port&gt; cette saison, et leurs prix reflètent la demande croissante.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_prod_priceup05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Let's just say that I have it on good authority that &lt;prod&gt; will command top dollar in &lt;port&gt; for a while yet.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Disons simplement que j'ai de source sûre que &lt;prod&gt; commandera le gros prix dans &lt;port&gt; pour un moment encore.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_ing_pricedown01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">If you're looking for a good deal on &lt;ing&gt; be sure to visit &lt;port&gt; soon…</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Si vous cherchez une bonne affaire sur &lt;ing&gt; assurez-vous de visiter &lt;port&gt; bientôt...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_ing_pricedown02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">There are some amazing bargains to be had in &lt;port&gt; this season. It seems demand is way off for &lt;ing&gt; there.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Il y a des bonnes affaires incroyables à faire à &lt;port&gt; cette saison. Il semble que la demande soit loin pour &lt;ing&gt; là.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_ing_pricedown03</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">It is not complicated. Producers are simply over-supplying these days. You can take advantage of a great price on &lt;ing&gt; in &lt;port&gt;, if you hurry.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ce n'est pas compliqué. Les producteurs sont tout simplement en sur-approvisionnement ces jours-ci. Vous pouvez profiter d'un prix avantageux sur &lt;in &gt; dans &lt;port&gt;, si vous vous dépêchez.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_ing_pricedown04</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I can't speak for other places, but you'll get a great deal on &lt;ing&gt; in &lt;port&gt; for the time being.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je ne peux pas parler pour d'autres endroits, mais vous obtiendrez une bonne affaire sur &lt;in &gt; dans &lt;port &gt; pour le moment.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_ing_pricedown05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">The price of &lt;ing&gt; is dropping fast in &lt;port&gt; right now - the market must be saturated. </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Le prix de &lt;ing&gt; chute rapidement dans &lt;port&gt; en ce moment - le marché doit être saturé.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_prod_pricedown01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Don't let this get around, but the price is down for &lt;prod&gt; in &lt;port&gt;.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ne laissez pas cela se répandre, mais le prix est en baisse pour &lt;prod&gt; dans &lt;port&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_prod_pricedown02</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">There's no accounting for taste, is there? Consumers simply aren't willing to pay top dollar for &lt;prod&gt; in &lt;port&gt; these days.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Il n'y a pas de compte pour le goût, n'est-ce pas? Les consommateurs ne sont tout simplement pas disposés à payer le gros prix pour &lt;prod&gt; dans &lt;port&gt; ces jours-ci.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_prod_pricedown03</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I was just in &lt;port&gt;, and I noticed that the price seemed very low for &lt;prod&gt;.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">J'étais juste en &lt;port&gt;, et j'ai remarqué que le prix semblait très bas pour une &lt;prod&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_prod_pricedown04</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">If you've got &lt;prod&gt;, I'd go somewhere other than &lt;port&gt; to sell them - it seems prices there are down just now.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Si vous avez &lt;prod&gt;, j'irais ailleurs que &lt;port&gt; pour les vendre - il semble que les prix y soient en baisse en ce moment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">ev_prod_pricedown05</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I can't tell you the cause, in fact I wish I knew it myself, but I can tell you that the price of &lt;prod&gt; is way off in &lt;port&gt;.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je ne peux pas vous dire la cause, en fait j'aurais aimé le savoir moi-même, mais je peux vous dire que le prix de &lt;prod&gt; est loin dans &lt;port&gt;.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s25"><Data ss:Type="String">ev_glut</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">A glut of &lt;ing&gt; on the market in &lt;port&gt; has dropped the price there dramatically.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Une surabondance de &lt;ing&gt; sur le marché de &lt;port&gt; a baissé le prix là-bas de façon spectaculaire.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s25"><Data ss:Type="String">ev_demand</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">Chocolate lovers in &lt;port&gt; are demanding more &lt;prod&gt; and are willing to pay.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Les amateurs de chocolat à &lt;port&gt; exigent plus de &lt;prod&gt; et sont prêts à payer.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s25"><Data ss:Type="String">ev_tired</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;prod&gt; are not selling well in &lt;port&gt;, and prices are dropping there.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">&lt;prod&gt; ne se vendent pas bien dans le &lt;port&gt;, et les prix y chutent.</Data></Cell>
    </Row>
    <Row ss:StyleID="s21">
     <Cell ss:StyleID="s22"/>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx HIGH SCORES xxxx</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">xxxx SCORES ÉLEVÉS xxxx</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">highscoreheader</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">High Scores</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Scores Élevés</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">localhighscores</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Local High Scores</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Meilleurs Scores Locaux</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">globalhighscores</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Global High Scores</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Meilleurs Scores Mondiaux</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">topplayers</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Top Players</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Meilleurs Joueurs</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">connectingtoserver</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Connecting to server</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Connexion au serveur...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">globalhighscoreinfo</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Global high scores allow you to compare your high scores against people across the globe. &lt;u&gt;&lt;font color=&quot;0000EE&quot;&gt;&lt;a id='privacy'&gt;Privacy Policy&lt;/a&gt;&lt;/color&gt;&lt;/u&gt;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Les meilleurs scores mondiaux vous permettent de comparer vos meilleurs scores avec des personnes du monde entier. &lt;u&gt;&lt;font color=&quot;0000EE&quot;&gt;&lt;a id='privacy'&gt;Politique de confidentialité&lt;/a&gt;&lt;/color&gt;&lt;/u&gt;</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s32"><Data ss:Type="String">eligible</Data></Cell>
-    <Cell ss:StyleID="s32"><Data ss:Type="String">Submit your name and score to the global list*</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Soumettez votre nom et votre score à la liste globale.*</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell ss:StyleID="s32"><Data ss:Type="String">eligibleasterisk</Data></Cell>
-    <Cell ss:StyleID="s32"><Data ss:Type="String">*Global score list maintained by PlayFirst: http://www.playfirst.com/privacypolicy.html&lt;br&gt;For privacy purposes, you should not use your full name as your player name.</Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">*Liste de scores globale maintenue par PlayFirst: http://www.playfirst.com/privacypolicy.html&lt;br&gt;Pour des raisons de confidentialité, vous ne devez pas utiliser votre nom complet comme nom de joueur.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">congratshighscore</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Congratulations! You earned a new global high score!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Toutes nos félicitations! Vous avez obtenu un nouveau record mondial !</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">scorednq</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Your score did not qualify for a new global high score.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Votre score ne s'est pas qualifié pour un nouveau meilleur score mondial.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">yourrank</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Your Rank: %1%</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ton rang: %1%</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">moreinfo</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">More Info</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Plus d'informations</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">viewglobal</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">View Global High Scores</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Voir les meilleurs scores mondiaux</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">viewlocal</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">View Local High Scores</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Voir les meilleurs scores locaux</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">submit</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Submit</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Nous faire parvenir</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">submit_score</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Submit Score</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Soumettre le score</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">submit_medals</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Submit Medals</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Soumettre des médailles</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75" ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">highscorecompleteinfo</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">PlayFirst global high scores allow you to compare your scores with people across the globe.&lt;br&gt;&lt;br&gt;Log scores anonymously or personalize your high score listings by entering your PlayFirst user name and password. PlayFirst members are identified with a P1 icon.&lt;br&gt;&lt;br&gt;If you are not already a PlayFirst member, register for a free account by visiting http://www.playfirst.com. The PlayFirst privacy policy can be viewed by clicking this link: &lt;u&gt;&lt;font color=&quot;0000EE&quot;&gt;&lt;a id='privacy'&gt;Privacy Policy&lt;/a&gt;&lt;/color&gt;&lt;/u&gt;.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Les meilleurs scores mondiaux de PlayFirst vous permettent de comparer vos scores avec des personnes du monde entier.&lt;br&gt;&lt;br&gt; Enregistrez les scores de manière anonyme ou personnalisez vos listes de meilleurs scores en saisissant votre nom d'utilisateur et votre mot de passe PlayFirst. Les membres PlayFirst sont identifiés par une icône P1.&lt;br&gt;&lt;br&gt;Si vous n'êtes pas déjà membre PlayFirst, créez un compte gratuit en visitant http://www.playfirst.com. La politique de confidentialité de PlayFirst peut être consultée en cliquant sur ce lien : &lt;u&gt;&lt;font color=&quot;0000EE&quot;&gt;&lt;a id='privacy'&gt;Politique de confidentialité&lt;/a&gt;&lt;/color&gt;&lt;/u&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75" ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">privacypolicy</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">By submitting, the name you enter and your high score information is transmitted to PlayFirst, Inc.'s servers and will be available for others to see.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">En soumettant, le nom que vous entrez et les informations sur votre meilleur score sont transmis aux serveurs de PlayFirst, Inc. et seront disponibles pour que d'autres puissent les voir.</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">submitglobal</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">Submit Global High Score</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Soumettre le meilleur score global</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">submitmedalsonly</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">Submit Medals&lt;br&gt;to your PlayFirst Account</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Soumettre des médailles&lt;br&gt;sur votre compte PlayFirst</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">playerlabel</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">Player:</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Joueur:</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s25"><Data ss:Type="String">scorelabel</Data></Cell>
-    <Cell ss:StyleID="s25"><Data ss:Type="String">Your Score:</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Ton score:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">yourpfaccount</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Your PlayFirst Account</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Votre compte PlayFirst</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">namelabel</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Name:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Nom:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">passwordlabel</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Password:</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Mot de passe:</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rememberpfaccount</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Remember My PlayFirst Account</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Se souvenir de mon compte PlayFirst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">accountinforequired</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">To submit your medals to your PlayFirst account, please enter your playfirst.com username and password.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pour envoyer vos médailles sur votre compte PlayFirst, veuillez saisir votre nom d'utilisateur et votre mot de passe playfirst.com.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">medals_done</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Your medals have been uploaded to your PlayFirst Account.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Vos médailles ont été téléchargées sur votre compte PlayFirst.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"/>
