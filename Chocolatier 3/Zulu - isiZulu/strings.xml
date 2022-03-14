@@ -131,15 +131,15 @@
    <Column ss:AutoFitWidth="0" ss:Width="654.75"/>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">windowtitle</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Chocolatier: Decadence by Design</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ushokoledi: Ukuwohloka Ngokuklama</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">gamename</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Chocolatier: Decadence by Design</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ushokoledi: Ukuwohloka Ngokuklama</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">welcome</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Welcome Back, %1%!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Siyakwamukela, %1%!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">copyright</Data></Cell>
@@ -147,7 +147,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">badname</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">The name you have entered is not valid. Please enter another name.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Igama olifakile alivumelekile. Sicela ufake elinye igama.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">ok</Data></Cell>
@@ -155,75 +155,75 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">yes</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Yebo</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">no</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Cha</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">close</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Close</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Vala</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">cancel</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Cancel</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Khansela</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">done</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Done</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Kwenziwe</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">start</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Start</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Qala</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">back</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Back</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Emuva</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">buy</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Buy</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Thenga</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">sell</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Sell</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Thengisa</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">sell_all</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Sell All</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Thengisa Konke</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">haggle</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Haggle</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ukuxoxisana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">try_again</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Try Again</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Zama Futhi</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">quest_log</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Quest Log</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Izimfuno</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">quest_log_letter</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Q</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">I</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">ledger_map</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Map</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Imephu</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">ledger_port</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Port</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Itheku</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">recipes</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Recipes</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Amaresiphi</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">recipes_letter</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">R</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">A</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">inventory</Data></Cell>
@@ -355,7 +355,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">nameinuse</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">That name is already in use. Please choose a different name.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lelo gama selivele liyasetshenziswa. Sicela ukhethe igama elehlukile.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">moregames</Data></Cell>
