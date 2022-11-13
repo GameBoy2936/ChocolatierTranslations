@@ -94,439 +94,435 @@
    <Column ss:AutoFitWidth="0" ss:Width="327"/>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">$</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">NOMONEY QUESTS</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">GEEN GELD-MISSIES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">A Reasonable Loan</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Een redelijke lening</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, it looks like you've gotten yourself into a pickle. I'm always here to help an entrepreneur in need. I am willing to loan you the sum of $5000 for a few weeks. But I will expect to be repaid with interest. I'll find you in a month or so, at which time you will owe me $7500. Do we have a deal?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, zo te zien zit je in de problemen. Ik sta altijd klaar om een ondernemer in nood te helpen. Ik wil je best een paar weken €5.000 lenen, maar wel met rente. Ik kom over een maand terug en dan krijg ik €7.500 van je. Hebben we een deal?</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney_summary</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Make sure you have $7500 on hand to repay %lender%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hou €7.500 apart om %lender% terug te betalen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney_incomplete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Just a reminder - you owe me $7500, and I expect to be paid. I'll be seeing you around...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Even ter herinnering: ik wil mijn €7.500 binnenkort terug. Tot snel...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney_complete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I appreciate when customers meet their obligations. I'll take that $7500 that you owe me. It has been a pleasure doing business with you.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ik kan het altijd waarderen als klanten hun beloftes nakomen. Bedankt voor de €7.500. Het was een genoegen om zaken met je te doen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney2</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">A Second Loan</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Een tweede lening</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney2_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Hello again, &lt;player&gt;. Have you gotten yourself into another pinch? As I said, I'm always here when someone is in need. But this time, my fees have increased. I will loan you another $5000. But, you will need to repay me $10000. Have no fear, I will find you. Do we have a deal?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hallo, &lt;player&gt;. Zit je weer in de puree? Zoals ik al zei: ik sta altijd klaar als iemand hulp nodig heeft. Maar deze keer is de rente verhoogd. Ik leen je opnieuw €5.000, maar verwacht €10.000 terug. Maak je geen zorgen, ik vind je wel weer. Hebben we een deal?</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney2_summary</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Have $10000 ready to repay %lender%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hou €10.000 apart om %lender% terug te betalen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney2_incomplete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">This is a friendly reminder - you owe me $10000. I'll be seeing you around...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Even een vriendelijke herinnering: ik krijg nog €10.000 van je. Tot snel!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney2_complete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I'll take that $10000 now. The pleasure has been mine. See you around, friend...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bedankt voor de €10.000. Het genoegen was waarschijnlijk niet wederzijds. Tot de volgende keer.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney3</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Yet Another Loan</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Opnieuw een lening</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney3_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Well hello again, &lt;player&gt;. Another pickle, I see? Of course I'm able to help. I'll loan you another $5000. And again, you will owe me $10000. Be forewarned, though, from here on out my rates will not be so favorable for you. Deal?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ben je er weer, &lt;player&gt? Opnieuw problemen? Natuurlijk wil ik helpen. Ik leen je opnieuw €5.000 en ik krijg €10.000 van je terug. Maar ik moet je waarschuwen: hierna is de rente niet zo gunstig meer. Hebben we een deal?</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney3_summary</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Have $10000 ready to repay %lender%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hou €10.000 apart om %lender% terug te betalen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney3_incomplete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Just a reminder - you owe me $10000. If I were you, I'd get the dough together...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Even ter herinnering: ik krijg nog €10.000 van je. Ik zou dat geld maar snel verdienen...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney3_complete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Listen, &lt;player&gt;. I'm going to take that $10000 that you owe me. You should do a better job minding your finances - I'll be willing to loan you money again - of course - but my interest rate is going up. Way up. Good luck...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Luister, &lt;player&gt;. Ik wil nu die €10.000 die je me verschuldigd bent. Je moet je financiën beter op orde hebben. Ik wil je best weer een keer geld lenen, maar de rente wordt alleen maar hoger. Veel hoger. Succes...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney4</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Money Trouble</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Geldproblemen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney4_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I am afraid your credit is not great, my friend. I am happy to help you once again, but as I warned you - my interest rate has gone up. I will loan you another $5000, but you must repay me $20000. What do you say?</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je staat er niet zo goed voor, mijn vriend. Ik wil je graag helpen, maar ik heb je al gewaarschuwd: mijn rente is gestegen. Ik wil je wel weer €5.000 lenen, maar dan krijg ik €20.000 terug. Wat zeg je ervan?</Data></Cell>
    </Row>
    <Row ss:StyleID="s24">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney4_summary</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Get the $20000 together to repay %lender%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Schraap de €20.000 bij elkaar om %lender% terug te betalen.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney4_incomplete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Just a reminder - you owe me $20000. I'll find you...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Let op: ik krijg nog €20.000 van je. Ik weet je te vinden...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="18">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney4_complete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Well, hello there, &lt;player&gt;. I'll take that $20000 we agreed to earlier. Farewell, and keep managing your money the best you can.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
-    <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney5</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Bank Bailout</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hallo, &lt;player&gt;. Geef die €20.000 die we hadden afgesproken maar hier. Het beste!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">nomoney5_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Listen, I realize that the only way I can hope to see any return on my loan is to help you out once again. I am not happy about this, but here's another $2500 to help you get back on your feet...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Luister, ik weet dat ik alleen mijn lening terug zal krijgen als ik je weer uit de problemen help. Ik ben er ook niet blij mee, maar hier heb je €2.500 als steuntje in de rug.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">gambling</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Opening the Machines</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">De gokmachines uitproberen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">gambling_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">We've got some great slot machines in here, &lt;player&gt;, but this is an exclusive casino. If you'd be willing to bring me 35 cases of your &lt;user1&gt;, I could see my way to getting you on our list...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">We hebben hier een paar geweldige gokmachines, &lt;player&gt;, maar dit is een exclusief casino. Als je me 35 dozen &lt;user1&gt; kunt leveren, zal ik je op de gastenlijst zetten.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s24">
     <Cell ss:StyleID="s23"><Data ss:Type="String">gambling_summary</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Grease the wheels by giving 35 cases of &lt;user1&gt; to %hav_casinokeep% at %hav_casino% in %havana%.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Haal een wit voetje door 35 dozen &lt;user1&gt; te geven aan %hav_casinokeep% in het %hav_casino% in %havana%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">gambling_incomplete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Lots of winners in there, &lt;player&gt;, but you can't win if you don't play, and you can't play if you don't bring me the 35 cases of &lt;user1&gt; we discussed...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Er zijn hier veel winnaars, &lt;player&gt;, maar wie niet waagt die niet wint, en je zult nooit winnen als je de beloofde 35 dozen &lt;user1&gt; niet levert.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">gambling_complete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Ok, friend. You have honored your end of the deal, and I will honor mine. From this day forward, you are welcome to gamble here any time.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Oké, vriend. Je hebt je aan de afspraak gehouden, dus dan moet ik dat ook doen. Vanaf vandaag mag je hier altijd een gokje komen wagen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">airplane</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Corporate Airplane</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Bedrijfsvliegtuig</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">airplane_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, I'm sure you are aware of how high travel costs have gotten. The bad news is that this trend is likely to continue. The good news is that I am here to offer you a Corporate Airplane. For an investment of $500,000, you'll be able to fly direct from any port to any port, and all of your future travel costs will be zero. This certainly makes a difference as you fly in and out of secret ports. And this is not even considering the bump to your style and grace. What do you say?&#10;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, je hebt vast gehoord dat de reiskosten de pan uitrijzen. Het slechte nieuws is dat de prijzen zullen blijven stijgen. Het goede nieuws is dat ik je een vliegtuig van het bedrijf kan aanbieden. Voor een investering van €500.000 kun je rechtstreeks van haven naar haven vliegen en zullen je reizen gratis zijn. Dat zul je merken in je portemonnee, aangezien je enorm veel kilometers aflegt. En dan reis je ook nog eens in stijl! Wat vind je ervan?&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">airplane_summary</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Making arrangements to travel first class, all the time!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je kunt nu altijd eersteklas reizen, overal!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">airplane_defer01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I understand. Now may not be the right time to buy an airplane. Don't worry, the airplane is not going anywhere. I'll be sure to find you again after a few months, and I'll be willing to make the same offer another time. And I think you'll agree that as time goes on, doing something about those escalating travel costs will make more and more sense...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ik begrijp het. Nu is misschien niet de beste tijd om een vliegtuig te kopen. Maak je geen zorgen, dit vliegtuig gaat nergens heen. Over een paar maanden spreken we elkaar weer en dan geldt het aanbod nog steeds. En misschien besef je dan hoeveel geld het zal schelen, aangezien de prijzen alleen maar zullen stijgen...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">airplane_complete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Excellent. I am convinced that you will be pleased with your purchase. Your Corporate Airplane will be ready for take off for your next journey.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Uitstekend. Ik weet zeker dat je geen spijt zult krijgen van je aankoop. Je bedrijfsvliegtuig staat klaar om je naar je nieuwe bestemming te brengen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">telegraph</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Remote Control</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Op afstand bestuurbaar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">telegraph_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I want to tell you about a pretty nifty gizmo - the Remote Telegraph. Once hooked up, you will be able to reconfigure your factories without needing to travel there. You can re-set factories to any product they have previously produced, by clicking on the appropriate status window below. Believe me, this is well worth the price tag of $100,000 - you'll save that much in travel costs before too long, and how can we put a price tag on convenience? Shall I wire it up for you?&#10;</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ik heb een fantastisch nieuw speeltje voor je, de Afstandstelegraaf. Zodra je hem hebt aangesloten, kun je je fabrieken op afstand instellen. Klik op de status van een fabriek onder in het scherm om hem opnieuw in te stellen, zodat hij andere producten gaat maken. Geloof me, dit pareltje is die €100.000 meer dan waard: dat bedrag bespaar je in reistijd alleen al. Ook maakt het alles een stuk makkelijker. Dus, kan ik hem voor je aansluiten?&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">telegraph_defer01</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">No problem. You don't want to spend that kind of cash right now. I understand. I'll be around in a few months to see if you haven't perhaps changed your mind....</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Geen probleem. Het is begrijpelijk dat je nu niet zo veel geld uit wilt geven. Ik kom over een paar maanden terug om te kijken of je van gedachten bent veranderd...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">telegraph_complete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Good choice. I'll wire it up for you right away.&lt;br&gt;&lt;br&gt;Just click on any of the factory status windows, and you'll be able to revert production at any factory to manufacture any product that has been previously made there. Good stuff!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Goede keus. Ik sluit hem gelijk voor je aan.&lt;br&gt;&lt;br&gt;Klik op een van de fabrieken onder in het scherm en verander zo de productie. De fabriek kan alleen producten maken die daar al eerder zijn gemaakt. Ontzettend handig!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_tease_00_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, the Board wants to make sure that you keep an ear out for any opportunities to take ownership of retail locations. One benefit you might not know about is the ability to accept special orders - they are a fantastic way to bump up your margins.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, het bestuur wil er zeker van zijn dat je je oriënteert op de markt, zodat je binnenkort ergens een winkel kunt overnemen. Dan kun je veel speciale bestellingen aannemen, waar je veel winst mee zult maken.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_tease_01_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">You should really do what you can to take ownership of some retail locations, &lt;player&gt;. It's a surefire way to maximize your profits, and therefore a worthwhile investment.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Je moet echt eens paar winkels overnemen, &lt;player&gt;. Zo maak je de meeste winst en dat is de moeite dubbel en dwars waard.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_tease_02_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">If you have a chance to partner with a shop owner, &lt;player&gt;, I highly recommend it. You'll be able to start accepting Special Orders, which are a fantastic way to boost profits.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ik raad je aan om je kans te grijpen als je vennoot kunt worden van een winkel, &lt;player&gt;. Dan kun je speciale bestellingen aannemen, waarmee je veel winst zult maken.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_tease_03_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Special Orders, which you can start fulfilling once you own a shop or two, are a great way to earn a lot of money for your confections.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Speciale bestellingen kun je aannemen zodra je één of meerdere winkels bezit. Op die manier kun je veel geld verdienen met je producten.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_tease_04_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Be sure to touch base with shop keepers around the globe, you never know who might be interested in partnering with you and Baumeister Confections.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Hou contact met winkeliers over de hele wereld. Je weet maar nooit of iemand op zoek is naar een vennootschap met jou en Baumeister Confections.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_tease_05_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Things seem to be going well, &lt;player&gt;. I highly recommend doing all you can to see about taking ownership of a shop or two - it's a great way to grow your business.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Alles loopt op rolletjes, &lt;player&gt;. Ik raad je aan om alles opzij te zetten en eerst een winkel of twee over te nemen. Je bedrijf zal enorm groeien.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_tease_06_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">To take things to the next level, and really impress the Baumeister Confections Board of Directors, you're going to need to make steps towards owning some shops.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Als je echt indruk wilt maken op het bestuur en het bedrijf wilt uitbreiden, moet je stappen ondernemen om een paar winkels over te nemen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_tease_07_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Without taking ownership of a shop, &lt;player&gt;, you'll never be able to accept Special Orders...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Als je geen winkel runt, &lt;player&gt;, kun je nooit speciale bestellingen aannemen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">shop_owned_00_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I'm glad to see that you were able to work something out with Zach at %tan_shop%, &lt;player&gt;. I'm confident that you will find special orders to be a terrific boost to your business.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Het doet me goed om te zien dat je iets hebt geregeld met Zach van %tan_shop%, &lt;player&gt;. Je zult merken dat speciale bestellingen een grote bron van inkomsten zijn.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_00_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">I wonder how Alex is faring, poor thing...</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Hoe zou het nu met Alex zijn? Dat arme kind...</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_01_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">It's so nice to see people passionate about sweets again, don't you think?</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Het is fijn om te zien dat mensen weer naar zoetigheid verlangen, vind je ook niet?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_02_offer</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">I heard a rumor that you were considering expanding your offerings to include some new product lines, is that true?</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ik hoorde dat je je assortiment wilde uitbreiden met nieuwe producten, klopt dat?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_03_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Baumeister Confections, eh? Do you really think you can salvage that old company?</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Baumeister Confections? Denk je echt dat je dat oude bedrijf van de ondergang kunt redden?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_04_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Baumeister Confections? I thought I heard that they had converted all their factories to manufacture munitions for the war effort...</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Baumeister Confections? Ik dacht dat hun fabrieken tijdens de oorlog waren ingezet om munitie te produceren...</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_05_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">From what I have been told, to truly earn the respect of chocolatiers, one must prove one's ability by successfully creating and marketing one's own recipes...</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Als je wilt worden opgenomen in het wereldje van chocolatiers, moet je jezelf bewijzen door je eigen recepten te maken en ze succesvol op de markt te brengen.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_06_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">You don't know anything about a Secret Test Kitchen, where Baumeister Confections is working on developing new recipes, do you?</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Weet jij toevallig iets over een Geheime Proefkeuken waar Baumeister Confections aan nieuwe recepten werkt?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_06e_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;player&gt;, do you have any idea where all these new Baumeister Confections recipes are coming from?</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">&lt;player&gt;, weet jij misschien waar de nieuwe recepten van Baumeister Confections vandaan komen?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_07_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">I understand that the market has responded quite favorably to your own creations - congratulations, &lt;player&gt;!</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ik heb begrepen dat de markt goed heeft gereageerd op je eigen creaties. Gefeliciteerd, &lt;player&gt;!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_08_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Listen, if you ever have a chance to visit %havana%, Cuba, be sure to check out the %hav_casino% there. Their slot machines can be a lot of fun!</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Luister, als je ooit van plan bent om %havana% in Cuba te bezoeken, ga dan langs het %hav_casino%. Hun gokmachines zijn gruwelijk leuk!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_09_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Now that you're %rank_2%, you'll be able to haggle at shops and markets. Be careful, though - if you say the right thing haggling can result in better prices, but you can also insult merchants and cause their prices to move the wrong way, too.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Nu je %rank_2% bent, kun je onderhandelen in winkels en op de markt. Maar let op je woorden: als je het goed aanpakt, krijg je misschien korting, maar je kunt de handelaren ook beledigen. Als je iets verkeerd zegt, gaan de prijzen juist omhoog.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_10_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">It can be a smart move to haggle at markets, &lt;player&gt;, as long as you've got a sense of whom you're haggling with and a good idea about his or her current prices.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Soms pakt het onderhandelen goed uit, &lt;player&gt;. Je kunt echter niet bij iedereen afdingen en soms hanteert een handelaar al een bodemprijs waar niets meer vanaf kan.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2_tease_11_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Haggling is tricky, but buying low and selling high is the secret to success in the confections business, &lt;player&gt;.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Afdingen is lastig, maar als je wilt slagen, moet je voor een gunstige prijs inkopen en voor een hogere prijs verkopen, &lt;player&gt;.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2b_tease_00_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">So Alex feels like she's making progress with her search. Bless her heart, I hope she's not just hearing what she wants to hear.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Alex zegt dat haar zoektocht de goede kant opgaat. Ik hoop maar dat ze niet alleen hoort wat ze wil horen.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2b_tease_01_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">You're now partners with %main_zach%, eh? That must certainly be good for business!</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ben je nu de vennoot van %main_zach%? Dat moet goed zijn voor de zaken!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2b_tease_02_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">You seem to be off to a great start as %rank_2% of Baumiester Confections, &lt;player&gt;. I wish you nothing but success as you continue to grow the company.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Je gaat als een speer als %rank_2% van Baumeister Confections, &lt;player&gt;. Ik wens je eindeloos veel succes toe met de verdere groei van het bedrijf.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2b_tease_03_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">I understand you've made your way to Indonesia, correct? There's quite a bit of Baumeister Confections history there, you know...</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ik heb begrepen dat je nu ook naar Indonesië gaat. Baumeister Confections heeft daar veel meegemaakt, wist je dat?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2b_tease_04_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Have you tried your hand at the slot machines at %hav_casino% in %havana%?</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Heb je al geld gewonnen met de gokmachines in het %hav_casino% in %havana%?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2b_tease_05_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">You are doing amazingly well, &lt;player&gt;. Just the other day a friend was singing your praises. I take it your &lt;user2&gt; products are earning a healthy profit?</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Je doet het wonderbaarlijk goed, &lt;player&gt;. Laatst was een vriend van me ook al laaiend enthousiast over je. Ik neem aan dat je &lt;user2&gt;-producten veel geld opleveren?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2b_tease_06_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">It seems that certain combinations of ingredients command higher profits than others, doesn't it?</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Het lijkt wel alsof bepaalde ingrediëntcombinaties meer winst opleveren dan andere, of niet?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank2b_tease_07_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Is it my imagination, or has the cost of travel increased recently?</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ligt het aan mij of is het reizen ineens een stuk duurder worden?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank3_tease_00_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Wow, you are really doing an amazing job, &lt;player&gt;. I've seen your wares literally all over the world!</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Je doet het echt uitstekend, &lt;player&gt;. Ik zie je producten over de hele wereld terug!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank3_tease_01_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">I must say, I was skeptical when I heard about your efforts to turn the company around, but it seems like you are well on your way to success.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ik moet toegeven dat ik in het begin nogal sceptisch was over je plannen om het bedrijf te verbeteren, maar het succes ligt binnen handbereik!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank3_tease_02_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">What do you think, &lt;player&gt;? Do you think Sean is still alive? Well, if anyone will be able to get to the bottom of it, Alex will.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Wat denk jij, &lt;player&gt;? Denk je dat Sean nog leeft? Als iemand achter de waarheid kan komen, is het Alex wel.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank3_tease_03_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">It's wonderful to see your own creations performing so well in the marketplace, isn't it?</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Is het niet geweldig om je eigen creaties terug te zien op de markt?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank3_tease_04_offer</Data></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">It sure looks like things are going well for you, &lt;player&gt;. It must be satisfying to be able to provide people with luxuries like coffee and chocolates.</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Zo te zien lopen de zaken uitstekend, &lt;player&gt;. Het is vast erg bevredigend om mensen te voorzien van luxe lekkernijen zoals koffie en chocola.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank3_tease_05_offer</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">%rank_3%? Not too shabby, &lt;player&gt;. Baumeister Confections was a great company in its day, and it looks like you're well on your way to restoring it to its former glory!</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%rank_3%? Niet slecht, &lt;player&gt;. Baumeister Confections was een geweldig bedrijf, en zo te zien ben jij hard op weg om het bedrijf in zijn oude glorie te herstellen!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank4_tease_00_offer</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Wow, you are really doing a stunningly good job, &lt;player&gt;. I've been seeing your products in shops all over the world.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Wauw, je doet het fantastisch, &lt;player&gt;. Ik zie je producten in winkels over de hele wereld.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank4_tease_01_offer</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">%rank_4% of Baumeister Confections! Way to go, &lt;player&gt;!</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">%rank_4% van Baumeister Confections! Ga zo door, &lt;player&gt;!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank4_tease_02_offer</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">It makes me very happy, &lt;player&gt;, to see that things are going so well for you. Couldn't happen to a nicer person!</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ik vind het fantastisch om te zien dat alles op rolletjes loopt, &lt;player&gt;. Als iemand het verdient, ben jij het wel!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank4_tease_03_offer</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">I imagine it must be quite challenging to keep multiple factories operational. But I guess that's why you are the %rank_4%, and I am not!</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Het is een enorme uitdaging om meerdere fabrieken te runnen. Maar daarom ben jij waarschijnlijk %rank_4%, en niet ik!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank4_tease_04_offer</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">There certainly seems to be a lot to juggle to run a multi-national corporation, but you seem to be handling it all in stride, &lt;player&gt;.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Alleen een duizendpoot kan een multinational runnen, maar zo te zien laat jij je niet gek maken, &lt;player&gt;.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">rank4_tease_05_offer</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">You have been successful by consistently creating high quality chocolates and coffees, managing your costs, building solid relationships and taking advantage of opportunities to expand. Kudos!</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Je bent succesvol omdat je consequent chocola en koffie van goede kwaliteit levert, je financiën op orde hebt, goede relaties opbouwt en alle kansen met beide handen aangrijpt om uit te breiden. Bravo!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">tan_shop_owned_00_offer</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Welcome back to your shop, &lt;player&gt;. It is always a pleasure to see you again...</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Welkom terug in je winkel, &lt;player&gt;. Het is altijd fijn om je weer te zien.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">dou_shop_own_tease_offer</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">You're quite an impressive chocolate maker, &lt;player&gt;. I've been hearing about you the past couple of years, and I'm going to be keeping an eye on you. No time soon, but some day, I may be interested in discussing a partnership with you for my shop here.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Je bent een uitstekende chocolatier, &lt;player&gt;. Ik hoor de afgelopen jaren veel geruchten over je, en ik hou je in de gaten. Er komt een dag waarop ik je zal vragen of je interesse hebt in een vennootschap.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_tease_00_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Is it my imagination, &lt;player&gt;, or has the cost of travel gone up lately? Must be hard on someone who travels as much as you do...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ligt het aan mij, &lt;player&gt;, of is het reizen ineens enorm duur geworden? Dat komt vast hard aan bij iemand die zo veel reist als jij.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_tease_01_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Inflation is surely upon us, eh, &lt;player&gt;? It seems like every few months it costs more to get from one port to another...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Inflatie verovert de wereld, &lt;player&gt;. Het is alsof het steeds duurder wordt om van de ene haven naar de andere te reizen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_tease_02_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I can't believe what it is costing to get around these days. A lot of companies seem to be investing in corporate aircraft - I tell you, I can certainly see why!</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Reizen is tegenwoordig ongelofelijk duur. Veel bedrijven investeren in een bedrijfsvliegtuig, en ik begrijp wel waarom!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_tease_03_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">These travel costs are getting out of hand. There must be something one could do to try to contain the outlay of capital required just to get from place to place these days.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">De reiskosten lopen enorm uit de klauwen. Zou er niets te verzinnen zijn om de onkosten te beperken als je van hot naar her reist?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">travel_tease_04_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">For someone in your position, I would highly recommend investing in a corporate jet, to help offset the increasing costs of travel.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Iemand in jouw positie raad ik aan om te investeren in een bedrijfsvliegtuig om de torenhoge reiskosten te beperken.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">expire_tease_00_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I'm not sure if you realize this, &lt;player&gt;, but ingredients do not last forever. If you are storing an ingredient that you are not using, it will expire and disappear from your inventory over time...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ik weet niet of je het al weet, &lt;player&gt;, maar ingrediënten gaan niet eeuwig mee. Als je een ingrediënt opslaat en niet gebruikt, bederft het en verdwijnt het uiteindelijk uit je inventaris.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">expire_tease_01_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">As long as you are using an ingredient at one of your factories, it will not expire. After a number of weeks of not using it, however, the ingredient will expire and be removed from your inventory.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Zolang je in een van je fabrieken een ingrediënt gebruikt, bederft het niet. Als je het ingrediënt een paar weken niet gebruikt, verdwijnt het echter uit je inventaris.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s23"><Data ss:Type="String">expire_tease_02_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Unused ingredients don't last and last - they will expire over time and be removed from your inventory...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ongebruikte ingrediënten bederven. Als ze over de datum zijn, verdwijnen ze uit je inventaris.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">itsover_alex_offer</Data></Cell>
-    <Cell><Data ss:Type="String">It isn't possible for me to thank you enough times for all that you have done for me, &lt;player&gt;!</Data></Cell>
+    <Cell><Data ss:Type="String">Ik kan je niet genoeg bedanken voor alles wat je voor mij hebt betekend, &lt;player&gt;!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">itsover_bc_offer</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;player&gt;, we could not have imagined a better CEO for our little family company - you have made us proud!</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;player&gt;, we konden ons geen betere directeur voorstellen voor ons familiebedrijf. We zijn zo trots als een pauw!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">itsover_evil_offer</Data></Cell>
-    <Cell><Data ss:Type="String">What can I say, &lt;player&gt;? You have gottn the best of us once again. It's so rare to see someone gifted at both the creative and the business side of things. Hats off to you, indeed.</Data></Cell>
+    <Cell><Data ss:Type="String">Wat zal ik zeggen, &lt;player&gt;? We staan weer versteld. Het is heel zeldzaam als iemand niet alleen getalenteerd is, maar ook nog eens creatief en zakelijk. Petje af!</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">plot_points_00_offer</Data></Cell>
-    <Cell><Data ss:Type="String">I can't blame Alex - I would probably be doing the same thing myself if I were in her situation - but does she really think she's going to be able to find her husband? It's been quite some time...</Data></Cell>
+    <Cell><Data ss:Type="String">Ik geef Alex geen ongelijk. Ik zou waarschijnlijk hetzelfde doen als ik in haar schoenen stond. Maar denkt ze echt dat ze haar man zal vinden? Er is al zo veel tijd verstreken...</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">plot_points_01_offer</Data></Cell>
-    <Cell><Data ss:Type="String">I represent a rival chocolate maker - Schokolade Weltreich - perhaps you have heard of us? I understand you're making a good name for yourself in this business, but in terms of Alex and her personal problems, why are you poking your nose into business that's got nothing to do with you?</Data></Cell>
+    <Cell><Data ss:Type="String">Ik vertegenwoordig een rivaliserende chocolatier, Schokolade Weltreich. Misschien heb je van ons gehoord? Je bouwt een goede reputatie op in ons wereldje, maar ik vraag me af waarom je je met Alex en haar persoonlijke problemen bemoeit? Dat zijn jouw zaken niet.</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">plot_points_02_offer</Data></Cell>
-    <Cell><Data ss:Type="String">Hey, &lt;player&gt;. I ran into Alex not too long ago. She sure seemed to be in a big hurry - maybe she's following a solid lead...</Data></Cell>
+    <Cell><Data ss:Type="String">Hé, &lt;player&gt;. Ik kwam Alex laatst tegen. Ze had enorm veel haast. Misschien had ze een betrouwbare aanwijzing.</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">plot_points_03_offer</Data></Cell>
-    <Cell><Data ss:Type="String">I just hope Alex isn't getting in over her head - when the military wants to conceal information, they certainly have the ways and means to do so...</Data></Cell>
+    <Cell><Data ss:Type="String">Ik hoop dat Alex zich niet te veel problemen op de hals haalt. Als het leger iets in de doofpot wil stoppen, deinzen ze nergens voor terug...</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">plot_points_04_offer</Data></Cell>
-    <Cell><Data ss:Type="String">You should be more careful, &lt;player&gt;. It's fine if you want to build up their confections empire, but here's some advice: keep yourself clear of this whole Sean and Alex story - it's none of your concern, and it will do you no good to worry about it anyhow...</Data></Cell>
+    <Cell><Data ss:Type="String">Je moet beter oppassen, &lt;player&gt;. Het is prima dat je hun bedrijf wilt verbeteren, maar hier heb je wat advies: bemoei je niet met Alex en Sean. Dat gaat je niets aan en je schiet er niets mee op om je daar druk over te maken...</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">plot_points_05_offer</Data></Cell>
-    <Cell><Data ss:Type="String">Now I can't vouch for whether or not it's true, but I met someone who told me they had met someone who flew with Sean Fletcher in the war. This person saw Sean's plane go down, but he also claims that he saw Sean's parachute open...</Data></Cell>
+    <Cell><Data ss:Type="String">Ik weet niet in hoeverre het waar is, maar iemand vertelde me dat hij iemand kent die in de oorlog met Sean Fletcher heeft gevlogen. Deze man zag Seans vliegtuig neerstorten, maar hij zegt ook dat hij Seans parachute open zag gaan...</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">plot_points_06_offer</Data></Cell>
-    <Cell><Data ss:Type="String">You know, it was unusual, but not unheard of, for Germans to hold enemy pilots in secret camps towards the end of the war.</Data></Cell>
+    <Cell><Data ss:Type="String">Het was zeldzaam maar niet vreemd dat Duitsers tegen het eind van de oorlog piloten gevangen hielden in geheime kampen.</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">plot_points_07_offer</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;player&gt;, some news from Alex. She was in a rush and I don't have any details, but I understand that she has discovered legitimate evidence that Sean is indeed still alive...</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;player&gt;, ik heb nieuws van Alex. Ze had haast, dus ik weet niet alles, maar ze had betrouwbaar bewijs gevonden dat Sean inderdaad nog in leven is.</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">evan_endorsed_rank2_offer</Data></Cell>
-    <Cell><Data ss:Type="String">Keep up the great work, &lt;player&gt;!</Data></Cell>
+    <Cell><Data ss:Type="String">Ga zo door, &lt;player&gt;!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">itsover_evan_offer</Data></Cell>
-    <Cell><Data ss:Type="String">Who could have ever imagined the success you've had with our little company, &lt;player&gt;.&lt;br&gt;&lt;br&gt;You have made me so, so proud!</Data></Cell>
+    <Cell><Data ss:Type="String">Wie had zich ooit kunnen voorstellen dat je zo veel succes kon hebben met ons bedrijfje, &lt;player&gt;.&lt;br&gt;&lt;br&gt;Ik ben verschrikkelijk trots op je!</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">rank4_boardspew_offer</Data></Cell>
-    <Cell><Data ss:Type="String">%rank_4%! I never doubted you, &lt;player&gt;! Keep making me proud...</Data></Cell>
+    <Cell><Data ss:Type="String">%rank_4%! Ik heb nooit aan je getwijfeld, &lt;player&gt;. Maak me trots!</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">rank2_bianspew_offer</Data></Cell>
-    <Cell><Data ss:Type="String">You never know whom you'll cross paths with here at %tan_bar%, &lt;player&gt;...</Data></Cell>
+    <Cell><Data ss:Type="String">Je weet nooit wie je zult tegenkomen hier in %tan_bar%, &lt;player&gt;...</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">rank3_bianspew_offer</Data></Cell>
-    <Cell><Data ss:Type="String">Sean Fletcher? Well, I hear all kinds of things here at %tan_bar%...</Data></Cell>
+    <Cell><Data ss:Type="String">Sean Fletcher? Ik hoor veel geruchten hier in %tan_bar%...</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">rank4_bianspew_offer</Data></Cell>
-    <Cell><Data ss:Type="String">Certainly seems like things are coming to a head with Alex and her little plans, eh, &lt;player&gt;?</Data></Cell>
+    <Cell><Data ss:Type="String">Zo te horen komt alles goed met Alex en haar plannetjes, toch &lt;player&gt;?</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">rank5_bianspew_offer</Data></Cell>
-    <Cell><Data ss:Type="String">All's well that end's well, as they say. No hard feelings, right, &lt;player&gt;?</Data></Cell>
+    <Cell><Data ss:Type="String">Eind goed, al goed. Dat zeggen ze tenminste. Even goede vrienden, &lt;player&gt;?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s23"><Data ss:Type="String">whit_premeta_spew_offer</Data></Cell>
-    <Cell ss:StyleID="s28"><Data ss:Type="String">You're doing swell, &lt;player&gt;, and I very much look forward to working with you soon to launch our line of Exotics.</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Je doet het uitstekend, &lt;player&gt;, en ik kijk er erg naar uit om samen onze exotische chocola op de markt te brengen.</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">jose_endorsed_spew_offer</Data></Cell>
-    <Cell><Data ss:Type="String">Your efforts have made our Blends business a huge success, &lt;player&gt;. I have no doubt you will earn the remaining endorsements and that you will be our %rank_4% in no time flat!</Data></Cell>
+    <Cell><Data ss:Type="String">Dankzij jouw inspanningen zijn onze koffiesoorten een enorm succes, &lt;player&gt;. Ik weet zeker dat je ook door de andere bestuursleden gesteund zult worden en dat je in recordtijd onze %rank_4% zult zijn!</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
