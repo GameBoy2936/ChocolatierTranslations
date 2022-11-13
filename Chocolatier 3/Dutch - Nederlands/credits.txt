@@ -2,67 +2,67 @@
 <b>Big Splash Games</b>
 
 
-[Original Game Design]
+[Origineel spelontwerp]
 Jon Blossom
 Stephen Lewis
 Michael Thornton Wyman
 
 
 
-[Producer]
+[Producent]
 Michael Thornton Wyman
 
 
 
-[Art Direction] | [Programming]
+[Artdirection] | [Programmering]
 Stephen Lewis | Jon Blossom
 
 
 
 
-[Additional Art Production]
+[Aanvullende vormgeving]
 Nikitova LLC
 Barbara Pollak
 
 
-[Audio and Music]
+[Audio en muziek]
 SomaTone Interactive Audio
 
 
-[Opening Animation by Red i Studios]
+[Openingsfilmpje door Red i Studios]
 Jenny Martin
 Sean Jones
-Chip Harris (Sound and Music) 
-Bob Wood (Voice Over)
+Chip Harris (Geluid en muziek) 
+Bob Wood (Voice-over)
 
 
 <b>PlayFirst</b>
 
 
-[Creative Director] 
+[Creatief directeur] 
 Kenny Shea Dinkin
 
-[Director of Production]
+[Directeur productie]
 Craig Bocks
 
-[Senior Producer] 
+[Senior producent] 
 Aaron Norstad
 
-[Producer]
+[Producent]
 Vicki Resendez
 
-[Design Manager]
+[Ontwerpmanager]
 Michael McCormick
 
-[Design Consultant]
+[Ontwerpadviseur]
 Nicolas Carroll
 
-[Quality Assurance Manager]
+[Manager kwaliteitsbewaking]
 Christopher Dunn 
 
-[Quality Assurance]
-Cesar Lemus (Team Lead)
-Guy Romhild (Project Lead)
+[Kwaliteitsbewaking]
+Cesar Lemus (Teammanagement)
+Guy Romhild (Projectleiding)
 Amy Jeschke 
 Brian DeGraf
 Adam Gourdin
@@ -81,7 +81,7 @@ Tim Mensch
 Brad Edelman
 Jim Brooks
 
-[Special Thanks]
+[Met bijzondere dank aan]
 Bernie Habermeier
 Joshua Dudley
 Ron Barry
@@ -93,7 +93,7 @@ Brad Simon
 Hung Chang
 
 
-[This game was built using the Playground SDK™.]
+[Dit spel is gemaakt met de Playground SDK™.]
 
 [Copyright © 2009 PlayFirst, Inc.]
-[All Rights Reserved]
+[Alle rechten voorbehouden.]

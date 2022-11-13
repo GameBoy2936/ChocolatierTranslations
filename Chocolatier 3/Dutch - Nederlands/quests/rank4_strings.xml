@@ -75,147 +75,147 @@
    <Column ss:AutoFitWidth="0" ss:Width="327"/>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">kath_bribe_prep_offer</Data></Cell>
-    <Cell><Data ss:Type="String">Have you heard the news? Sean is alive! Keep an eye out for Alexandra, she's trying to track you down...</Data></Cell>
+    <Cell><Data ss:Type="String">Heb je het al gehoord? Sean leeft nog! Kijk uit naar Alexandra, want ze probeert je te vinden.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">kath_bribe</Data></Cell>
-    <Cell><Data ss:Type="String">The Double-Cross</Data></Cell>
+    <Cell><Data ss:Type="String">Het bedrog</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">kath_bribe_offer</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;player&gt;, Sean is alive! I have definitive proof, but we're dealing with some shady characters. You need to meet with %evil_kath% in %falklands%. Bring her 25 cases each of %b12%, %c10%, %i12%, %t11%, %m07% and %e12%.</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;player&gt;, Sean leeft nog! Ik heb sluitend bewijs gevonden, maar we hebben met onbetrouwbare mensen te maken. Ga naar %evil_kath% op de %falklands%. Geef haar 25 dozen %b12%, %c10%, %i12%, %t11%, %m07% en %e12%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">kath_bribe_summary</Data></Cell>
-    <Cell><Data ss:Type="String">Bring a long list of confections - 25 cases each - to %evil_kath% in %falklands%.</Data></Cell>
+    <Cell><Data ss:Type="String">Geef %evil_kath% op de %falklands% veel lekkernijen: 25 dozen per smaak.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">kath_bribe_complete</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;player&gt;, this has been a long time coming. To be honest with you, I have always admired your business acumen, as well as your abilities in the test kitchen. What can I say, you're impressive. I do feel badly for some of the things I've done, and all I can do is apologize, and try to make it up to you all now.</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;player&gt;, het is een lange reis geweest. Om eerlijk te zijn, heb ik je zakelijk inzicht altijd al bewonderd en je hebt fantastisch gepresteerd in de proefkeuken. Ik voel me slecht over de dingen die ik heb gedaan, en ik kan me alleen maar verontschuldigen en hopen dat ik het nu goed kan maken.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">kath_bribe_extra01</Data></Cell>
-    <Cell><Data ss:Type="String">You need to go see %bel_hutkeep% at %belize%. She'll be able to tell you where to find Sean.</Data></Cell>
+    <Cell><Data ss:Type="String">Ga naar %bel_hutkeep% in %belize%. Zij kan je vertellen waar Sean is.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">kath_bribe_incomplete</Data></Cell>
-    <Cell><Data ss:Type="String">I'm prepared to double-cross my people, &lt;player&gt;, but it will cost you. There is a long list of confections I'm expecting you to deliver to me here...</Data></Cell>
+    <Cell><Data ss:Type="String">Ik wil mijn eigen volk best bedriegen, &lt;player&gt;, maar wel voor de juiste prijs. Hier is een lange lijst met lekkernijen waar ik met smart op zal wachten.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seans_ransom_01_offer</Data></Cell>
-    <Cell><Data ss:Type="String">Oh yes, the American? I know exactly where he is - he is with a remote tribe deep in the highlands. I can fetch him for you, but it will not be cheap. If you are willing and able to pay me $1,000,000 up front to cover all of my expenses, I can guarantee you that I will deliver Sean to you here.</Data></Cell>
+    <Cell><Data ss:Type="String">O ja, de Amerikaan? Ik weet wel waar hij is. Hij leeft nu bij een afgezonderde stam, diep in de hooglanden. Ik kan hem voor je halen, maar dat is niet goedkoop. Als je €1.000.000 vooruit kunt betalen om al mijn onkosten te dekken, kan ik je garanderen dat ik Sean voor je zal halen.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seans_ransom_morecash_offer</Data></Cell>
-    <Cell><Data ss:Type="String">You need to come back when you've got enough cash to pay me - I need $1,000,000 up front to cover all of my costs to free Sean and bring him back to you here.</Data></Cell>
+    <Cell><Data ss:Type="String">Kom terug als je genoeg geld hebt om me te betalen. Ik wil een vooruitbetaling van €1.000.000 om al mijn onkosten te dekken als ik Sean moet redden en naar jou moet brengen.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seans_ransom_02</Data></Cell>
-    <Cell><Data ss:Type="String">Sean's Rescue</Data></Cell>
+    <Cell><Data ss:Type="String">Seans redding</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seans_ransom_02_offer</Data></Cell>
-    <Cell><Data ss:Type="String">I see you have the cash. Shall I take my $1,000,000 fee now, and guarantee Sean's safe return?</Data></Cell>
+    <Cell><Data ss:Type="String">Ik zie dat je het geld hebt. Zal ik mijn beloning van €1.000.000 nu gelijk aannemen en zorgen dat Sean thuiskomt?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seans_ransom_02_extra01</Data></Cell>
-    <Cell><Data ss:Type="String">OK. I will need about 3 months for the round trip journey. I will send word once I have the American safely with me...</Data></Cell>
+    <Cell><Data ss:Type="String">Oké. Ik heb drie maanden nodig om heen en weer te reizen. Ik laat het je gelijk weten als ik de Amerikaan veilig en wel bij me heb.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seans_return</Data></Cell>
-    <Cell><Data ss:Type="String">Sean Is Alive</Data></Cell>
+    <Cell><Data ss:Type="String">Sean leeft</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seans_return_offer</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;player&gt;, have you heard the incredible news? Sean has been found - alive! You absolutely must get to %belize% immediately!</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;player&gt;, heb je het ongelofelijke nieuws gehoord? Sean is gevonden en hij leeft nog! Je moet nu gelijk terug naar %belize%!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seans_return_summary</Data></Cell>
-    <Cell><Data ss:Type="String">Get to %belize% as soon as you can!</Data></Cell>
+    <Cell><Data ss:Type="String">Ga zo snel mogelijk naar %belize%!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seans_return_complete</Data></Cell>
-    <Cell><Data ss:Type="String">Did you doubt me, &lt;player&gt;? I certainly hope not - I have honored my commitment to you. Here, I trust, is the person you've been looking for...</Data></Cell>
+    <Cell><Data ss:Type="String">Twijfelde je aan me, &lt;player&gt;? Ik hoop het niet... Ik kom mijn kant van de afspraak na. Hier is de persoon naar wie je zocht.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seansthanks_text01</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;player&gt;, I never gave up. I knew that some day, some way, my true love would find me. After being shot down, I was captured by the Germans. As luck would have it, the officer in charge of the POW camp where I was held was none other than %evil_wolf% - that's right, our old nemisis!</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;player&gt;, ik heb het nooit opgegeven. Ik wist dat mijn ware liefde me ooit, hoe dan ook, weer zou vinden. Nadat ik werd neergehaald, werd ik gevangengenomen door de Duitsers. Gelukkig was de officier die de leiding had over het gevangenenkamp niemand minder dan %evil_wolf%, onze oude aartsrivaal!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seansthanks_text02</Data></Cell>
-    <Cell><Data ss:Type="String">I have no idea why he didn't just kill me, but as the war was drawing to a close, he hatched a crafty plan. Squirreling me away with a remote highlands tribe in Central America, Wolf assumed that with Alex distracted looking for me, Baumeister Confections would fall apart. I guess he didn't count on you, &lt;player&gt;!</Data></Cell>
+    <Cell><Data ss:Type="String">Ik weet niet waarom hij me niet gelijk vermoordde, maar toen de oorlog zijn einde naderde, bedacht hij een plan. Hij bracht me naar een afgelegen stam in de hooglanden van Midden-Amerika, met als doel om Alex weg te lokken. Zonder haar zou Baumeister Confections instorten. Maar hij had niet op jou gerekend, &lt;player&gt;!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seansthanks_text03</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">I myself have been keeping busy by helping the tribe learn to cultivate cacao. Their crop is incredible - you won't find finer cacao anywhere in the world. And I have now set %bel_hutkeep% up here with a market to sell the ingredient, so you'll know where to find it.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Ondertussen heb ik de stam geleerd hoe ze cacao kunnen verbouwen. Hun cacao is verrukkelijk, je vindt geen betere in de hele wereld. En ik heb nu %bel_hutkeep% hier op de markt gezet om het ingrediënt te verkopen, zodat je altijd weet waar je het kunt vinden.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">seansthanks_text04</Data></Cell>
-    <Cell><Data ss:Type="String">Now I am to depart to finally go meet Alex in %zurich% - you must come see us there soon!</Data></Cell>
+    <Cell><Data ss:Type="String">Nu kan ik eindelijk naar Alex gaan in %zurich%. Kom ons binnenkort eens opzoeken!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_quest</Data></Cell>
-    <Cell><Data ss:Type="String">Highest Honors Part 1</Data></Cell>
+    <Cell><Data ss:Type="String">Hoogste onderscheiding, deel 1</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_quest_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, you have accomplished an incredible amount. You control all of our factories, and have taken ownership of multiple retail locations bringing in additional revenues through special orders. Your creations have won awards and new customers the world over. This is not even to mention all that you have done for me personally...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, je hebt ongelofelijk veel bereikt. Je hebt de leiding over onze fabrieken en hebt talloze winkels overgenomen, die extra inkomsten opleveren dankzij speciale bestellingen. Jouw creaties hebben prijzen gewonnen en voor nieuwe klanten over de hele wereld gezorgd. En dan heb ik het nog niet eens over alles wat je voor mij hebt gedaan.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_quest_extra01</Data></Cell>
-    <Cell><Data ss:Type="String">There is only one thing left for you to do, something that used to be a lot easier. In the old days, you would have achieved this rank a long time ago, but nowadays this distinction doesn't come as easily as it once did.</Data></Cell>
+    <Cell><Data ss:Type="String">Er staat je nog maar één taak te wachten, iets wat vroeger altijd een stuk makkelijker was. Vroeger had je deze rang al veel eerder gekregen, maar tegenwoordig word je niet zo makkelijk meer onderscheiden.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_quest_extra02</Data></Cell>
-    <Cell><Data ss:Type="String">We are prepared to submit your application to the International Society of Artisan Confectioners - that's right, &lt;player&gt;, we're prepared to nominate you to be designated a %rank_5%. First, I give you the final space in the recipe book - once you create your last recipe, the recipe book will be complete.</Data></Cell>
+    <Cell><Data ss:Type="String">We zijn bereid om je voor te dragen bij de Internationale Vereniging van Chocolatiers. Dat klopt, &lt;player&gt;, we willen je voordragen als de perfecte %rank_5%. Maar eerst geef ik je het laatste vakje in het receptenboek. Als je je laatste recept hebt bedacht, is het receptenboek compleet.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_quest_extra03</Data></Cell>
-    <Cell><Data ss:Type="String">To support your case, we're going to need a heck of a lot of sweets. We need you to deliver 200 cases of each and every one of your recipes - from &lt;user1&gt; right up through the last recipe you still need to create - to %main_evan% at %san_bchq%. We'll collect them in two batches, and then submit all of those confections with your application.</Data></Cell>
+    <Cell><Data ss:Type="String">Om je aanmelding kracht bij te zetten, hebben we ontzettend veel zoetigheid nodig. Je moet 200 dozen van al je recepten leveren, van &lt;user1&gt; tot het laatste recept dat je nog moet maken. Breng alle dozen naar %main_evan% in het %san_bchq%. We zullen alles verzamelen in twee ladingen en alle zoetigheden afleveren, samen met je aanmelding.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_quest_extra04</Data></Cell>
-    <Cell><Data ss:Type="String">For the first batch, bring 200 cases each of &lt;user1&gt;, &lt;user2&gt;, &lt;user3&gt;, &lt;user4&gt;, &lt;user5&gt; and &lt;user6&gt; to %san_bchq%. You'll also need to create that final recipe.</Data></Cell>
+    <Cell><Data ss:Type="String">De eerste lading bestaat uit 200 dozen &lt;user1&gt;, &lt;user2&gt;, &lt;user3&gt;, &lt;user4&gt;, &lt;user5&gt; en &lt;user6&gt;. Breng deze dozen naar het %san_bchq%. Je moet ook nog dat laatste recept maken.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_quest_summary</Data></Cell>
-    <Cell><Data ss:Type="String">Bring 200 cases of each of your first six creations to %san_bchq%.</Data></Cell>
+    <Cell><Data ss:Type="String">Breng 200 dozen van je eerste zes creaties naar het %san_bchq%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_quest_incomplete</Data></Cell>
-    <Cell><Data ss:Type="String">For the first batch we need 200 cases of each of your first six creations, &lt;player&gt;, and you'll also need to create your final recipe.</Data></Cell>
+    <Cell><Data ss:Type="String">Voor de eerste lading hebben we 200 dozen van je eerste zes creaties nodig, &lt;player&gt;. Je moet ook nog je laatste recept maken.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_questa</Data></Cell>
-    <Cell><Data ss:Type="String">Highest Honors Part 2</Data></Cell>
+    <Cell><Data ss:Type="String">Hoogste onderscheiding, deel 2</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_questa_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">So far, so good, &lt;player&gt;. Now, for the second batch we'll need 200 cases each of &lt;user7&gt;, &lt;user8&gt;, &lt;user9&gt;, &lt;user10&gt;, &lt;user11&gt; and &lt;user12&gt;. After that, your application package will be complete.</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Tot nu toe gaat alles goed, &lt;player&gt;. Voor de tweede lading hebben we 200 dozen &lt;user7&gt;, &lt;user8&gt;, &lt;user9&gt;, &lt;user10&gt;, &lt;user11&gt; en &lt;user12&gt; nodig. Pas dan is je aanmelding compleet.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_questa_summary</Data></Cell>
-    <Cell><Data ss:Type="String">Bring 200 cases of each of your final six creations to %san_bchq%.</Data></Cell>
+    <Cell><Data ss:Type="String">Breng 200 dozen van je laatste zes creaties naar het %san_bchq%.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_questa_incomplete</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;player&gt;, for the second batch we need 200 cases of each of your final six creations, &lt;player&gt;. Then, we'll be ready to get your application for %rank_5% into the appropriate parties.</Data></Cell>
+    <Cell><Data ss:Type="String">Voor de tweede lading hebben we 200 dozen van je laatste zes creaties nodig, &lt;player&gt;. Dan kunnen we je aanmelding voor %rank_5% naar de juiste mensen sturen.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_questa_complete</Data></Cell>
-    <Cell><Data ss:Type="String">Excellent. We now have everything we need. We'll submit your application immediately, and we should have an answer back in about a month.&lt;br&gt;&lt;br&gt;In the meantime, you keep up the great work!</Data></Cell>
+    <Cell><Data ss:Type="String">Uitstekend. We hebben alles wat we nodig hebben. Ik dien je aanmelding gelijk in en dan horen we over een maand het resultaat.&lt;br&gt;&lt;br&gt;Ga ondertussen door met waar je goed in bent!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_questb_offer</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;player&gt;, I am here on behalf of the Board of Directors, and I have some wonderful news. Your candidacy has been approved! That's right, you are now a %rank_5%! Congratulations!!&lt;br&gt;&lt;br&gt;You may continue to work to grow the business if you wish, and of course special orders will also help bump up our profits over time. </Data></Cell>
+    <Cell><Data ss:Type="String">&lt;player&gt;, ik ben hier namens het bestuur, en ik heb geweldig nieuws. Je kandidatuur is goedgekeurd! Ja, je bent nu een %rank_5%! Gefeliciteerd!&lt;br&gt;&lt;br&gt;Je mag blijven werken om het bedrijf nog verder te laten groeien, en daarnaast kun je ook nog speciale bestellingen aannemen om meer winst te maken.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">final_questb_extra01</Data></Cell>
-    <Cell><Data ss:Type="String">Speaking of profits, I don't know if you realized this, but the award of %rank_5% comes with a significant cash bonus - I am most pleased to credit your account with the $10,000,000 we received for your having earned this distinction.&lt;br&gt;&lt;br&gt;My hat is off to you, &lt;player&gt;, you truly are a %rank_5%!</Data></Cell>
+    <Cell><Data ss:Type="String">Over winst gesproken, ik weet niet of je het al weet, maar bij de benoeming tot %rank_5% hoort een indrukwekkende prijzenpot. Je krijgt €10.000.000 op je rekening gestort voor je onderscheiding.&lt;br&gt;&lt;br&gt;Petje af, &lt;player&gt;, je bent echt een %rank_5%!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"><Data ss:Type="String">alex_thanks_offer</Data></Cell>
-    <Cell><Data ss:Type="String">I can't thank you enough for all you have done, &lt;player&gt;, not only for the business, but for me personally as well. I knew the day we met, that you were the right candidate for the job.</Data></Cell>
+    <Cell><Data ss:Type="String">Woorden schieten te kort voor wat je hebt betekend, &lt;player&gt;. Niet alleen voor de zaak, maar ook voor mij persoonlijk. De dag dat ik je zag, wist ik dat jij geknipt was voor deze baan.</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">

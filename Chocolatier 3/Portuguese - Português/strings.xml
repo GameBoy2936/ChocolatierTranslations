@@ -2160,35 +2160,35 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">ugr_generic</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Your Latest Creation</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sua última criação</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">bar</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Bars</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Barras</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">infusion</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Infusions</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Infusões</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">truffle</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Truffles</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Trufas</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">exotic</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Exotics</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Exóticos</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">beverage</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Coffees</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cafés</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">blend</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Coffee Blends</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Misturas de Café</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">user</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Creations</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Criações</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">b01</Data></Cell>
@@ -4798,7 +4798,7 @@
    </Row>
    <Row>
     <Cell><Data ss:Type="String">new_medal</Data></Cell>
-    <Cell><Data ss:Type="String">Congratulations! You've received a new award!</Data></Cell>
+    <Cell><Data ss:Type="String">Parabéns! Você recebeu um novo prêmio!</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">medal_01</Data></Cell>
