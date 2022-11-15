@@ -76,479 +76,479 @@
    <Column ss:AutoFitWidth="0" ss:Width="327"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_joseph_prompt</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">An Invitation from %main_jose%</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Een uitnodiging van %main_jose%</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_joseph_prompt_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">%main_jose% is eager to meet with you, &lt;player&gt;. Would you be able to pay him a visit at %tor_office% in %toronto%?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%main_jose% wil je dolgraag ontmoeten, &lt;player&gt;. Kun je hem misschien opzoeken in de %tor_office% in %toronto%?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_joseph_prompt_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Go visit with %main_jose% at %tor_office% in %toronto%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Bezoek %main_jose% in de %tor_office% in %toronto%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_joseph</Data></Cell>
-    <Cell><Data ss:Type="String">The Endorsements of Joseph</Data></Cell>
+    <Cell><Data ss:Type="String">De steun van Joseph</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_joseph_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;player&gt;, I must admit it, you have been doing a wonderful job for us. When I first heard of your efforts, I was skeptical, but then again, I am skeptical by nature. In any event, I am most pleased with the direction you have taken the company. I am confident you will be able to earn the remaining endorsements - in fact I am ready to tell you how you can do so now.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;player&gt;, ik geef toe dat je fantastisch werk voor ons verricht. Toen ik voor 't eerst hoorde wat je allemaal voor ons deed, was ik nog sceptisch, maar ik ben van nature sceptisch. Ik ben hoe dan ook meer dan tevreden met de huidige koers van het bedrijf. Ik weet zeker dat je de steun van de andere bestuursleden zult krijgen. Sterker nog, ik zal je vertellen hoe!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_joseph_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Alex has supported you from the get go, and you have already earned the trust of Evangeline, Deiter and Felix. You only have myself and Whitney left to convince. I'll let Whitney explain what she would like to see you accomplish - as for me, I have been working with Brooke, the boss of our factory here in Toronto, on some enhancements for Felix's coffee machines. We are now set up and ready to launch a line of Blended Coffees. </Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Alex heeft je vanaf het begin af aan gesteund en je hebt al het vertrouwen van Evangeline, Deiter en Felix gewonnen. Je hoeft alleen Whitney en mij nog over te halen. Whitney zal je vertellen wat zij van je verwacht. Dit is mijn uitdaging: ik heb met Brooke, de manager van onze fabriek hier in Toronto, aan wat verbeteringen voor Felix' koffiemachines gewerkt. We kunnen nu een nieuwe lijn met koffiemixen lanceren.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_joseph_extra02</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I'd like you to help me convince the other members of the board that we can be successful with these products. I need you to not only nearly fill the Coffee Blends page of our recipe book, but also to have $3,000,000 in the bank. Once you have accomplished these things, I will gladly confer my endorsement.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je moet me helpen de andere bestuursleden ervan te overtuigen dat we zeer succesvol zullen zijn met deze producten. Je moet niet alleen de pagina met Koffiemixen vullen in ons receptenboek, maar je moet ook €3.000.000 op de bank hebben staan. Zodra je deze dingen hebt bereikt, zal ik je steunen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_joseph_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Collect 11 recipes for Coffee Blends and have at least $3,000,000 on hand to earn Joseph's endorsement.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Verzamel 11 recepten voor koffiemixen en zorg dat je minstens €3.000.000 op je rekening hebt staan om de steun van Joseph te verdienen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_joseph_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Terrific work, &lt;player&gt;. I've been saving this final blends recipe for you...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Uitstekend gedaan, &lt;player&gt;. Ik heb dit laatste koffierecept speciaal voor jou bewaard.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_joseph_extra03</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">And, as promised, I am fully on board with you becoming our %rank_4% - you have earned my endorsement, &lt;player&gt;. Keep up the good work!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">En, zoals beloofd, sta ik volledig achter de beslissing om je te promoveren tot onze %rank_4%. Je hebt mijn steun verdiend, &lt;player&gt;. Ga zo door!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_jose_middle_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You're on the right track, &lt;player&gt;. Keep going until you've met the goals we discussed - $3,000,000 in your account and 11 Coffee Blends recipes collected...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je zit op de goede weg, &lt;player&gt;. Ga zo door tot je de doelen hebt gehaald die we hadden afgesproken: €3.000.000 op je bankrekening en 11 recepten voor koffiemix.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">off_to_whitney</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">From Joseph to Whitney</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Van Joseph naar Whitney</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">off_to_whitney_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I'd like you to go see Whitney in Wellington. Bring her a sample from your first batch of Coffee Blends. Here is the first recipe that you will need...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ga naar Whitney in Wellington. Geef haar een voorproefje van je eerste partij koffiemix. Hier is het eerste recept dat je nodig hebt.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">off_to_whitney_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Just bring her a case of those %m01%, and she'll let you know what she has in mind.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Geef haar een doos %m01% en ze zal je vertellen wat zij in gedachten heeft.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">off_to_whitney_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Bring a case of %m01% to %main_whit% at %wel_factory% in %wellington%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng een doos %m01% naar %main_whit% in %wel_factory% in %wellington%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">off_to_whitney_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">My 1st cousin Joseph told me that he had given you a recipe and prepared the Toronto factory to make %m01%, and that you were planning to offer me a taste? Does this ring any bells, &lt;player&gt;?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mijn neef Joseph zei dat hij je een recept heeft gegeven, en dat de fabriek in Toronto klaar is om %m01% te maken. Ook zou jij me een voorproefje geven. Klinkt dat je bekend in de oren, &lt;player&gt;?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">off_to_whitney_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Tasty! I agree with Joseph - I think your new line of Coffee Blends are going to do wonderfully for our company!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Heerlijk! Ik ben het met Joseph eens: je nieuwe lijn koffiemix zal een succes zijn. Ons bedrijf zal enorm groeien!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">brooke_welcome_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">All right, &lt;player&gt;, step inside and let's crank up these machines!&lt;br&gt;&lt;br&gt;Our belts are a bit wider than Felix's down in %capetown%, to accommodate more ingredients. But I think you'll get the hang of things in no time flat...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Goed dan, &lt;player&gt;, kom maar binnen en zet de machines maar aan!&lt;br&gt;&lt;br&gt;Onze lopende banden zijn breder dan die van Felix in %capetown%, dus wij kunnen meer ingrediënten verwerken. Maar je hebt alles zo onder de knie.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_whitney</Data></Cell>
-    <Cell><Data ss:Type="String">Endorsement by Whitney</Data></Cell>
+    <Cell><Data ss:Type="String">Steun van Whitney</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_whitney_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Our factory here is configured for Exotics - my own favorite treats. It is also important to me that you are continuing to show success with your own creations. I will endorse your promotion to %rank_4%, and give you an excellent exotic recipe, once you have learned all the other 11 Exotics recipes, as well as created at least 7 confections of your own.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Onze fabriek is ingesteld op exotica, mijn favoriete lekkernij. Het is belangrijk dat je nog steeds laat zien dat je eigen creaties er ook mogen zijn. Ik steun je promotie tot %rank_4% en zal je een uitstekend en exotisch recept geven zodra je alle andere 11 exotische recepten kent en minstens 7 eigen creaties hebt gemaakt.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_whitney_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Learn 11 Exotics recipes, and invent at least 7 recipes of your own, to gain Whitney's endorsement.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Leer 11 exotische recepten en bedenk minstens 7 eigen recepten om gesteund te worden door Whitney.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">meta_whitney_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You are doing a truly magnificent job, &lt;player&gt;. It is my pleasure to offer you the final exotics recipe - for %e12% - and, more importantly, my endorsement of your abilities to lead our company into the future. Nice work!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je doet het werkelijk uitstekend, &lt;player&gt;. Het is me een genoegen om je het laatste exotische recept te geven, en wel voor %e12%. Ik geef je mijn steun en vertrouw de toekomst van ons bedrijf aan jou toe. Goed gedaan!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">back_to_joseph</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">From Whitney to Joseph</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Van Whitney naar Joseph</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">back_to_joseph_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I am going to ask you to return Joseph's favor, and to bring him a sample of your first batch of Exotics. This is a truly sophisticated factory - you've got 3 colors to match, and a recycler just in case. Good luck!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik wil dat je bij Joseph hetzelfde doet als bij mij. Breng hem een voorproefje van je eerste partij exotica. Dit is een geavanceerde fabriek: je moet 5 ingrediënten combineren en hebt een recycler voor noodgevallen. Succes!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">back_to_joseph_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Bring a case of %e01% to %main_jose% at %tor_office% in %toronto%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng een doos %e01% naar %main_jose% in de %tor_office% in %toronto%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">back_to_joseph_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You have seen Whitney, correct? And she gave you a recipe for %e01%, right? She assured me that you would be bringing me a sample to try...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ben je bij Whitney geweest? En gaf ze je een recept voor %e01%? Ze had me beloofd dat je me een voorproefje zou geven.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">back_to_joseph_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Tasty! You are really on a tear, &lt;player&gt;, launching new product types fast and furious! I have no doubt that you will succeed in all you set out to accomplish.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Lekker! Je gaat als een speer, &lt;player&gt;. Je lanceert achter elkaar nieuwe producten! Ik weet zeker dat je zult slagen in alles wat je wilt bereiken.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">A Lead on Exotics</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Een exotische voorsprong</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_01_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I happen to know a lady who is holding a pair of exotics recipes. Her name is Keylla, and you'll find her at the %lim_plaza% in %lima%, Peru. Bring her 5 dozen cases of those delicious truffles you once brought me, %t06%, and she'll set you up.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik ken een vrouw die meerdere exotische recepten heeft. Ze heet Keylla en je vindt haar op het %lim_plaza% in %lima%, Peru. Geef haar 60 dozen van die heerlijke truffels, %t06%, die je ook een keer aan mij hebt gegeven. Dan zal ze je vast helpen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_01_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Deliver 60 cases of %t06% to someone named Keylla at %lim_plaza% in %lima%. </Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng 60 dozen %t06% naar ene Keylla op het %lim_plaza% in %lima%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_01_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I'm happy to see you &lt;player&gt;, I've heard wonderful things about your confections. In particular, I heard I might really enjoy some %t06%....</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Wat fijn je te zien, &lt;player&gt;. Ik heb fantastische dingen over je lekkernijen gehoord. Je %t06% schijnen onweerstaanbaar te zijn.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_01_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">%lim_plazakeep% is holding a couple of recipes for exotics for you. As long as you show up with 60 cases of %t06%, she'll be willing to share what she's got.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%lim_plazakeep% heeft een paar exotische recepten voor je. Zodra je haar 60 dozen %t06% geeft, wil ze die wel met je delen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_02</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">A Pair of Exotics Recipes</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Een paar exotische recepten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_02_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I am impressed, &lt;player&gt; - your %t06% are delicious.&lt;br&gt;&lt;br&gt;I have a couple of exotics recipes that I would be willing to part with. I tell you what - I'll hand over the first one now, and when you bring me 50 cases of those, I'll hand over the second. OK?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik ben diep onder de indruk, &lt;player&gt;. Je %t06% zijn heerlijk.&lt;br&gt;&lt;br&gt;Ik heb een paar exotische recepten voor je die ik graag aan je wil geven. Weet je wat? Ik geef je nu de eerste en als je mij daar 50 dozen van geeft, krijg je het tweede recept. Afgesproken?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_02_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Excellent - here's the first recipe for %e03%, and I look forward to receiving the 50 cases.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Uitstekend, hier heb je het recept en ik kijk nu al uit naar die 50 dozen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_02_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Bring 50 cases of %e03% to Keylla at %lim_plaza% in %lima%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Geef 50 dozen %e03% aan Keylla op het %lim_plaza% in %lima%. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_02_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Perfect! Here is the other recipe I mentioned - for %e02%. I hope these recipes serve you well in the future.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Perfect! Hier heb je het tweede recept.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_02_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You've got the recipe, right? You do want the other recipe, right? Well, you need to bring me those 50 cases of %e03%...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je hebt het eerste recept, toch? En wil je het andere recept? Dan moet je me die 50 dozen %e03% geven.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_02_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">%lim_plazakeep% is holding another recipe for you. Once you show up with 50 cases of %e03%, she'll be willing to share what she's got.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%lim_plazakeep% heeft nog een recept voor je. Zodra je 50 dozen %e03% voor haar hebt, wil ze het recept graag met je delen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_03</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Sandy Adventure</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mond vol zand</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_03_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I'm glad I ran into you, &lt;player&gt;. My friend Keylla told me that she had given you a recipe for %e02%. I happen to be able to offer you passage to the only place on earth where you'll be able to find the %date% you need for that recipe. If I can get you there, as well as promise a couple of recipes in return, will you be willing to bring me 50 cases of %e02%?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Goed dat ik je zie, &lt;player&gt;. Mijn vriendin Keylla vertelde me dat ze je een recept voor %e02% heeft gegeven. Ik kan je naar de enige plek op aarde brengen waar je de %date% kunt vinden die je nodig hebt voor dat recept. Als ik je breng en je een paar recepten geef, wil je mij dan 50 dozen %e02% geven?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_03_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Great. I'm actually on my way to Keylla's place in Peru. I'll meet you there, at %lim_plaza%, and as soon as you arrive with 50 cases of %e02%, I'll hand over the other recipes.&lt;br&gt;&lt;br&gt;In the meantime, you can now travel to %gobidesert%, where you'll find the %date% you need...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Geweldig. Ik ben nu onderweg naar Keylla in Peru. Laten we afspreken op het %lim_plaza%. Zodra je de 50 dozen %e02% voor me hebt, geef ik je de andere recepten.&lt;br&gt;&lt;br&gt;Ondertussen kun je nu ook naar de %gobidesert% reizen, waar je de %date% vindt die je nodig hebt.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_03_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Bring 50 cases of %e02% to %trav_05% at %lim_plaza% in %lima%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng 50 dozen %e02% naar %trav_05% op het %lim_plaza% in %lima%. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_03_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You have outdone yourself, &lt;player&gt;. Here are the recipes I promised. I'll be seeing you on the road, I'm sure...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je hebt jezelf overtroffen, &lt;player&gt;. Hier zijn de recepten die ik je had beloofd. Ik kom je vast wel weer een keertje tegen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_03_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Here I am, as promised. You made a promise, too, &lt;player&gt;, do you remember? That's right - 50 cases of %e02%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Hier ben ik, zoals beloofd. Jij had ook iets beloofd, &lt;player&gt;. Weet je dat nog? Inderdaad, 50 dozen %e02%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_03_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">%trav_05% is waiting at %lim_plaza% with a couple of Exotics recipes for you, &lt;player&gt;. She is eager for you to arrive with the 50 cases of %e02% she is expecting...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%trav_05% wacht op je op het %lim_plaza% met een paar exotische recepten, &lt;player&gt;. Ze zit met smart te wachten op de 50 dozen %e02% die je haar had beloofd.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_04</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Coffee Among Brothers</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Koffiebroeders</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_04_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I am glad you were able to get some %m01% to Whitney. Are you willing to do me another favor right now? It will help us start to build out our Blends offerings...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Gelukkig kon je Whitney wat %m01% geven. Wil je misschien nog iets voor me doen? Dan kunnen we ons koffieassortiment uitbreiden.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_04_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Super. I'm going to give you a couple more Blends recipes. I want you to take 20 cases of each of %m01%, %m02% and %m03% to my brother Felix in %capetown%. That's 60 cases total.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Super. Ik geef je nog een paar recepten voor koffiemix. Ik wil graag dat je 20 dozen %m01%, %m02% en %m03% naar mijn broer Felix brengt in %capetown%. Dat zijn in totaal 60 dozen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_04_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Bring 20 cases each of %m01%, %m02% and %m03% to %main_feli% in %capetown%. </Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng 20 dozen %m01%, %m02% en %m03% naar %main_feli% in %capetown%. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_04_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Let me taste what you have there, &lt;player&gt;...scrumptious! I'm going to just take a couple of cases of each of those Blends - the rest you should be able to sell at a healthy profit. I'm on board with Blends - here are a couple of additional recipes that I think will also prove quite worth your while to produce...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Laat me eens even proeven, &lt;player&gt;... Verrukkelijk! Ik neem een paar dozen van elke smaak koffiemix. De rest kun je vast met veel winst verkopen. Ik ben er wild van. Ik heb nog een paar recepten voor je die ook de moeite waard zijn om te produceren.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_04_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I'm willing to consider expansion into the realm of Blends, but I need to taste first hand some of the products coming out of Joseph's machinery up there in Toronto.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik weet nog niet zeker of ik de grote stap wil zetten naar de wereld van koffiemixen, dus ik wil eerst wat proeven uit de fabriek van Joseph in Toronto.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_04_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You need to bring 20 cases each of %m01%, %m02% and %m03% to %main_feli% in %capetown% in order to get him comfortable with the expansion of the business into Blends.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng 20 dozen %m01%, %m02% en %m03% naar %main_feli% in %capetown% om hem te laten wennen aan het idee van koffiemixen in ons assortiment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_05</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">A Special Order</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Een speciale bestelling</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_05_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;player&gt;, I have been trying to get a hold of some of your special creations. I can offer a healthy sum, paid in advance - as well as a couple of recipes - one exotic, one coffee blend - in exchange for some of your concoctions. Shall we make a deal? </Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;player&gt;, ik probeer al een tijdje je speciale creaties te pakken te krijgen. Ik bied je veel geld en betaal vooruit. Ook heb ik een paar recepten voor je, waarvan één exotisch en één voor koffiemixen, in ruil voor je beroemde brouwsels. Hebben we een deal?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_05_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Sweet! OK, here's $100,000. I'll track you down in a few months, and by that time please have on hand for me 35 cases each of your &lt;user4&gt; and &lt;user5&gt;. When you give me the confections, I'll give you the recipes I mentioned.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mooi zo! Oké, hier heb je €100.000. Ik kom over een paar maanden terug, en tegen die tijd wil ik graag mijn 35 dozen &lt;user4&gt; en dozen &lt;user5&gt;. Als je me de goederen levert, krijg je van mij de recepten.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_05_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Have 35 cases each of &lt;user4&gt; and &lt;user5&gt; on hand for %trav_06%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Hou 35 dozen &lt;user4&gt; en &lt;user5&gt; op voorraad voor %trav_06%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_05_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Ah, people of their word are so few and far between these days! It is my pleasure to give you these recipes now...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ah, het is tegenwoordig erg zeldzaam dat mensen zich aan hun woord houden! Ik geef je deze recepten met alle liefde.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_05_extra02</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You will find %rose% at the market in %zurich%, and as for the %m06%, I understand there are now some wonderful %coconut% to be had in %bali%; I'm not sure if you've ever had occasion to visit Indonesia?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je vindt %rose% op de markt in %zurich%. Wat de %m06% betreft, ik heb begrepen dat ze op %bali% heerlijke %coconut% verkopen. Ben je al eerder in Indonesië geweest?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_05_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I paid you in advance, &lt;player&gt;, and I expect that you will honor your end of our bargain, right?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik heb je al betaald, &lt;player&gt;, en ik verwacht dat jij je ook aan de afspraak houdt.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_05_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">%trav_06% is expecting 35 cases each of your &lt;user4&gt; and &lt;user5&gt;, for which he paid you in advance.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%trav_06% verwacht 35 dozen &lt;user4&gt; en &lt;user5&gt;, waar hij je al voor heeft betaald.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_06</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Colombian Treats</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Colombiaanse verwennerij</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_06_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">It is good to see you again, &lt;player&gt;. If you are willing to make a trip to South America, I have a friend there who is in possession of some valuable recipes that utilize some local ingredients. Are you available to do something for me right now?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Fijn je weer te zien, &lt;player&gt;. Wil je naar Zuid-Amerika? Ik heb een vriend met een paar waardevolle recepten die gebruikmaken van de plaatselijke ingrediënten. Heb je nu de tijd om iets voor me te doen?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_06_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Wonderful. First, here is a recipe for %m10%... </Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Uitstekend. Eerst krijg je het recept voor %m10%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_06_extra02</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Make 25 cases, and bring them, along with 65 cases of %t09% - the %sesame% you'll need can now be found in %tangiers% - to my friend Pedro whom you'll find in the %bog_mountain% in %bogota%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Maak 25 dozen en breng ze, samen met 65 dozen %t09%, naar mijn goede vriend Pedro. Je vindt hem in de %bog_mountain% in %bogota%. De %sesame% die je nodig hebt, zijn nu verkrijgbaar in %tangiers%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_06_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Bring 25 cases of %m10% and 65 cases of %t09% to Pedro in %bogota%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng 25 dozen %m10% en 65 dozen %t09% naar Pedro in %bogota%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_06_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">These truffles are delightful, &lt;player&gt;, and I look forward to enjoying your %m10%! In appreciation, I have a recipe for you here, for %e10%. %pecan% can be found here at %bog_market%, but let me warn you - they are only in season from around September through November, and at other times of year you'll pay a pretty penny for those nuts...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Deze truffels zijn heerlijk, &lt;player&gt;, en ik kijk ernaar uit om je %m10% te proeven! Als dank heb ik hier een recept voor je, voor %e10%. %pecan% kun je hier kopen op de %bog_market%, maar let op: het seizoen loopt van september tot en met november. De rest van het jaar zijn ze een stuk duurder.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_06_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">My friend Evangeline gave me a head's up that you would be calling to visit, but she said something about truffles and coffee blends you'd have for me?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Mijn vriendin Evangeline zei al dat je me zou bezoeken, maar ze zei ook iets over truffels en koffiemixen die je voor me zou meenemen?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_06_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">%bog_mountainkeep% is expecting you to visit him at %bog_mountain% in %bogota% with 65 cases of %t09% and 25 cases of %m10%...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%bog_mountainkeep% wacht tot je in de %bog_mountain% in %bogota% opduikt met 65 dozen %t09% en 25 dozen %m10%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_07</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">More Recipes in Colombia</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Meer recepten in Colombia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_07_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">By the way, I do happen to know where you can get a hold of a couple of additional recipes here in Colombia. You should bring a dozen cases of your delicious %i11%, as well as a dozen cases of %e10%, to %bog_churchkeep% here at %bog_church%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Trouwens, ik weet toevallig waar je hier in Colombia aan nog meer recepten kunt komen. Breng 12 dozen van je heerlijke %i11% en 12 dozen %e10% naar %bog_churchkeep% hier in de %bog_church%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_07_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Give 12 cases each of %e10% and %i11% to %bog_churchkeep% in %bogota%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Geef 12 dozen %e10% en %i11% aan %bog_churchkeep% in de %bogota%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_07_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Pedro was singing your praises, &lt;player&gt;, but I must say his words did not do your confections justice! Here are a couple of additional recipes for exotics that I think you will find especially lucrative...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Pedro was laaiend enthousiast over je, &lt;player&gt;, maar ook hij kon maar niet op het perfecte woord komen om je lekkernijen te omschrijven! Hier zijn nog een paar recepten voor exotica die je vast veel geld zullen opleveren.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_07_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Pedro has been telling me all kinds of wonderful things about your offerings, &lt;player&gt; - I do have some recipes for you if you show up with the products I'm expecting...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Pedro heeft me alleen maar goede dingen verteld over je producten, &lt;player&gt;. Ik heb nog een paar recepten voor je als je me de producten levert waar ik met smart op zit te wachten.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_07_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">%bog_churchkeep% at %bog_church% in %bogota% is holding a couple of recipes for you, &lt;player&gt; - she'll exchange them for 12 cases of %e10% and 12 cases of %i11%...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%bog_churchkeep% in de %bog_church% in %bogota% heeft een paar recepten voor je, &lt;player&gt;. Ze wil ze ruilen voor 12 dozen %e10% en 12 dozen %i11%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_08</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Your Lucky Day</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je geluksdag</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_08_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;player&gt;, are you feeling lucky today?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;player&gt;, denk je dat je geluk hebt vandaag?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_08_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">It's no wonder - it's your lucky day! Here's a recipe for %m07% - no strings attached. Enjoy!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Geen wonder, het is je geluksdag! Hier heb je een recept voor %m07%, zomaar! Geniet ervan!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_09_prep_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;player&gt;, you need to make your way to %lasvegas% and see %las_marketkeep% there. Word is that she won a valuable recipe, and would be willing to part with it for a very reasonable amount...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;player&gt;, ga naar %lasvegas% en bezoek daar %las_marketkeep%. Het schijnt dat ze een waardevol recept heeft gewonnen en ze wil het verkopen voor een redelijk bedrag.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_09</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">A Recipe for Sale</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Recept te koop</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_09_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Ah, &lt;player&gt;, you must have heard of my good fortune? I indeed have a proposal for you. For just $25,000, I will sell you the recipe for %e07%, a delightful concoction that benefits from some of the fine %whiskey% I sell right here. But wait, there's more: I also know of a way for you to acquire yet another recipe once you make a few dozen cases of these chocolates. Will you buy the recipe?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ah, &lt;player&gt;, je hebt gehoord over mijn meevaller? Ik wil je inderdaad een voorstel doen. Ik verkoop je het recept voor %e07% voor slechts €25.000. Het recept maakt gebruik van de heerlijke %whiskey% die ik hier verkoop. Maar wacht, er is meer: ik weet ook een manier waarop je nog een recept kunt krijgen in ruil voor een paar dozen van deze chocola. Wil je het recept kopen?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_09_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Excellent. I'll grab the $25,000 and give you the recipe. What you need to do is bring 78 cases of the finished product to %dou_shopkeep% in %douala%. Good luck!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Uitstekend. Ik neem de €25.000 en geef jou het recept. Breng nu 78 dozen van het eindproduct naar %dou_shopkeep% in %douala%. Succes!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_09_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Bring 78 cases of %e07% to %dou_shopkeep% at %dou_shop% in %douala%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng 78 dozen %e07% naar %dou_shopkeep% in %dou_shop% in %douala%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_09_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Your %e07% are simply divine. In exchange for the first 78 cases, I will now give you a recipe for %e09%...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je %e07% zijn echt hemels! In ruil voor de eerste 78 dozen, geef ik je nu een recept voor %e09%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_09_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I have a recipe for you, &lt;player&gt;, as well as an opportunity to discuss, as soon as you bring 78 cases of %e07% - the recipe you bought from %las_marketkeep% in Vegas.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik heb een recept voor je, &lt;player&gt;, en een mooi aanbod, zodra je die 78 dozen %e07% hebt geleverd. Het recept heb je gekocht van %las_marketkeep% in Vegas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_09_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You are on the hook for 78 cases of %e07%, which you must deliver to %dou_shopkeep% at %dou_shop% in %douala%...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je moet 78 dozen %e07% leveren aan %dou_shopkeep% in %dou_shop% in %douala%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_10</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">An Offer for %dou_shop%</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%dou_shop% aangeboden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_10_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I'm not sure if Claudia mentioned this to you, &lt;player&gt;, but I have been looking for a partner for my shop. You have continued to impress me with your creations, and at this point I am willing to sign ownership of this shop over to you, in exchange for 100 cases of the recipe I gave you - %e09% - as well as 100 cases each of %c06% and your &lt;user2&gt;. Do we have a deal?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik weet niet of Claudia dit al had verteld, &lt;player&gt;, maar ik zoek een vennoot voor mijn winkel. Je maakt altijd indruk met je creaties en ik ben nu bereid om mijn winkel aan jou over te dragen, in ruil voor 100 dozen van het recept dat ik je heb gegeven, %e09%, en 100 dozen %c06% en &lt;user2&gt;. Hebben we een deal?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_10_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Exchange 100 cases each of %e09%, %c06% and &lt;user2&gt; for %dou_shop%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ruil 100 dozen %e09%, %c06% en &lt;user2&gt; tegen %dou_shop%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_10_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Wonderful. This shop is now yours - you will from this point forward always get the very best prices for your goods, and I will be happy to pass along any Special Orders I happen to receive on your behalf!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Geweldig. Deze winkel is nu van jou! Vanaf nu zul je altijd de beste prijzen krijgen voor je producten, en ik zal de speciale bestellingen doorgeven die ik namens jou ontvang.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_10_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I've got the deed to my shop, and I am ready to sign, as soon as you bring me the items we agreed upon....</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Hier is de vennootschapsakte van mijn winkel en ik sta klaar om te tekenen, zodra je me de producten levert die we waren overeengekomen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_10_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">%dou_shopkeep% is ready to transfer ownership of his shop to you, as soon as you bring him 100 cases each of %c06%, %e09%, and your &lt;user2&gt;...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%dou_shopkeep% wil zijn winkel aan jou overdragen zodra je hem 100 dozen %c06%, %e09% en &lt;user2&gt; levert.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_11</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Business in Iraq</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Zaken in Irak</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_11_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I have just come from %baghdad%, &lt;player&gt;, what a wonderful city! There's a wonderful coffee shop there, and I understand the proprietor, %bag_shopkeep%, may be looking for a partner. If I were to provide a recipe and an introduction, would you be willing to make some products and call on Mr. Sa'eed?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik ben net terug uit %baghdad%, &lt;player&gt;. Wat een schitterende stad! Er zit daar een heerlijke koffiezaak en ik heb begrepen dat de eigenaar, %bag_shopkeep%, een vennoot zoekt. Als ik je een recept geef en je introduceer, wil je dan wat producten voor me maken en bij meneer Sa'eed langsgaan?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_11_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Smart move! I will give you a recipe now for %m08%. Bring 50 cases of these, as well as 50 cases of %c09% - you'll find %amaretto% in %lasvegas% - to %bag_shop% in %baghdad%. Safe travels! </Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Slimme zet! Ik geef je een recept voor %m08%. Breng 50 dozen van dit recept en 50 dozen %c09% naar %bag_shop% in %baghdad%. Je vindt de %amaretto% in %lasvegas%. Goede reis!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_11_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Take 50 cases of %m08% and 50 cases of %c09% to %bag_shop% in %baghdad%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng 50 dozen %m08% en 50 dozen %c09% naar %bag_shop% in %baghdad%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_11_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Welcome to %bag_shop% &lt;player&gt;. I am pleased to make your acquaintance, and look forward to a long and fruitful partnership. In exchange for the example products you have brought, I am pleased to present another recipe for a blend - %m09%. And do feel free to step inside and review my current prices...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Welkom in %bag_shop%, &lt;player&gt;. Het is een eer om je te ontmoeten en ik hoop dat onze vennootschap lang zal duren en veel vruchten zal afwerpen. Als dank voor de voorproefjes die je hebt meegenomen, heb ik een nieuw recept voor je: %m09%. Je bent altijd welkom om mijn huidige prijzen te bekijken.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_11_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">%trav_07% led me to believe that you would be arriving with 100 cases of example product for me...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%trav_07% vertelde me dat je me 100 dozen van je producten zou geven...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_11_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You have been given instructions by %trav_07% to deliver 50 cases of %m08% and 50 cases of %c09% to %bag_shopkeep%, who you will find at %bag_shop% in %baghdad%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%trav_07% heeft je opgedragen om 50 dozen %m08% en 50 dozen %c09% aan %bag_shopkeep% te geven. Je vindt hem in %bag_shop% in %baghdad%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_12</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">An Iraqi Shop?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Een winkel in Irak?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_12_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Now then, I have been looking for someone to team up with here at my shop. If you are willing to do a couple of things for me, I would be eager to take you on as a partner. Are you interested?</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik zoek iemand die mijn winkel kan overnemen. Als je een paar dingen voor me doet, wil ik dolgraag een vennootschap met je aan. Ben je geïnteresseerd?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_12_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Excellent. First, take 200 cases of %m09% - the recipe I myself gave to you - to my colleague %bag_towerkeep% at %bag_tower% here in town. He will exchange the goods for another recipe, and provide further instructions...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Uitstekend. Breng eerst 200 dozen %m09% naar mijn collega %bag_towerkeep% in de %bag_tower% hier in de stad. Het recept heb je al van me gekregen. Hij zal de goederen met je ruilen voor een ander recept en je verdere instructies geven.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_12_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Convey 200 cases of %m09% to %bag_towerkeep% at %bag_tower% in %baghdad%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng 200 dozen %m09% naar %bag_towerkeep% in de %bag_tower% in %baghdad%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_12_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I think you will make a great partner for my friend Abrahem, &lt;player&gt;. Here is another valuable recipe - for %m11%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Volgens mij zou jij de perfecte vennoot zijn voor mijn vriend Abrahem, &lt;player&gt;. Hier heb ik nog een waardevol recept voor je, voor %m11%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_12_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">%trav_07% led me to believe that you would be arriving with 200 cases of example product for me...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%trav_07% vertelde me dat je langs zou komen met 200 dozen voorproefjes voor me.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_12_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You have been given instructions by %trav_07% to deliver 50 cases of %m08% and 50 cases of %c09% to %bag_shopkeep%, who you will find at %bag_shop% in %baghdad%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">%trav_07% heeft je opgedragen om 50 dozen %m08% en 50 dozen %c09% aan %bag_shopkeep% te geven. Je vindt hem in %bag_shop% in %baghdad%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_13</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Your Iraqi Shop!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je winkel in Irak!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_13_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">All you have to do is bring 200 cases of those %m11%, as well as 50 cases each of your &lt;user4&gt;, &lt;user5&gt;, and &lt;user6&gt; to %bag_shop% and Abrahem will be willing to sign the shop over to your control.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je hoeft alleen maar 200 dozen %m11% en 50 dozen &lt;user4&gt;, &lt;user5&gt; en &lt;user6&gt; aan %bag_shop% te leveren en Abrahem zal de winkel aan je overdragen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_13_summary</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Bring 200 cases of %m11% and 50 cases each of &lt;user4&gt;, &lt;user5&gt; and &lt;user6&gt; to %bag_shop%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Breng 200 dozen %m11% en 50 dozen &lt;user4&gt;, &lt;user5&gt; en &lt;user6&gt; naar %bag_shop%.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_13_complete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;player&gt;, your creations are delicious. It is my pleasure to hand over the keys to this shop - we are partners now, and you will always be offered the very best prices for your coffee creations here. I look forward to doing much business together!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">&lt;player&gt;, je creaties zijn heerlijk. Het is me een genoegen de sleutels van de winkel aan je over te dragen. We zijn nu partners en ik bied je van nu af aan de beste prijzen voor je koffiecreaties. Ik kijk er enorm naar uit om met je samen te werken!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_13_incomplete</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I am eager to take you on as my partner, but there were certain products I was waiting to receive from you, &lt;player&gt;...</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik wil je graag als vennoot, maar ik wacht nog op een paar producten van je, &lt;player&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank3_13_hint</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">In order to take ownership of %bag_shop% in %baghdad%, you must show up with 200 cases of %m11%, as well as 50 cases each of &lt;user4&gt;, &lt;user5&gt; and &lt;user6&gt; for %bag_shopkeep%.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Om %bag_shop% in %baghdad% over te kunnen nemen, moet je 200 dozen %m11% en 50 dozen &lt;user4&gt;, &lt;user5&gt; en &lt;user6&gt; aan %bag_shopkeep% geven.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">ugr_04_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">I am proud of how well you are doing with exotics, &lt;player&gt;. I have petitioned the Board, and they have agreed. We'd like to give you another 2 spaces in the recipe book for you own creations. Use them wisely!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ik ben trots op de manier waarop je met de exotica omgaat, &lt;player&gt;. Het bestuur is het met me eens, dus je krijgt nog twee extra vakjes in het receptenboek voor je eigen creaties. Gebruik ze verstandig!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">ugr_05_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">The rest of the Board and I are very pleased with the success you've had to date with expanding the business to include blends. It is my pleasure to report that we have decided to grant you another opportunity to create your own recipe, which you will be able to do as soon as you next make your way to the Secret Test Kitchen.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Het bestuur en ik zijn erg tevreden over je succes tot nu toe en met de uitbreiding van het assortiment naar koffiemixen. Daarom doet het me deugd je te kunnen vertellen dat je nog een eigen recept mag maken als je weer naar de Geheime Proefkeuken gaat.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">ugr_06_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">You have smoothly folded the manufacture and marketing of exotic chocolates into your repertoire, &lt;player&gt;. I am pleased to announce that the board has opened up another couple of spaces for you in the recipe book. Good stuff!</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Je hebt de productie en marketing van exotische chocola uitstekend aangepakt, &lt;player&gt;. Ik kan je dus mededelen dat het bestuur een paar nieuwe vakjes voor je heeft gereserveerd in het receptenboek. Goed gedaan!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank4_promo_prompt_offer</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, %main_alex% is excited about the endorsements you have earned, and is eager to speak with you. I will let her know that I ran into you; expect to see her on your travels shortly...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">&lt;player&gt;, %main_alex% is erg blij nu je de steun van alle bestuursleden hebt verdiend en ze wil je graag spreken. Ik zal tegen haar zeggen dat ik je tegenkwam, dan kruist ze binnenkort je pad.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank4_promo_offer</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Ah, there you are! Good news, &lt;player&gt;. The rest of the board and I are most pleased with all you have accomplished to date. As you know, you have been endorsed by all of the other board members.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Daar ben je! Ik heb goed nieuws, &lt;player&gt;. De rest van het bestuur en ik zijn tevreden met alles wat je tot nu toe hebt bereikt. Je hebt nu de steun verdiend van alle bestuursleden.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank4_promo_extra01</Data></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">We have been particularly impressed with your abilities to create your own recipes, and therefore feel that you are more than able to grow our company. You are now officially the %rank_4% of Baumeister Confections - a title well earned. We are also pleased to reward you with 2 additional recipe book spaces.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">We zijn bijzonder onder de indruk van je eigen recepten en denken daarom dat jij de aangewezen persoon bent om ons bedrijf te leiden. Je bent nu officieel de %rank_4% van Baumeister Confections en je hebt het verdiend! We kunnen je ook nog eens blij maken met twee nieuwe vakjes in het receptenboek.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell ss:StyleID="s22"><Data ss:Type="String">rank4_promo_complete</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">For my part, Sean is alive. We've got some work to do to rescue him, and I trust you are prepared to help me out. I will keep you posted.&lt;br&gt;&lt;br&gt;You'll want to make sure to use those spaces and create good recipes - you'll be needing those confections soon...</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Voor zover ik weet, is Sean nog in leven. Er moet nog veel gebeuren voor we hem kunnen redden, maar ik weet zeker dat jij me wel wilt helpen. Ik hou je op de hoogte.&lt;br&gt;&lt;br&gt;Gebruik die extra vakjes en maak goede recepten, je zult ze binnenkort hard nodig hebben...</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -6,10 +6,11 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>Citizen Comrade</LastAuthor>
+  <Author>Thorvald</Author>
+  <LastAuthor>Rutger Smit</LastAuthor>
   <Created>2006-09-28T01:58:38Z</Created>
-  <LastSaved>2007-10-24T13:36:05Z</LastSaved>
-  <Version>11.8132</Version>
+  <LastSaved>2008-05-23T16:05:20Z</LastSaved>
+  <Version>11.5606</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <DownloadComponents/>
@@ -45,10 +46,6 @@
    <Font x:Family="Swiss"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s24">
-   <Font x:Family="Swiss" ss:Color="#000000"/>
-   <Interior/>
-  </Style>
   <Style ss:ID="s25">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Font x:Family="Swiss" ss:Color="#000000"/>
@@ -75,11 +72,35 @@
    <Borders/>
    <Interior/>
   </Style>
-  <Style ss:ID="s32">
+  <Style ss:ID="s34">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s35">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s36">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s37">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s38">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Font x:Family="Swiss" ss:Color="#000000"/>
   </Style>
-  <Style ss:ID="s33">
-   <Alignment ss:Vertical="Bottom"/>
+  <Style ss:ID="s39">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders/>
    <Interior/>
    <NumberFormat/>
@@ -93,7 +114,7 @@
   <Table ss:ExpandedColumnCount="256" ss:ExpandedRowCount="175" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s21">
    <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="173.25"/>
-   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="639.75"/>
+   <Column ss:StyleID="s37" ss:AutoFitWidth="0" ss:Width="639.75"/>
    <Column ss:Index="4" ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="94.5"/>
    <Row>
     <Cell ss:StyleID="s22"/>
@@ -101,7 +122,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">sf_bchqkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Joseph Tangye</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Joseph Tangye</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">traveler16</Data></Cell>
@@ -109,7 +130,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">villain01</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Christoph Moreno</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Christoph Moreno</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s23"><Data ss:Type="String">villain02</Data></Cell>
@@ -125,23 +146,23 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ab_farmkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Genevieve Diabate</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Genevieve Diabate</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ab_marketkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Angele Assamoua</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Angele Assamoua</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ab_villagekeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Khadi Diallo</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Khadi Diallo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">am_hutkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Pentibo</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Pentibo </Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ba_marketkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Veronica Garcia</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Veronica Garcia</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ba_shopkeep</Data></Cell>
@@ -153,35 +174,35 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ba_teatrokeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Ernesto Agote</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Ernesto Agote</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ba_avenidakeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Antonio Batista</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Antonio Batista</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ba_obeliscokeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Karina Osorio</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Karina Osorio</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">bom_marketkeep</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Asha Patel</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Asha Patel</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">bom_shopkeep</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Sivaraman Tilak</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Sivaraman Tilak</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">bom_other1keep</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Shobha Mudaliar</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Shobha Mudaliar</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">bom_other2keep</Data></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">Chandra Shenoy</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Chandra Shenoy</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ca_marketkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Nadav Charobim</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Nadav Charobim</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ca_shopkeep</Data></Cell>
@@ -189,23 +210,23 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ca_pyramidskeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Mustafa Helal</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Mustafa Helal </Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ca_citadelkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Corazon Reyes</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Corazon Reyes</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ca_nilekeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Sheriti Awadallah</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Sheriti Awadallah</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ca_bridgekeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Taahira Houwari</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Taahira Houwari</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ca_gatekeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Banafrit Alguzey</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Banafrit Alguzey</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">cas_marketkeep</Data></Cell>
@@ -217,7 +238,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">cas_otherkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Amar Tashfin</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Amar Tashfin</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s25"><Data ss:Type="String">cay_hotelkeep</Data></Cell>
@@ -229,7 +250,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">cay_marketkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Ezdehar Benaguida</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Ezdehar Benaguida</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">cay_isleskeep</Data></Cell>
@@ -245,15 +266,15 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">fiji_hutkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Sarojini Siwatibau</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Sarojini Siwatibau</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">him_palacekeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Tashi Goreng</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Tashi Goreng</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">him_hutkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Lhamu</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Lhamu </Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">him_mountainkeep</Data></Cell>
@@ -261,15 +282,15 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ja_farmkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Santoso Devi</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Santoso Devi</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ja_marketkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Merpati Pembayun</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Merpati Pembayun</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ja_otherkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Kersen Chandrawinata</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Kersen Chandrawinata</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ma_farmkeep</Data></Cell>
@@ -293,23 +314,23 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">man_otherkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Luz Yasay</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Luz Yasay</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">mos_marketkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Dariya Yaramenkova</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Dariya Yaramenko</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">mos_shopkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Agnessa Hadonova</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Agnessa Hadonov</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">mos_barkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Radslav Pyshkin</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Radslav Pyshkin</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">mos_otherkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Alfredo Gamata</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Alfredo Gamata</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ny_marketkeep</Data></Cell>
@@ -317,15 +338,15 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ny_shopkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Loudon Trilling</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Loudon Trilling</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ny_factorykeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Trevor Bonfilio</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Trevor Bonfilio</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s26"><Data ss:Type="String">ny_librarykeep</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Nicholas Schäfer</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Nicholas Schaeffer</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s26"><Data ss:Type="String">ny_barkeep</Data></Cell>
@@ -333,27 +354,27 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">pa_marketkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Angélique Durand</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Angelique Durand</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">pa_shopkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Marjolaine Calvados</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Marjolaine Calvados</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">pa_moulinkeep</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Hernán Velázquez</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Hernan Velazquez</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">pa_towerkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Yves Lagasse</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Yves Lagasse</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">pa_notredamekeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Émile Fournier</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Emile Fournier</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">pa_cafekeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">François Moreau</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Francois Moreau</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">pa_factorykeep</Data></Cell>
@@ -627,7 +648,7 @@
    </Row>
    <Row>
     <Cell><Data ss:Type="String">sf_factorykeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Ilya Bajanov</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Ilya Bajanov</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s26"><Data ss:Type="String">sf_barkeep</Data></Cell>
@@ -639,27 +660,27 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">sh_shopkeep</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Frida Sánchez</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Frida Sanchez</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">sh_marketkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Zhang Wan</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Zhang Wan</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">sh_factorykeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Zachariah Quigley</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Zachariah Quigley</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">sh_bundkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Li Shen</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Li Shen</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">sh_sassoonkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Ba Xun</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Ba Xun</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">sh_hotelkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Ying Rongji</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Ying Rongji</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">sj_farmkeep</Data></Cell>
@@ -675,11 +696,11 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">sj_otherkeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Claudia Elquez</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Claudia Elquez</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">syd_marketkeep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Carlyn Petersham</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Carlyn Petersham</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">syd_shopkeep</Data></Cell>
@@ -687,7 +708,7 @@
    </Row>
    <Row>
     <Cell><Data ss:Type="String">syd_factorykeep</Data></Cell>
-    <Cell ss:StyleID="s32"><Data ss:Type="String">Mahakuli Kannangara</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">Mahakuli Kannangara</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">syd_other1keep</Data></Cell>
@@ -695,7 +716,7 @@
    </Row>
    <Row>
     <Cell><Data ss:Type="String">syd_other2keep</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Elena Tangye</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Elena Tangye</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"/>
@@ -711,15 +732,15 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler03</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Wally Hammersmith</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Wally Hammersmith</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler04</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Rufus Loddington</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Rufus Loddington</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler05</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Lastri Rajapatni</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Lastri Rajapatni</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler06</Data></Cell>
@@ -727,27 +748,27 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler07</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Juan Ramón Larrosa</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Juan Ramon Larrosa</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">ab_flowerskeep</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Mariama Nana</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Mariama Nana</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler09</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Pramana Jaspadi</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Pramana Jaspadi</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler10</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Oscar Segura</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Oscar Segura</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler11</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Sam Lacy</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Sam Lacy</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler12</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Carmen Thompson</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Carmen Thompson</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler13</Data></Cell>
@@ -759,7 +780,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">traveler15</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Isabella Baumeister</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Isabella Baumeister</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">talker</Data></Cell>
@@ -795,7 +816,7 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">ny_gambler03</Data></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">Wally Hammersmith</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Wally Hammersmith</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s29"><Data ss:Type="String">ny_gambler04</Data></Cell>
@@ -811,71 +832,71 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">farm_default</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Welcome to our farm! We sell the finest locally grown cacao for your recipes that require something special.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Welkom op onze boerderij! Wij verkopen alleen de beste cacaobonen die zeer geschikt zijn voor speciale recepten.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">farm_sanjose</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Welcome to %sj_farm%. If one of your recipes calls for %sj_cacao%, you've come to the right place.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Welkom op %sj_farm%. Als je %sj_cacao% nodig hebt, ben je aan het juiste adres.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">farm_cayenne</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">The %ca_cacao% we grow here is expensive, but you'll find that the products you make with this intensely flavored bean command high prices around the world.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">De %ca_cacao% die we hier verbouwen zijn duur, maar je zult merken dat de producten die met deze boon worden gemaakt, leveren overal ter wereld hoge prijzen op.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">farm_abidjan</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">The deep, intense flavor of our unique %ab_cacao% lends an intense, memorable flavor to those recipes that require this varietal bean.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">De diepe, intense smaak van onze unieke %ab_cacao% geeft je recepten een sterke smaak die je nooit meer zult vergeten.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">farm_manila</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">You have found the only source in the world for %ph_cacao%. How many sacks would you like?</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Dit is de enige plek ter wereld waar %ph_cacao% wordt verkocht. Hoeveel zakken wil je hebben?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">farm_jakarta</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Our product is indeed expensive, but you'd be hard pressed to find a more robust cacao anywhere on earth.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ons product is inderdaad duur, maar betere cacao is bijna niet te vinden.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">farm_mahajanga</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Our fresh %ma_cacao% is used in some of the world's finest chocolates. How much are you interested in purchasing today?</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Onze verse %ma_cacao% wordt voor de beste chocolade gebruikt. Hoeveel wil je er hebben?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">flowers_abidjan</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">While our fresh flowers won't be of any use to you in recipes, they sure may come in handy from time to time…</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Onze verse bloemen kun je niet voor je recepten gebruiken, maar toch komen ze af en toe van pas…</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">gambler_speak01</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">I'm a gambler. I love to gamble, what can I say?</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ik ben een gokker en ik hou van gokken. Wat kan ik nog meer zeggen?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">gambler_speak02</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Gambling is in my blood. Shoot, I'll bet on just about anything!</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Gokken zit in mijn bloed. Daar verwed ik alles op!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">lender_speak01</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">I don't know what it is exactly about money, but I've always been fond of the stuff. It's not like I came from a wealthy family, but I have managed to amass a small fortune over the years.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ik weet niet hoe het komt, maar ik heb altijd al van geld gehouden. Ik kom niet uit een rijke familie, maar toch heb ik de afgelopen jaren een klein fortuin weten te vergaren.</Data></Cell>
    </Row>
-   <Row>
+   <Row ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">am_hutkeep_speak01</Data></Cell>
-    <Cell><Data ss:Type="String">My name is %am_hutkeep%. Welcome to the jungle! I sell ants, to those who can afford them. These type of edible ants are rare, hard to gather, and thus command premium pricing….</Data></Cell>
+    <Cell><Data ss:Type="String">Mijn naam is %am_hutkeep%. Welkom in de jungle! Ik verkoop mieren aan hen die het zich kunnen veroorloven. Deze eetbare mieren zijn zeldzaam en moeilijk te vangen De prijs is er dan ook naar….</Data></Cell>
    </Row>
-   <Row>
+   <Row ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">villain01_speak01</Data></Cell>
-    <Cell><Data ss:Type="String">If things go according to plan - and I don't see why they wouldn't - before too long Alexandra will be mine and I will be officially in charge of Baumeister Confections...</Data></Cell>
+    <Cell><Data ss:Type="String">Als alles volgens plan verloopt, en ik zie niet in waarom dat niet zou gebeuren, duurt het niet lang meer voordat Alexandra de mijne is en ik de leiding over Baumeister Confections heb overgenomen...</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">villain02_speak01</Data></Cell>
-    <Cell><Data ss:Type="String">Things aren't like they used to be. Seems like they'll let just about anyone make chocolate these days….</Data></Cell>
+    <Cell><Data ss:Type="String">Vroeger was alles beter. Kennelijk laten ze tegenwoordig iedereen maar chocolade maken….</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">villain03_speak01</Data></Cell>
-    <Cell><Data ss:Type="String">I hope you know what you're getting yourself into, my friend. The chocolate business is not entirely sweet…</Data></Cell>
+    <Cell><Data ss:Type="String">Ik hoop dat je weet waar je aan begint, vriend. Niet alles is koek en ei in de chocoladebusiness…</Data></Cell>
    </Row>
-   <Row>
+   <Row ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">villain04_speak01</Data></Cell>
-    <Cell><Data ss:Type="String">I represent the interests of Schokolade Weltreich, one of the most powerful chocolate makers in the world. You're not, by any chance, working for Baumeister Confections?</Data></Cell>
+    <Cell><Data ss:Type="String">Ik vertegenwoordig de belangen van Schokolade Weltreich, een van de machtigste chocolademakers ter wereld. Werk jij toevallig voor Baumeister Confections?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">ny_gambler01_speak01</Data></Cell>
-    <Cell><Data ss:Type="String">%ny_den% is no place for the faint of heart, that's for certain….</Data></Cell>
+    <Cell><Data ss:Type="String">%ny_den% is geen plek voor doetjes, dat is een ding dat zeker is….</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s22"/>
@@ -883,186 +904,189 @@
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">speak_default</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">I hope you are having a swell career as a Chocolatier, [player]!</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Ik hoop dat je carrière als chocolatier voorspoedig verloopt, [player]!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">speak_default_quest</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Good luck, [player]. Stop by when you're not so busy and we can talk a little more…</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Veel succes, [player]. Kom nog eens langs als je het minder druk hebt, dan kunnen we wat praten…</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak01</Data></Cell>
-    <Cell><Data ss:Type="String">I don't know about you, but I am craving chocolate something crazy right now.</Data></Cell>
+    <Cell><Data ss:Type="String">Ik weet niet hoe het met jou zit, maar ik heb ontzettend veel zin in chocolade.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak02</Data></Cell>
-    <Cell><Data ss:Type="String">Chocolate is derived from a fruit &#45;- so it &lt;i&gt;must&lt;/i&gt; be good for you, right?</Data></Cell>
+    <Cell><Data ss:Type="String">Chocolade is afkomstig van fruit, dus het &lt;i&gt;moet&lt;/i&gt; wel goed voor je zijn, toch?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak03</Data></Cell>
-    <Cell><Data ss:Type="String">The ideal place to store chocolate is in a dark place &#45;- like my stomach!</Data></Cell>
+    <Cell><Data ss:Type="String">Chocolade kun je het beste op een donkere plek bewaren, zoals mijn maag!</Data></Cell>
    </Row>
-   <Row>
+   <Row ss:Height="25.5">
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak04</Data></Cell>
-    <Cell><Data ss:Type="String">It was a Swedish scientist, Carl Linnaeus, who coined the Latin name for the cacao tree: Theobroma cacao, or &quot;Food of the gods.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">De Zweedse wetenschapper Carl Linnaeus heeft de Latijnse naam voor de cacaoboom bedacht: Theobroma cacao, oftewel 'Voedsel van de goden'.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak05</Data></Cell>
-    <Cell><Data ss:Type="String">It is rumored that Montezuma consumed 50 cups of chocolate a day in order to improve his sexual prowess.</Data></Cell>
+    <Cell><Data ss:Type="String">Er wordt gezegd dat Montezuma 50 bekers chocolademelk per dag dronk om zijn prestaties in bed te verbeteren.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak06</Data></Cell>
-    <Cell><Data ss:Type="String">Casanova called chocolate the 'elixir of love.' Seemed to work out pretty well for him…</Data></Cell>
+    <Cell><Data ss:Type="String">Casanova noemde chocolade het 'liefdeselixer'. Voor hem werkte het in ieder geval…</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak07</Data></Cell>
-    <Cell><Data ss:Type="String">The Marquis de Sade loved chocolate, and often requested it while in prison. Talk about bittersweet!</Data></Cell>
+    <Cell><Data ss:Type="String">De Markies de Sade was dol op chocolade, en vroeg er vaak om toen hij in de gevangenis zat. Dat is nog eens bitterzoet!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak08</Data></Cell>
-    <Cell><Data ss:Type="String">Chocolate for dessert? And how!</Data></Cell>
+    <Cell><Data ss:Type="String">Chocolade als toetje? Nou en of!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak09</Data></Cell>
-    <Cell><Data ss:Type="String">Good chocolate, good day!</Data></Cell>
+    <Cell><Data ss:Type="String">Chocolade in de morgen is een dag zonder zorgen!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak10</Data></Cell>
-    <Cell><Data ss:Type="String">Seems like everyone and her sister's got a chocolate business going these days. Of course, not everyone can be the best…</Data></Cell>
+    <Cell><Data ss:Type="String">Het lijkt wel alsof iedereen tegenwoordig chocolade maakt. Maar niet iedereen kan de beste zijn…</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak11</Data></Cell>
-    <Cell><Data ss:Type="String">As for me, I'll choose chocolate every time!</Data></Cell>
+    <Cell><Data ss:Type="String">Ik kies altijd voor chocolade!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak12</Data></Cell>
-    <Cell><Data ss:Type="String">Seems like everyone and his brother's got a chocolate factory up and running these days. Must be a good way to make dough…</Data></Cell>
+    <Cell><Data ss:Type="String">Het lijkt wel alsof iedereen tegenwoordig chocolade maakt. Er valt vast goed geld mee te verdienen…</Data></Cell>
    </Row>
-   <Row>
+   <Row ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip01</Data></Cell>
-    <Cell ss:StyleID="s33"><Data ss:Type="String">Remember to stop by all the buildings in each port that you visit &#45;- you never know what the residents may be up to or what opportunities await you.</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="String">Bezoek alle gebouwen in elke haven waar je komt, want je weet maar nooit wat de bewoners van plan zijn, en welke mogelijkheden op je liggen te wachten.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip02</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Prices at each market fluctuate based on local supply and demand, season, tastes and special conditions.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">De prijzen op elke markt zijn afhankelijk van vraag en aanbod, het seizoen, de voorkeuren van de klanten en andere omstandigheden.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip03</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">If you haggle too hard or too much, you may anger a merchant and see their prices skyrocket!</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Als je te veel of te hard onderhandelt, kan een handelaar boos worden en de prijzen verhogen!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip04</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Be sure to re-visit ports every now and again - you never know when a new building will appear, with new people to meet inside.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Bezoek havens zo nu en dan opnieuw - je weet maar nooit of er ineens een nieuw gebouw staat, met nieuwe mensen die je kunt ontmoeten.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip05</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Owning shops is a great way to grow your business - the shops you own will always offer you premium pricing for your wares.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Het kopen van winkels is een goede manier om je zaken uit te breiden. De winkels die je bezit, geven je altijd de beste prijs voor je producten.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip06</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Keep your offerings fresh and prices will remain high. Bore your customers and you may see your profits take a dive.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Varieer je producten om een goede prijs te krijgen. Als je klanten te veel van hetzelfde krijgen, neemt je winst af.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip07</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Make chocolates as often as you like, but keep in mind that each factory run takes up a week that you could spend sourcing new ingredients, selling confections, and charting new paths for your business...</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Maak zo vaak je wilt zelf chocolade, maar bedenk dat de productie een week duurt. In die week had je ook nieuwe ingrediënten kunnen zoeken, producten kunnen verkopen en nieuwe markten voor je bedrijf kunnen aanboren...</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip08</Data></Cell>
-    <Cell ss:StyleID="s27"><Data ss:Type="String">Be careful, [player]. Not everyone around here is to be trusted.</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Wees voorzichtig, [player]. Niet iedereen hier is te vertrouwen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip09</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">It's hard to know who's on the up and up these days. The competition between chocolatiers has become so fierce, I guess it's understandable that certain people resort to less, how shall we say, &lt;i&gt;straightforward&lt;/i&gt; ways of doing business.</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Het is tegenwoordig lastig om te zien wie er goede zaken doet. De concurrentie tussen chocolatiers is hevig en het is dan ook te begrijpen dat sommige mensen hun toevlucht nemen tot &lt;i&gt;minder eerlijke&lt;/i&gt; manieren van zakendoen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip10</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">Once you've acquired it, don't forget to  stop by the Chocolates Tasting Lab regularly to see what new concoctions you may be able to develop.</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Ga regelmatig bij je chocoladelaboratorium langs om te zien wat voor nieuwe producten je kunt ontwikkelen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip11</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">Certain ingredients are seasonal. This means that you'll find dramatically better pricing for these goods when they're in season. You'll still be able to get a hold of them out of season, but you'll pay a lotta scratch for the privilege.</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Sommige ingrediënten zijn seizoensgebonden. Deze ingrediënten zijn veel goedkoper tijdens bepaalde seizoenen. Buiten het seizoen zijn ze nog steeds te krijgen, maar je betaalt er een stuk meer voor.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s27"><Data ss:Type="String">randomtip12</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">You'll only find cacao growing in the &quot;twenty-twenty&quot; zone - a narrow band between 20 degrees North and 20 degrees South of the Equator.</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Cacao groeit alleen in de 'twintig-twintig'-zone, het gebied 20 graden ten noorden en 20 graden ten zuiden van de evenaar.</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr01</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">[player], please don't tell my husband, but I actually had chocolate for breakfast this morning.</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">[player], vertel het alsjeblieft niet aan mijn man, maar ik heb vanochtend chocolade als ontbijt gegeten.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr02</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">When I was a little girl, I remember my great uncle Finn would always have a Baumeister Confections truffle for me and my sisters. I still recall those Trinidadian Cacao Almond Vanilla Truffles, they were my absolute favorites!</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Toen ik nog een klein meisje was, had mijn oudoom Finn altijd truffels van Baumeister Confections voor mij en mijn zusjes bij zich. Vooral die truffels met cacao, amandelen en vanille vergeet ik nooit meer!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr03</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">I am a large man, and large men call for large quantities of chocolates!</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Ik ben nu eenmaal groot, en grote mannen hebben grote hoeveelheden chocolade nodig!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr04</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">Howdy, [player]. I hail from the great state of Texas. Seems like everything's bigger in Texas, even the chocolate bars!</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Hallo, [player]. Ik kom uit Texas. Alles is groter in Texas, zelfs de chocoladerepen!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr05</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">I find that a few bites of chocolate can help brighten just about anyone's day!</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Na een paar happen chocolade verdwijnen alle zorgen als sneeuw voor de zon! </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr06</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">I have had many suitors, but I'm holding out for one who stirs my heart as much as a good box of chocolates. I am beginning to wonder, [player]: does such a man exist?</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Ik heb vele aanbidders gehad, maar ik wacht nog steeds op degene die mijn hart net zo weet te beroeren als een doos met chocolade. Maar ik vraag me af, [player]: bestaat zo'n man wel?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr07</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">Chocolate always reminds me of summers in Patagonia, on my grandfather's ranch. We'd wake up to the aroma of hot cocoa simmering on the old wood stove. I tell you, I can almost smell it now…</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Chocolade doet me altijd denken aan de zomers in Patagonië en de boerderij van mijn opa. We werden wakker van de geur van hete cacao die stond te pruttelen op de oude houtoven. Ik heb de geur nog steeds in mijn neus…</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr05b</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">[player], I've loved chocolate ever since I was a little girl, and I imagine I'll love it until I'm an old woman too!</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">[player], ik hou al van chocolade sinds ik een klein meisje was, en waarschijnlijk zal ik er als oude vrouw nog steeds dol op zijn!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr09</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">I was raised on a small island off the coast of Lombok, Indonesia. The varietal cacao from our region has a unique flavor, and I'm happy to report that it seems to have really tickled the fancy of high-end chocolate connoisseurs world-wide.</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Ik ben opgegroeid op een klein eiland voor de kust van het Indonesische Lombok. De cacao uit onze streek heeft een unieke smaak, en ik ben blij dat chocoladekenners van over de wereld er dol op zijn.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr10</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">I've been known to dabble in the art of chocolate making every once in a while. I kind of prefer to leave that to the experts, though, and focus my energies on tasting what they turn out.</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Ik heb me in het verleden wel eens beziggehouden met het maken van chocolade, maar nu laat ik het over aan de experts. Ik concentreer me liever op het proeven van hun creaties.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr11</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">I'm a wanderer. I have been from the lowest valleys to the highest peaks on earth and, I am here to tell you, people all over the world think chocolate is the bee's knees. You should be sitting pretty, [player].</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Ik ben een reiziger. Ik ben in de diepste dalen en op de hoogste bergen geweest, en ik kan je vertellen dat iedereen dol is op chocolade. Je gaat het maken, [player].</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr12</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">I had a fabulous auntie, [player]. Her name was Abigail Thompson, and she offered me some great advice: Eat more chocolate!</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Ik had ooit een geweldige tante, [player]. Ze heette Abigail Thompson, en ze had een goed advies: eet meer chocolade!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr13</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">Is chocolate my favorite food in the world? For crying out loud! Forget about food, it's my favorite thing in the world!</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Of chocolade mijn favoriete eten is? Wat dacht je? Ik heb niets liever dan chocolade!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_tr14</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">I've been around the block a few times, [player]. I've seen chocolatiers come and go, but you seem to really have a knack for what you're doing. Keep up the good work!</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Ik ken het klappen van de zweep, [player]. Chocolatiers komen en gaan, maar jij hebt er echt gevoel voor. Ga zo door!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_talker</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">Sure, I remember the good old days of Baumeister Confections. They use to make these Blended Cacao Raspberry Coconut Truffles, back before the turn of the century. I tell you, [player], you never tasted anything so good in all your life!</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Natuurlijk kan ik me Baumeister Confections nog herinneren. Voor de eeuwwisseling maakten ze truffels met cacao, frambozen en kokosnoot. [player], je hebt nog nooit zo iets lekkers geproefd!</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s31"><Data ss:Type="String">randomspeak_announcer</Data></Cell>
-    <Cell ss:StyleID="s31"><Data ss:Type="String">Now you're on the trolley, [player]! When it comes to making chocolate, you're the real McCoy &#45;- and don't let anybody tell you different.</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">Je doet het geweldig, [player]! Jij bent de beste chocolademaker, en niemand anders.</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
    <Print>
     <ValidPrinterInfo/>
     <HorizontalResolution>600</HorizontalResolution>
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>83</TopRowVisible>
-   <LeftColumnVisible>1</LeftColumnVisible>
+   <TopRowVisible>139</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>100</ActiveRow>
+     <ActiveRow>154</ActiveRow>
      <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
