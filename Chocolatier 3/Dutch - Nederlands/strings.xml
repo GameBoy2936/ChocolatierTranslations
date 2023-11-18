@@ -8544,7 +8544,7 @@
 					<Data ss:Type="String">recipe_noslots</Data>
 				</Cell>
 				<Cell ss:StyleID="Normal">
-					<Data ss:Type="String">YouJe hebt momenteel geen vakjes beschikbaar in je receptenboek voor je eigen recepten.&lt;br&gt;&lt;br&gt;Naarmate je voortgang boekt, krijg je van het bestuur nieuwe vakjes om nieuwe recepten te maken (en te verkopen).</Data>
+					<Data ss:Type="String">Je hebt momenteel geen vakjes beschikbaar in je receptenboek voor je eigen recepten.&lt;br&gt;&lt;br&gt;Naarmate je voortgang boekt, krijg je van het bestuur nieuwe vakjes om nieuwe recepten te maken (en te verkopen).</Data>
 				</Cell>
 				<Cell ss:Index="256" ss:StyleID="Normal"/>
 			</Row>
