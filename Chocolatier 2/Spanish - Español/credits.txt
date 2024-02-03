@@ -1,28 +1,28 @@
 +Big Splash Games
 
-*Original Game Design
+*Diseño original de juego
 Jon Blossom
 Stephen Lewis
 Michael Thornton Wyman
 
 
-*Producer
+*Productor
 Michael Thornton Wyman
 
 
-*Art Direction | *Programming
+*Dirección gráfica | *Programación
 Stephen Lewis | Jon Blossom
 ---
-*Additional Art Production
+*producción gráfica adicional
 Nikitova LLC
 Barbara Pollak
 
 
-*Music & Sound Design
+*Diseño de sonido y música
 SomaTone Interactive Audio
 
 
-*Special Thanks
+*Agradecimientos especiales
 Jefferson Dewey
 Megan McCarthy
 Brad Miller
@@ -32,35 +32,35 @@ City Lights Coffee
 ---
 +PlayFirst
 
-*Creative Director | Kenny Shea Dinkin
-*Director of Production | Craig Bocks
-*Producer | Aaron Norstad
-*Design Consultant | Michael McCormick
-*Art Director | Nick Stern
-*QA Manager | Christopher Dunn
-*QA Lead | Drew McKinney
-*Quality Assurance | Cesar Lemus,
+*Director creativo | Kenny Shea Dinkin
+*Director de Producción | Craig Bocks
+*Productor | Aaron Norstad
+*Asesor de diseño | Michael McCormick
+*Director gráfico | Nick Stern
+*Coordinador de control de calidad | Christopher Dunn
+*Líder de control de calidad | Drew McKinney
+*Control de calidad | Cesar Lemus,
  | Amy Belden, Devin Grayson,
  | Adam Gourdin
-*Marketing | Heidi Perry, Sora Bai
+*Márquetin | Heidi Perry, Sora Bai
 
-*Special Thanks
+*Agradecimientos especiales
 Tim Mensch, Brad Edelman, Maria Waters, Helen Chung,
 Teale Fristoe, Joshua Dudley, Noah Edelson, Cody Grayson
 ---
-*Congratulations and Thanks
-to our
-*Panel of Master Chocolatiers and Inventors
-for the creation of the following confections
+*Enhorabuena y gracias
+a nuestro
+*Panel de maestros chocolateros e inventores
+por la creación de las siguientes confecciones
 
-*Amazonian Fire Ants
-by Saint Dragon
+*Hormigas de fuego amazónicas
+por Saint Dragon
 
-*Sweet and Spicy Truffles
-by Tintagel70
+*Trufas dulce y picantes
+por Tintagel70
 
-*Gingered Pumpkin Pralines
-by Lattegato
+*Praliné de calabaza y jengibre
+por Lattegato
 
-and thanks to everyone else who submitted
-recipes of their own!
+¡Y gracias a todos los demás que enviaron
+recetas propias!
