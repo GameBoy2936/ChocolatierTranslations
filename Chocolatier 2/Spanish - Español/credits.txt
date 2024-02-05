@@ -1,6 +1,6 @@
 +Big Splash Games
 
-*Diseño original de juego
+*Disenno original de juego
 Jon Blossom
 Stephen Lewis
 Michael Thornton Wyman
@@ -10,15 +10,15 @@ Michael Thornton Wyman
 Michael Thornton Wyman
 
 
-*Dirección gráfica | *Programación
+*Direccion grafica | *Programacion
 Stephen Lewis | Jon Blossom
 ---
-*producción gráfica adicional
+*Produccion grafica adicional
 Nikitova LLC
 Barbara Pollak
 
 
-*Diseño de sonido y música
+*Disenno de sonido y musica
 SomaTone Interactive Audio
 
 
@@ -33,16 +33,16 @@ City Lights Coffee
 +PlayFirst
 
 *Director creativo | Kenny Shea Dinkin
-*Director de Producción | Craig Bocks
+*Director de Produccion | Craig Bocks
 *Productor | Aaron Norstad
-*Asesor de diseño | Michael McCormick
-*Director gráfico | Nick Stern
+*Asesor de disenno | Michael McCormick
+*Director grafico | Nick Stern
 *Coordinador de control de calidad | Christopher Dunn
-*Líder de control de calidad | Drew McKinney
+*Lider de control de calidad | Drew McKinney
 *Control de calidad | Cesar Lemus,
  | Amy Belden, Devin Grayson,
  | Adam Gourdin
-*Márquetin | Heidi Perry, Sora Bai
+*Marquetin | Heidi Perry, Sora Bai
 
 *Agradecimientos especiales
 Tim Mensch, Brad Edelman, Maria Waters, Helen Chung,
@@ -51,16 +51,16 @@ Teale Fristoe, Joshua Dudley, Noah Edelson, Cody Grayson
 *Enhorabuena y gracias
 a nuestro
 *Panel de maestros chocolateros e inventores
-por la creación de las siguientes confecciones
+por la creacion de las siguientes confecciones
 
-*Hormigas de fuego amazónicas
+*Hormigas de fuego amazonicas
 por Saint Dragon
 
 *Trufas dulce y picantes
 por Tintagel70
 
-*Praliné de calabaza y jengibre
+*Praline de calabaza y jengibre
 por Lattegato
 
-¡Y gracias a todos los demás que enviaron
+¡Y gracias a todos los demas que enviaron
 recetas propias!
