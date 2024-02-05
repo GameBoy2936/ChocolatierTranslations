@@ -37,8 +37,8 @@ City Lights Coffee
 *Productor | Aaron Norstad
 *Asesor de disenno | Michael McCormick
 *Director grafico | Nick Stern
-*Coordinador de control de calidad | Christopher Dunn
-*Lider de control de calidad | Drew McKinney
+*Coord. ctrl. calidad | Christopher Dunn
+*Lider ctrl. calidad | Drew McKinney
 *Control de calidad | Cesar Lemus,
  | Amy Belden, Devin Grayson,
  | Adam Gourdin
