@@ -1,28 +1,28 @@
 +Big Splash Games
 
-*Original Game Design
+*Disenno original de juego
 Jon Blossom
 Stephen Lewis
 Michael Thornton Wyman
 
 
-*Producer
+*Productor
 Michael Thornton Wyman
 
 
-*Art Direction | *Programming
+*Direccion grafica | *Programacion
 Stephen Lewis | Jon Blossom
 ---
-*Additional Art Production
+*Produccion grafica adicional
 Nikitova LLC
 Barbara Pollak
 
 
-*Music & Sound Design
+*Disenno de sonido y musica
 SomaTone Interactive Audio
 
 
-*Special Thanks
+*Agradecimientos especiales
 Jefferson Dewey
 Megan McCarthy
 Brad Miller
@@ -32,35 +32,35 @@ City Lights Coffee
 ---
 +PlayFirst
 
-*Creative Director | Kenny Shea Dinkin
-*Director of Production | Craig Bocks
-*Producer | Aaron Norstad
-*Design Consultant | Michael McCormick
-*Art Director | Nick Stern
-*QA Manager | Christopher Dunn
-*QA Lead | Drew McKinney
-*Quality Assurance | Cesar Lemus,
+*Director creativo | Kenny Shea Dinkin
+*Director de Produccion | Craig Bocks
+*Productor | Aaron Norstad
+*Asesor de disenno | Michael McCormick
+*Director grafico | Nick Stern
+*Coord. ctrl. calidad | Christopher Dunn
+*Lider ctrl. calidad | Drew McKinney
+*Control de calidad | Cesar Lemus,
  | Amy Belden, Devin Grayson,
  | Adam Gourdin
-*Marketing | Heidi Perry, Sora Bai
+*Marquetin | Heidi Perry, Sora Bai
 
-*Special Thanks
+*Agradecimientos especiales
 Tim Mensch, Brad Edelman, Maria Waters, Helen Chung,
 Teale Fristoe, Joshua Dudley, Noah Edelson, Cody Grayson
 ---
-*Congratulations and Thanks
-to our
-*Panel of Master Chocolatiers and Inventors
-for the creation of the following confections
+*Enhorabuena y gracias
+a nuestro
+*Panel de maestros chocolateros e inventores
+por la creacion de las siguientes confecciones
 
-*Amazonian Fire Ants
-by Saint Dragon
+*Hormigas de fuego amazonicas
+por Saint Dragon
 
-*Sweet and Spicy Truffles
-by Tintagel70
+*Trufas dulce y picantes
+por Tintagel70
 
-*Gingered Pumpkin Pralines
-by Lattegato
+*Praline de calabaza y jengibre
+por Lattegato
 
-and thanks to everyone else who submitted
-recipes of their own!
+¡Y gracias a todos los demas que enviaron
+recetas propias!
