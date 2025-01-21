@@ -12531,7 +12531,7 @@
 					<Data ss:Type="String">c05_desc</Data>
 				</Cell>
 				<Cell ss:StyleID="Normal">
-					<Data ss:Type="String">Een heerlijke combinatie in je eigen koffiekop. Met chocolade-essentie! </Data>
+					<Data ss:Type="String">Een heerlijke combinatie in je eigen koffiekop. Met chocolade-essentie!</Data>
 				</Cell>
 				<Cell ss:Index="256" ss:StyleID="Normal"/>
 			</Row>
@@ -13738,7 +13738,7 @@
 					<Data ss:Type="String">lim_mountain</Data>
 				</Cell>
 				<Cell ss:StyleID="ce1">
-					<Data ss:Type="String">Piek van Alpamayo </Data>
+					<Data ss:Type="String">Piek van Alpamayo</Data>
 				</Cell>
 				<Cell ss:Index="256" ss:StyleID="Normal"/>
 			</Row>
@@ -15124,7 +15124,7 @@
 					<Data ss:Type="String">bag_xxxxkeep</Data>
 				</Cell>
 				<Cell ss:StyleID="Normal">
-					<Data ss:Type="String">Shatha Aboubakr </Data>
+					<Data ss:Type="String">Shatha Aboubakr</Data>
 				</Cell>
 				<Cell ss:Index="256" ss:StyleID="Normal"/>
 			</Row>
