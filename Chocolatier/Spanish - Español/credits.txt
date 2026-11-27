@@ -1,31 +1,31 @@
-﻿
+
 
 Big Splash Games
 
 
-[Original Game Design]
+[DiseÃ±o original del juego]
 Jon Blossom
 Stephen Lewis
 Michael Thornton Wyman
 
 
-[Producer]
+[Productor]
 Michael Thornton Wyman
 
 
-[Art Direction] | [Programming]
+[DirecciÃ³n de arte] | [ProgramaciÃ³n]
 Stephen Lewis | Jon Blossom
 
 
 
-[Additional Art Production]
+[ProducciÃ³n de arte adicional]
 Nikitova LLC
 Barbara Pollak
 
-[Audio and Music]
+[Audio y mÃºsica]
 SomaTone Interactive Audio
 
-[Special Thanks]
+[Agradecimientos especiales]
 Anita Goriely
 Norma Mendoza-Denton
 Brad Miller
@@ -38,19 +38,19 @@ Leisy Thornton Wyman
 
 PlayFirst
 
-[Executive Producer] Kenny Dinkin
-[Senior Producer] Craig Bocks
-[Producer] Aaron Norstad
-[Design Consultant] Michelle Woods
-[Marketing Manager] Larissa McCleary
-[Lead Quality Assurance] Christopher Dunn
+[Productor ejecutivo] Kenny Dinkin
+[Productor principal] Craig Bocks
+[Productor] Aaron Norstad
+[Asesor de diseÃ±o] Michelle Woods
+[Responsable de mÃ¡rquetin] Larissa McCleary
+[Responsable de control de calidad] Christopher Dunn
 
-[Quality Assurance]
+[Control de calidad]
 Rebekah Cunningham, Adam Gourdin
 Amy Belden, Devin Grayson
 
-[Special Thanks]
+[Agradecimientos especiales]
 Nick Stern, Tim Mensch
 
 
-Copyright (c) 2007 PlayFirst, Inc. All Rights Reserved.
+Copyright (c) 2007 PlayFirst, Inc. Todos los derechos reservados.
